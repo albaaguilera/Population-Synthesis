@@ -9,14 +9,17 @@ The final selected synthetic population for Barcelona can be downloaded and info
 This repository is based on methods from Aguilera et al. (2024) [1].
 
 ## Structure
-The github repository contains the following folders: 
-1. **Data** input information we use to construct the BNs.
-   - data_treated.py: cleans and harmonize the csv datasets.
+The github repository contains the following folders and files: 
+1. **Data** input information we use to construct the BN structures
+   - data_treated.py: clean and harmonize the csv datasets.
 3. **Models** construction of the BN structures (learnt, knowledge-based and hybrid)
    - create_knowledgebased.py
    - create_learnt.ipnyb
    - create_hybrid.py
-5. **Results** output of the models.
+   - knowledgebased_model.pgmx
+   - learnt_model.pgmx
+   - hybrid_model.pgmx
+5. **Results** output of the BN structures and validation of these samples
    - *samples*: synthetic populations generated with each model created.
    - *validation*: analysis to validate the synthetic populations (Wasserstein distances, regression lines and SRMSE).
 
