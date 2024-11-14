@@ -6,7 +6,9 @@ The final selected synthetic population for Barcelona can be downloaded and info
 - [Download Synthetic_Population_Barcelona_2024.csv](https://github.com/albaaguilera/Population-Synthesis/blob/main/Synthetic_Population_Barcelona_2024.csv)
 - [Visualize Attribute Documentation](https://github.com/albaaguilera/Population-Synthesis/raw/main/attribute_documentation.html)
 
-## STRUCTURE
+This repository is based on methods from Aguilera et al. (2024) [1].
+
+## Structure
 The github repository contains the following folders: 
 1. **Data** input information we use to construct the BNs.
    - data_treated.py: cleans and harmonize the csv datasets.
@@ -17,9 +19,7 @@ The github repository contains the following folders:
 5. **Results** synthetic samples generated in the cluster.
 6. **Validation** functions to validate the synthetic populations (Wasserstein distances, regression lines and SRMSE).
 
-This repository is based on methods from Aguilera et al. (2024) [1].
-
 ## References
 
-1. Smith, J., Doe, A., & Johnson, L. (2020). *Title of the paper*. Journal Name, 10(2), 123-456. DOI: [10.1234/example](https://doi.org/10.1234/example)
+1. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2024). *Value-Enriched Population Synthesis: Integrating a Motivational Layer*. arXiv preprint arXiv:2408.09407. 
 
