@@ -1,0 +1,952 @@
+﻿﻿Codi Província;Nom Província;Codi Vegueria;Nom Vegueria;Codi Comarca;Nom Comarca;Codi Municipi;Nom Municipi;Població;Cens;Participació 13:00;Participació 18:00;Participació 20:00;Abstenció;Vots nuls;Vots en blanc;Vots a candidatures;Vots vàlids
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25001;Abella de la Conca;183;134;25;48;62;72;0;2;60;62
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08001;Abrera;12538;9262;2309;4263;4966;4296;66;42;4858;4900
+25;Lleida;4;Lleida;23;Noguera;25002;Àger;580;457;131;223;301;156;6;4;291;295
+25;Lleida;4;Lleida;38;Urgell;25003;Agramunt;5411;3733;926;1743;2053;1680;37;38;1978;2016
+8;Barcelona;2;Catalunya Central;7;Bages;08002;Aguilar de Segarra;282;218;77;145;170;48;1;1;168;169
+17;Girona;3;Girona;2;Alt Empordà;17001;Agullana;863;596;201;351;393;203;14;5;374;379
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08014;Aiguafreda;2512;2048;456;975;1230;818;15;15;1200;1215
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43001;Aiguamúrcia;930;739;193;381;404;335;7;5;392;397
+17;Girona;3;Girona;20;Gironès;17002;Aiguaviva;765;600;188;393;446;154;6;0;440;440
+25;Lleida;4;Lleida;33;Segrià;25038;Aitona;2567;1416;426;741;902;514;17;15;870;885
+25;Lleida;4;Lleida;33;Segrià;25004;Alamús, els;811;566;189;319;364;202;11;5;348;353
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25005;Alàs i Cerc;320;262;72;153;167;95;0;4;163;167
+25;Lleida;4;Lleida;18;Garrigues;25006;Albagés, l';361;315;126;172;201;114;9;3;189;192
+17;Girona;3;Girona;2;Alt Empordà;17003;Albanyà;155;112;33;70;77;35;0;0;77;77
+25;Lleida;4;Lleida;33;Segrià;25007;Albatàrrec;2236;1399;214;662;742;657;22;9;711;720
+25;Lleida;4;Lleida;23;Noguera;25008;Albesa;1561;1089;274;551;625;464;6;10;609;619
+25;Lleida;4;Lleida;18;Garrigues;25009;Albi, l';744;594;180;361;413;181;4;8;401;409
+43;Tarragona;8;Penedès;12;Baix Penedès;43002;Albinyana;2468;1933;447;761;849;1084;22;2;825;827
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43003;Albiol, l';500;357;99;167;190;167;2;5;183;188
+17;Girona;3;Girona;10;Baix Empordà;17004;Albons;759;558;204;325;376;182;5;2;369;371
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43004;Alcanar;9434;6381;1347;2481;2941;3440;58;26;2857;2883
+25;Lleida;4;Lleida;33;Segrià;25010;Alcanó;238;194;59;109;131;63;2;0;129;129
+25;Lleida;4;Lleida;33;Segrià;25011;Alcarràs;9707;5289;1181;2182;2512;2777;51;38;2423;2461
+25;Lleida;4;Lleida;33;Segrià;25012;Alcoletge;3435;2383;585;1047;1192;1191;33;18;1141;1159
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43005;Alcover;5144;3681;777;1526;1825;1856;30;20;1775;1795
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43904;Aldea, l';4147;2851;688;963;1188;1663;42;14;1132;1146
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43006;Aldover;905;686;168;291;358;328;10;2;346;348
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43007;Aleixar, l';893;665;179;365;412;253;2;3;407;410
+8;Barcelona;1;Barcelona;21;Maresme;08003;Alella;9904;7246;1892;3696;4531;2715;43;35;4453;4488
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43008;Alfara de Carles;376;314;64;100;121;193;3;1;117;118
+25;Lleida;4;Lleida;33;Segrià;25013;Alfarràs;2765;2072;518;916;1071;1001;10;15;1046;1061
+25;Lleida;4;Lleida;33;Segrià;25014;Alfés;297;250;88;151;168;82;4;0;164;164
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43009;Alforja;1783;1417;383;688;800;617;12;7;781;788
+25;Lleida;4;Lleida;23;Noguera;25015;Algerri;404;347;119;192;212;135;3;0;209;209
+25;Lleida;4;Lleida;33;Segrià;25016;Alguaire;3029;2074;570;960;1125;949;18;13;1094;1107
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25017;Alins;272;231;42;113;157;74;4;2;151;153
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43010;Alió;458;349;111;179;202;147;1;2;199;201
+25;Lleida;4;Lleida;33;Segrià;25019;Almacelles;6826;4591;915;1766;2093;2498;61;17;2015;2032
+25;Lleida;4;Lleida;33;Segrià;25020;Almatret;305;272;99;178;199;73;2;4;193;197
+25;Lleida;4;Lleida;33;Segrià;25021;Almenar;3357;2527;535;1001;1267;1260;16;9;1242;1251
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43011;Almoster;1341;1094;338;638;739;355;10;6;723;729
+25;Lleida;4;Lleida;23;Noguera;25022;Alòs de Balaguer;132;103;30;48;62;41;0;0;62;62
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17006;Alp;1593;1228;274;523;735;493;24;4;707;711
+8;Barcelona;2;Catalunya Central;24;Osona;08004;Alpens;261;212;88;150;178;34;2;3;173;176
+25;Lleida;4;Lleida;33;Segrià;25023;Alpicat;6266;4642;952;2036;2699;1943;45;29;2625;2654
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43012;Altafulla;5307;3810;1109;2072;2478;1332;40;30;2408;2438
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25024;Alt Àneu;414;366;88;166;248;118;1;1;246;247
+17;Girona;3;Girona;34;Selva;17007;Amer;2332;1788;598;1016;1128;660;26;5;1097;1102
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08005;Ametlla del Vallès, l';8646;6576;1097;3006;3912;2664;71;29;3812;3841
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43013;Ametlla de Mar, l';6866;4532;1195;1912;2406;2126;61;25;2320;2345
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43906;Ampolla, l';3277;2181;656;1015;1236;945;46;4;1186;1190
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43014;Amposta;21115;14467;3481;5764;6663;7804;208;74;6381;6455
+17;Girona;3;Girona;34;Selva;17008;Anglès;5654;3561;996;1744;1997;1564;28;13;1956;1969
+25;Lleida;4;Lleida;38;Urgell;25027;Anglesola;1365;971;319;513;569;402;6;6;557;563
+25;Lleida;4;Lleida;18;Garrigues;25029;Arbeca;2126;1581;401;785;971;610;17;5;949;954
+43;Tarragona;8;Penedès;12;Baix Penedès;43016;Arboç, l';5609;3457;906;1661;1871;1586;52;13;1806;1819
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43015;Arbolí;127;111;53;77;90;21;3;1;86;87
+17;Girona;3;Girona;34;Selva;17009;Arbúcies;6608;4109;1041;2015;2442;1667;31;22;2389;2411
+8;Barcelona;1;Barcelona;21;Maresme;08006;Arenys de Mar;15941;11821;2621;5040;6426;5395;89;48;6289;6337
+8;Barcelona;1;Barcelona;21;Maresme;08007;Arenys de Munt;9121;6931;1443;3354;3925;3006;52;36;3837;3873
+17;Girona;3;Girona;19;Garrotxa;17010;Argelaguer;396;330;99;179;210;120;2;4;204;208
+8;Barcelona;8;Penedès;6;Anoia;08008;Argençola;219;177;64;108;117;60;1;3;113;116
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43017;Argentera, l';117;116;69;91;98;18;1;0;97;97
+8;Barcelona;1;Barcelona;21;Maresme;08009;Argentona;12536;9652;2386;4712;5474;4178;62;45;5367;5412
+17;Girona;3;Girona;2;Alt Empordà;17011;Armentera, l';951;654;244;432;481;173;1;11;469;480
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43018;Arnes;444;376;173;254;306;70;15;7;284;291
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25031;Arres;60;55;8;11;29;26;0;2;27;29
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25032;Arsèguel;81;65;15;33;44;21;1;1;42;43
+8;Barcelona;2;Catalunya Central;7;Bages;08010;Artés;5762;4250;926;2110;2478;1772;35;18;2425;2443
+25;Lleida;4;Lleida;33;Segrià;25033;Artesa de Lleida;1535;1129;342;629;751;378;8;8;735;743
+25;Lleida;4;Lleida;23;Noguera;25034;Artesa de Segre;3400;2272;484;1115;1332;940;22;11;1299;1310
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43019;Ascó;1644;1297;326;558;702;595;14;7;681;688
+25;Lleida;4;Lleida;33;Segrià;25036;Aspa;220;172;68;108;122;50;1;2;119;121
+25;Lleida;4;Lleida;23;Noguera;25037;Avellanes i Santa Linya, les;433;368;93;171;201;167;4;5;192;197
+8;Barcelona;2;Catalunya Central;14;Berguedà;08011;Avià;2220;1745;472;978;1118;627;18;9;1091;1100
+8;Barcelona;2;Catalunya Central;7;Bages;08012;Avinyó;2289;1728;506;945;1078;650;12;13;1053;1066
+8;Barcelona;8;Penedès;3;Alt Penedès;08013;Avinyonet del Penedès;1697;1297;379;714;815;482;12;7;796;803
+17;Girona;3;Girona;2;Alt Empordà;17012;Avinyonet de Puigventós;1641;1211;291;622;687;524;13;2;672;674
+8;Barcelona;1;Barcelona;13;Barcelonès;08015;Badalona;223166;155351;31160;62158;71086;84265;951;522;69613;70135
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08904;Badia del Vallès;13415;10396;2116;3684;4253;6143;51;31;4171;4202
+8;Barcelona;2;Catalunya Central;14;Berguedà;08016;Bagà;2140;1789;572;900;1125;664;13;11;1101;1112
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25039;Baix Pallars;331;279;65;129;195;84;2;2;191;193
+25;Lleida;4;Lleida;23;Noguera;25040;Balaguer;17472;10686;2313;4532;5349;5337;117;57;5175;5232
+8;Barcelona;2;Catalunya Central;24;Osona;08017;Balenyà;3840;2824;578;1269;1533;1291;13;26;1494;1520
+8;Barcelona;2;Catalunya Central;7;Bages;08018;Balsareny;3192;2564;615;1117;1385;1179;17;10;1358;1368
+43;Tarragona;8;Penedès;12;Baix Penedès;43020;Banyeres del Penedès;3207;2347;568;1041;1199;1148;19;8;1172;1180
+17;Girona;3;Girona;28;Pla de l'Estany;17015;Banyoles;20053;12937;3389;6977;7984;4953;119;64;7801;7865
+25;Lleida;4;Lleida;27;Pla d'Urgell;25041;Barbens;878;523;154;242;283;240;4;10;269;279
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43021;Barberà de la Conca;471;334;114;178;208;126;6;3;199;202
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08252;Barberà del Vallès;33334;24879;4993;10799;12693;12186;203;91;12399;12490
+8;Barcelona;1;Barcelona;13;Barcelonès;08019;Barcelona;1664182;1099283;247916;519605;628002;471281;6804;4185;617013;621198
+25;Lleida;4;Lleida;23;Noguera;25042;Baronia de Rialb, la;229;202;81;128;140;62;1;1;138;139
+17;Girona;3;Girona;2;Alt Empordà;17016;Bàscara;1001;739;200;433;474;265;11;6;457;463
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25044;Bassella;217;180;65;101;130;50;3;1;126;127
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43022;Batea;1901;1430;395;672;895;535;15;10;870;880
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25045;Bausen;60;59;6;10;25;34;1;1;23;24
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08020;Begues;7300;5374;1108;2614;3400;1974;24;34;3342;3376
+17;Girona;3;Girona;10;Baix Empordà;17013;Begur;3891;2832;796;1408;1612;1220;26;17;1569;1586
+25;Lleida;4;Lleida;38;Urgell;25046;Belianes;520;408;134;228;271;137;10;4;257;261
+25;Lleida;4;Lleida;18;Garrigues;25170;Bellaguarda;287;257;76;149;186;71;0;1;185;186
+17;Girona;3;Girona;10;Baix Empordà;17018;Bellcaire d'Empordà;678;501;188;313;345;156;7;2;336;338
+25;Lleida;4;Lleida;23;Noguera;25047;Bellcaire d'Urgell;1199;946;357;573;665;281;6;10;649;659
+25;Lleida;4;Lleida;27;Pla d'Urgell;25048;Bell-lloc d'Urgell;2335;1639;387;853;1006;633;30;12;964;976
+25;Lleida;4;Lleida;23;Noguera;25049;Bellmunt d'Urgell;185;150;58;94;107;43;8;0;99;99
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43023;Bellmunt del Priorat;273;209;82;123;151;58;4;5;142;147
+8;Barcelona;8;Penedès;6;Anoia;08021;Bellprat;64;64;29;35;41;23;2;0;39;39
+25;Lleida;4;Lleida;38;Urgell;25050;Bellpuig;5218;3269;843;1499;1846;1423;21;17;1808;1825
+43;Tarragona;8;Penedès;12;Baix Penedès;43024;Bellvei;2237;1616;368;663;754;862;12;9;733;742
+25;Lleida;5;Alt Pirineu i territori d'Aran;15;Cerdanya;25051;Bellver de Cerdanya;2005;1619;376;689;995;624;29;10;956;966
+25;Lleida;4;Lleida;27;Pla d'Urgell;25052;Bellvís;2260;1555;416;876;976;579;20;10;946;956
+25;Lleida;4;Lleida;33;Segrià;25053;Benavent de Segrià;1518;1111;258;566;679;432;5;4;670;674
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43025;Benifallet;723;577;196;320;376;201;6;2;368;370
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43026;Benissanet;1140;764;247;438;502;262;8;7;487;494
+8;Barcelona;2;Catalunya Central;14;Berguedà;08022;Berga;16760;12176;2975;5657;6464;5712;93;64;6307;6371
+17;Girona;3;Girona;19;Garrotxa;17019;Besalú;2487;1801;553;1059;1174;627;24;18;1132;1150
+17;Girona;3;Girona;20;Gironès;17020;Bescanó;4991;3768;885;2060;2375;1393;23;24;2328;2352
+17;Girona;3;Girona;19;Garrotxa;17021;Beuda;186;121;40;72;79;42;3;1;75;76
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08023;Bigues i Riells;9358;7257;1571;3039;3656;3601;63;26;3567;3593
+25;Lleida;4;Lleida;32;Segarra;25055;Biosca;177;161;56;78;94;67;2;1;91;92
+17;Girona;3;Girona;10;Baix Empordà;17022;Bisbal d'Empordà, la;11159;7132;1672;3535;3948;3184;63;44;3841;3885
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43027;Bisbal de Falset, la;211;169;56;116;128;41;0;0;128;128
+43;Tarragona;8;Penedès;12;Baix Penedès;43028;Bisbal del Penedès, la;3631;2906;448;1000;1177;1729;26;5;1146;1151
+17;Girona;3;Girona;2;Alt Empordà;17234;Biure;241;183;74;104;116;67;1;2;113;115
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43029;Blancafort;382;311;110;183;219;92;6;4;209;213
+17;Girona;3;Girona;34;Selva;17023;Blanes;39914;27772;5634;11473;13313;14459;257;129;12927;13056
+17;Girona;3;Girona;2;Alt Empordà;17029;Boadella i les Escaules;272;214;98;127;137;77;0;2;135;137
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17024;Bolvir;375;335;78;158;237;98;13;2;222;224
+43;Tarragona;8;Penedès;12;Baix Penedès;43030;Bonastre;685;505;155;269;298;207;3;4;291;295
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25057;Bòrdes, es;255;222;41;70;109;113;6;2;101;103
+17;Girona;3;Girona;20;Gironès;17025;Bordils;1761;1197;432;752;841;356;12;4;825;829
+25;Lleida;4;Lleida;18;Garrigues;25058;Borges Blanques, les;6173;4375;977;1984;2432;1943;35;27;2370;2397
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43031;Borges del Camp, les;2056;1464;439;793;904;560;16;1;887;888
+17;Girona;3;Girona;2;Alt Empordà;17026;Borrassà;733;547;174;350;380;167;2;8;370;378
+8;Barcelona;2;Catalunya Central;14;Berguedà;08024;Borredà;464;363;121;203;232;131;2;4;226;230
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25059;Bossòst;1115;822;202;364;464;358;22;5;437;442
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43032;Bot;554;454;159;270;324;130;4;1;319;320
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43033;Botarell;1077;793;212;408;487;306;5;3;479;482
+25;Lleida;4;Lleida;18;Garrigues;25056;Bovera;248;207;64;107;120;87;4;7;109;116
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43034;Bràfim;695;477;147;264;303;174;5;4;294;298
+17;Girona;3;Girona;34;Selva;17027;Breda;3762;2918;765;1500;1735;1183;35;14;1686;1700
+8;Barcelona;8;Penedès;6;Anoia;08025;Bruc, el;2110;1615;300;746;884;731;13;13;858;871
+8;Barcelona;2;Catalunya Central;24;Osona;08026;Brull, el;258;201;72;136;152;49;0;2;150;152
+17;Girona;3;Girona;34;Selva;17028;Brunyola i Sant Martí Sapresa;389;293;97;163;185;108;5;1;179;180
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43035;Cabacés;302;238;66;131;164;74;9;4;151;155
+25;Lleida;4;Lleida;23;Noguera;25060;Cabanabona;71;65;11;29;37;28;1;2;34;36
+17;Girona;3;Girona;2;Alt Empordà;17031;Cabanelles;267;166;38;67;77;89;0;2;75;77
+17;Girona;3;Girona;2;Alt Empordà;17030;Cabanes;968;640;187;338;363;277;4;3;356;359
+8;Barcelona;8;Penedès;3;Alt Penedès;08027;Cabanyes, les;979;745;249;461;497;248;8;2;487;489
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25061;Cabó;93;79;20;35;47;32;1;1;45;46
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43036;Cabra del Camp;1175;901;186;335;380;521;5;4;371;375
+8;Barcelona;8;Penedès;6;Anoia;08028;Cabrera d'Anoia;1482;1153;283;471;522;631;6;6;510;516
+8;Barcelona;1;Barcelona;21;Maresme;08029;Cabrera de Mar;4747;3673;922;1959;2447;1226;40;25;2382;2407
+8;Barcelona;1;Barcelona;21;Maresme;08030;Cabrils;7432;5295;1057;2668;3360;1935;23;29;3308;3337
+17;Girona;3;Girona;2;Alt Empordà;17032;Cadaqués;2695;1793;380;777;931;862;14;15;902;917
+8;Barcelona;2;Catalunya Central;6;Anoia;08031;Calaf;3656;2313;547;1186;1360;953;32;16;1312;1328
+43;Tarragona;8;Penedès;12;Baix Penedès;43037;Calafell;27601;18877;3911;7188;8377;10500;180;72;8125;8197
+8;Barcelona;2;Catalunya Central;42;Moianès;08034;Calders;1045;837;249;513;557;280;7;4;546;550
+8;Barcelona;1;Barcelona;21;Maresme;08032;Caldes d'Estrac;3021;2169;403;982;1276;893;19;9;1248;1257
+17;Girona;3;Girona;34;Selva;17033;Caldes de Malavella;7872;5831;1219;2350;2826;3005;31;34;2761;2795
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08033;Caldes de Montbui;17812;13372;2998;6349;7433;5939;96;65;7272;7337
+8;Barcelona;1;Barcelona;21;Maresme;08035;Calella;19277;13072;2624;5910;6973;6099;99;72;6802;6874
+8;Barcelona;2;Catalunya Central;24;Osona;08037;Calldetenes;2513;1948;545;1112;1295;653;15;12;1268;1280
+8;Barcelona;2;Catalunya Central;7;Bages;08038;Callús;2129;1535;451;813;927;608;12;13;902;915
+17;Girona;3;Girona;10;Baix Empordà;17034;Calonge i Sant Antoni;11331;7395;1769;3186;3797;3598;45;33;3719;3752
+8;Barcelona;2;Catalunya Central;6;Anoia;08036;Calonge de Segarra;188;159;60;106;120;39;3;0;117;117
+25;Lleida;4;Lleida;23;Noguera;25062;Camarasa;810;691;233;385;430;261;6;3;421;424
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43903;Camarles;3194;2327;573;894;1037;1290;48;5;984;989
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43038;Cambrils;34734;22514;5088;9674;11263;11251;181;82;11000;11082
+17;Girona;3;Girona;28;Pla de l'Estany;17035;Camós;677;547;201;354;403;144;8;2;393;395
+17;Girona;3;Girona;31;Ripollès;17036;Campdevànol;3232;2634;620;1210;1487;1147;41;13;1433;1446
+17;Girona;3;Girona;31;Ripollès;17037;Campelles;140;114;39;55;74;40;1;1;72;73
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08039;Campins;541;413;142;256;290;123;5;5;280;285
+17;Girona;3;Girona;20;Gironès;17038;Campllong;537;380;127;245;281;99;12;1;268;269
+17;Girona;3;Girona;31;Ripollès;17039;Camprodon;2298;1780;458;897;1113;667;74;13;1026;1039
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25063;Canejan;89;76;21;22;32;44;0;0;32;32
+17;Girona;3;Girona;20;Gironès;17040;Canet d'Adri;729;567;200;333;371;196;3;3;365;368
+8;Barcelona;1;Barcelona;21;Maresme;08040;Canet de Mar;14865;11167;2831;5129;5901;5266;75;40;5786;5826
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43907;Canonja, la;5956;4425;980;1747;2082;2343;45;16;2021;2037
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08041;Canovelles;16829;10725;2397;4331;4837;5888;70;34;4733;4767
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08042;Cànoves i Samalús;3156;2465;566;1157;1293;1172;10;11;1272;1283
+17;Girona;3;Girona;2;Alt Empordà;17041;Cantallops;309;213;61;115;130;83;9;1;120;121
+8;Barcelona;8;Penedès;17;Garraf;08043;Canyelles;4699;3553;818;1474;1706;1847;20;21;1665;1686
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43039;Capafonts;111;103;44;60;70;33;0;0;70;70
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43040;Capçanes;392;326;138;222;250;76;2;4;244;248
+8;Barcelona;8;Penedès;6;Anoia;08044;Capellades;5342;4117;919;1824;2116;2001;35;19;2062;2081
+17;Girona;3;Girona;2;Alt Empordà;17042;Capmany;611;422;133;238;265;157;1;5;259;264
+8;Barcelona;2;Catalunya Central;14;Berguedà;08045;Capolat;84;63;22;30;41;22;0;0;41;41
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08046;Cardedeu;18424;13749;2901;6826;8052;5697;124;59;7869;7928
+8;Barcelona;2;Catalunya Central;7;Bages;08047;Cardona;4639;3668;890;1582;1912;1756;40;18;1854;1872
+8;Barcelona;8;Penedès;6;Anoia;08048;Carme;785;574;188;339;376;198;5;5;366;371
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43041;Caseres;237;204;42;87;110;94;4;1;105;106
+17;Girona;3;Girona;20;Gironès;17044;Cassà de la Selva;10410;7041;1568;3560;4145;2896;80;22;4043;4065
+8;Barcelona;2;Catalunya Central;14;Berguedà;08049;Casserres;1588;1308;386;684;773;535;11;6;756;762
+25;Lleida;2;Catalunya Central;35;Solsonès;25064;Castellar de la Ribera;131;94;34;62;74;20;1;1;72;73
+8;Barcelona;2;Catalunya Central;14;Berguedà;08050;Castellar del Riu;176;130;55;86;98;32;2;0;96;96
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08051;Castellar del Vallès;24488;18928;4636;9156;10446;8482;172;67;10207;10274
+8;Barcelona;2;Catalunya Central;14;Berguedà;08052;Castellar de n'Hug;156;142;44;80;101;41;4;1;96;97
+8;Barcelona;2;Catalunya Central;7;Bages;08053;Castellbell i el Vilar;3719;2949;595;1199;1364;1585;22;16;1326;1342
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08054;Castellbisbal;12539;9346;1928;4279;5010;4336;82;37;4891;4928
+8;Barcelona;2;Catalunya Central;42;Moianès;08055;Castellcir;742;542;162;296;340;202;5;8;327;335
+25;Lleida;4;Lleida;18;Garrigues;25067;Castelldans;930;683;176;361;398;285;9;9;380;389
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08056;Castelldefels;67460;42966;8778;18914;22403;20563;274;228;21901;22129
+8;Barcelona;2;Catalunya Central;14;Berguedà;08057;Castell de l'Areny;67;62;17;40;45;17;1;1;43;44
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25904;Castell de Mur;173;150;39;80;106;44;0;1;105;106
+8;Barcelona;8;Penedès;3;Alt Penedès;08058;Castellet i la Gornal;2382;1860;458;809;924;936;16;15;893;908
+17;Girona;3;Girona;19;Garrotxa;17046;Castellfollit de la Roca;947;713;240;379;423;290;7;8;408;416
+8;Barcelona;2;Catalunya Central;7;Bages;08059;Castellfollit del Boix;447;353;115;202;222;131;5;5;212;217
+8;Barcelona;2;Catalunya Central;6;Anoia;08060;Castellfollit de Riubregós;162;138;52;94;106;32;4;0;102;102
+8;Barcelona;2;Catalunya Central;7;Bages;08061;Castellgalí;2119;1671;386;726;824;847;10;10;804;814
+8;Barcelona;2;Catalunya Central;7;Bages;08062;Castellnou de Bages;1437;1044;278;575;674;370;10;6;658;664
+25;Lleida;4;Lleida;27;Pla d'Urgell;25068;Castellnou de Seana;665;524;157;251;297;227;5;3;289;292
+17;Girona;3;Girona;2;Alt Empordà;17047;Castelló d'Empúries;11100;5051;961;2093;2433;2618;52;12;2369;2381
+25;Lleida;4;Lleida;23;Noguera;25069;Castelló de Farfanya;539;414;134;220;228;186;1;2;225;227
+8;Barcelona;8;Penedès;6;Anoia;08063;Castellolí;626;490;141;317;364;126;6;2;356;358
+17;Girona;3;Girona;10;Baix Empordà;17048;Castell-Platja d'Aro;11030;6600;1632;2821;3380;3220;47;40;3293;3333
+25;Lleida;4;Lleida;38;Urgell;25070;Castellserà;996;784;216;449;488;296;11;12;465;477
+8;Barcelona;2;Catalunya Central;42;Moianès;08064;Castellterçol;2548;1997;496;1024;1200;797;26;10;1164;1174
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43042;Castellvell del Camp;2828;2228;605;1223;1411;817;18;15;1378;1393
+8;Barcelona;8;Penedès;3;Alt Penedès;08065;Castellví de la Marca;1575;1222;336;657;776;446;16;9;751;760
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08066;Castellví de Rosanes;1933;1496;417;785;930;566;13;12;905;917
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43043;Catllar, el;4557;3466;946;1730;1976;1490;26;9;1941;1950
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25071;Cava;45;41;23;29;32;9;1;0;31;31
+17;Girona;3;Girona;34;Selva;17189;Cellera de Ter, la;1950;1499;538;983;1084;415;15;7;1062;1069
+17;Girona;3;Girona;20;Gironès;17049;Celrà;5561;3283;764;1746;2059;1224;34;15;2010;2025
+8;Barcelona;2;Catalunya Central;24;Osona;08067;Centelles;7513;5846;1463;2814;3418;2428;61;32;3325;3357
+8;Barcelona;2;Catalunya Central;14;Berguedà;08268;Cercs;1150;979;291;497;583;396;12;3;568;571
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08266;Cerdanyola del Vallès;57855;43468;9997;20207;23985;19483;296;227;23462;23689
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08068;Cervelló;9077;6922;1614;3261;3826;3096;50;29;3747;3776
+25;Lleida;4;Lleida;32;Segarra;25072;Cervera;9350;5960;1357;2711;3172;2788;58;56;3058;3114
+25;Lleida;4;Lleida;18;Garrigues;25073;Cervià de les Garrigues;662;556;176;307;340;216;9;3;328;331
+17;Girona;3;Girona;20;Gironès;17050;Cervià de Ter;966;677;258;454;503;174;5;5;493;498
+17;Girona;3;Girona;2;Alt Empordà;17051;Cistella;282;207;69;136;149;58;1;3;145;148
+25;Lleida;4;Lleida;38;Urgell;25074;Ciutadilla;208;174;78;115;125;49;2;2;121;123
+25;Lleida;2;Catalunya Central;35;Solsonès;25075;Clariana de Cardener;161;130;52;78;88;42;3;3;82;85
+25;Lleida;4;Lleida;18;Garrigues;25076;Cogul, el;151;132;44;78;90;42;0;0;90;90
+17;Girona;3;Girona;2;Alt Empordà;17054;Colera;445;344;128;188;220;124;4;1;215;216
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08069;Collbató;4544;3489;783;1741;2002;1487;22;37;1943;1980
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43045;Colldejou;168;142;62;90;101;41;1;2;98;100
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25077;Coll de Nargó;540;433;125;218;274;159;12;3;259;262
+8;Barcelona;2;Catalunya Central;42;Moianès;08070;Collsuspina;359;289;122;206;220;69;4;4;212;216
+17;Girona;3;Girona;10;Baix Empordà;17055;Colomers;174;150;64;115;121;29;2;0;119;119
+25;Lleida;2;Catalunya Central;35;Solsonès;25163;Coma i la Pedra, la;255;241;49;110;138;103;1;2;135;137
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25161;Conca de Dalt;410;338;88;161;213;125;4;2;207;209
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43046;Conesa;100;89;35;53;61;28;1;2;58;60
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43047;Constantí;6665;4254;1009;1683;1785;2469;37;19;1729;1748
+8;Barcelona;8;Penedès;6;Anoia;08071;Copons;321;252;70;155;179;73;2;3;174;177
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43048;Corbera d'Ebre;1003;753;250;397;454;299;14;13;427;440
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08072;Corbera de Llobregat;14882;10870;2309;4779;5619;5251;92;51;5476;5527
+25;Lleida;4;Lleida;33;Segrià;25078;Corbins;1462;996;235;526;646;350;6;12;628;640
+17;Girona;3;Girona;10;Baix Empordà;17057;Corçà;1268;979;381;624;692;287;26;2;664;666
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08073;Cornellà de Llobregat;89936;62769;13651;27268;31386;31383;366;218;30802;31020
+17;Girona;3;Girona;28;Pla de l'Estany;17056;Cornellà del Terri;2399;1782;539;1048;1150;632;23;4;1123;1127
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43049;Cornudella de Montsant;944;737;251;441;504;233;8;2;494;496
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43050;Creixell;3758;2779;615;1043;1243;1536;16;10;1217;1227
+17;Girona;3;Girona;28;Pla de l'Estany;17058;Crespià;254;185;75;113;124;61;1;1;122;123
+17;Girona;3;Girona;10;Baix Empordà;17901;Cruïlles, Monells i Sant Sadurní;1270;1024;351;606;664;360;12;13;639;652
+8;Barcelona;8;Penedès;17;Garraf;08074;Cubelles;15770;11414;2779;4832;5499;5915;66;42;5391;5433
+25;Lleida;4;Lleida;23;Noguera;25079;Cubells;338;275;92;156;185;90;8;2;175;177
+43;Tarragona;8;Penedès;12;Baix Penedès;43051;Cunit;13533;9595;2073;3631;4253;5342;125;31;4097;4128
+17;Girona;3;Girona;2;Alt Empordà;17060;Darnius;537;405;115;213;245;160;0;1;244;245
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17061;Das;234;171;49;88;121;50;5;2;114;116
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43901;Deltebre;11578;8813;1849;3208;3681;5132;413;23;3245;3268
+8;Barcelona;1;Barcelona;21;Maresme;08075;Dosrius;5652;4230;949;1810;2145;2085;29;26;2090;2116
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43053;Duesaigües;244;179;53;112;125;54;1;0;124;124
+17;Girona;3;Girona;2;Alt Empordà;17062;Escala, l';10244;6063;1561;2624;3123;2940;47;26;3050;3076
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08076;Esparreguera;22302;16696;3584;7270;8227;8469;106;65;8056;8121
+17;Girona;2;Catalunya Central;24;Osona;17063;Espinelves;221;182;78;132;153;29;2;0;151;151
+25;Lleida;4;Lleida;18;Garrigues;25081;Espluga Calba, l';329;270;69;148;173;97;6;6;161;167
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43054;Espluga de Francolí, l';3736;2799;573;1202;1522;1277;23;9;1490;1499
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08077;Esplugues de Llobregat;47150;34396;8248;16141;19159;15237;197;137;18825;18962
+17;Girona;3;Girona;2;Alt Empordà;17064;Espolla;412;323;124;215;234;89;6;1;227;228
+17;Girona;3;Girona;28;Pla de l'Estany;17065;Esponellà;463;327;122;225;231;96;4;2;225;227
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25082;Espot;366;301;70;138;197;104;11;7;179;186
+8;Barcelona;2;Catalunya Central;14;Berguedà;08078;Espunyola, l';242;220;50;118;140;80;3;5;132;137
+8;Barcelona;2;Catalunya Central;24;Osona;08254;Esquirol, l';2186;1762;629;1083;1288;474;11;14;1263;1277
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25088;Estamariu;125;97;32;50;61;36;0;1;60;61
+8;Barcelona;2;Catalunya Central;42;Moianès;08079;Estany, l';408;338;141;232;249;89;5;5;239;244
+25;Lleida;4;Lleida;32;Segarra;25085;Estaràs;156;143;51;87;100;43;0;0;100;100
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25086;Esterri d'Àneu;804;554;125;374;391;163;14;6;371;377
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25087;Esterri de Cardós;64;53;18;25;39;14;0;1;38;39
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43055;Falset;2735;1953;649;1106;1361;592;31;9;1321;1330
+17;Girona;3;Girona;2;Alt Empordà;17005;Far d'Empordà, el;602;464;111;247;277;187;6;4;267;271
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25089;Farrera;108;91;29;29;58;33;0;0;58;58
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43056;Fatarella, la;926;791;219;444;507;284;17;8;482;490
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43057;Febró, la;40;39;11;22;28;11;0;1;27;28
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08134;Figaró-Montmany;1142;862;254;456;519;343;9;2;508;510
+8;Barcelona;2;Catalunya Central;14;Berguedà;08080;Fígols;43;38;13;21;27;11;0;2;25;27
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25908;Fígols i Alinyà;244;218;64;106;128;90;4;1;123;124
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43058;Figuera, la;114;99;46;65;77;22;0;1;76;77
+17;Girona;3;Girona;2;Alt Empordà;17066;Figueres;47235;27329;5216;10272;12054;15275;186;88;11780;11868
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43059;Figuerola del Camp;329;263;88;150;160;103;0;3;157;160
+17;Girona;3;Girona;20;Gironès;17067;Flaçà;1130;693;213;458;482;211;4;10;468;478
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43060;Flix;3410;2650;777;1332;1654;996;34;15;1605;1620
+25;Lleida;4;Lleida;18;Garrigues;25092;Floresta, la;140;126;52;84;96;30;1;2;93;95
+8;Barcelona;3;Girona;34;Selva;08082;Fogars de la Selva;1469;1210;300;533;587;623;6;8;573;581
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08081;Fogars de Montclús;475;354;124;217;244;110;1;3;240;243
+17;Girona;3;Girona;10;Baix Empordà;17068;Foixà;303;252;105;155;178;74;6;1;171;172
+8;Barcelona;2;Catalunya Central;24;Osona;08083;Folgueroles;2265;1712;460;1135;1316;396;15;6;1295;1301
+25;Lleida;4;Lleida;27;Pla d'Urgell;25093;Fondarella;776;610;194;352;381;229;17;3;361;364
+8;Barcelona;2;Catalunya Central;7;Bages;08084;Fonollosa;1459;1197;317;641;743;454;7;8;728;736
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17069;Fontanals de Cerdanya;437;403;131;212;264;139;7;2;255;257
+17;Girona;3;Girona;10;Baix Empordà;17070;Fontanilles;146;115;59;76;86;29;0;2;84;86
+17;Girona;3;Girona;28;Pla de l'Estany;17071;Fontcoberta;1469;1131;397;743;825;306;13;10;802;812
+8;Barcelona;8;Penedès;3;Alt Penedès;08085;Font-rubí;1414;1012;331;598;644;368;7;2;635;637
+25;Lleida;4;Lleida;23;Noguera;25094;Foradada;203;130;47;73;87;43;1;2;84;86
+17;Girona;3;Girona;10;Baix Empordà;17902;Forallac;1695;1310;461;784;871;439;16;11;844;855
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43061;Forès;43;40;17;21;25;15;0;0;25;25
+17;Girona;3;Girona;20;Gironès;17073;Fornells de la Selva;2670;1987;614;1287;1466;521;29;9;1428;1437
+17;Girona;3;Girona;2;Alt Empordà;17074;Fortià;787;559;179;319;357;202;12;3;342;345
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08086;Franqueses del Vallès, les;20364;14251;2980;5949;7025;7226;99;70;6856;6926
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43062;Freginals;385;264;124;164;181;83;4;5;172;177
+25;Lleida;4;Lleida;38;Urgell;25096;Fuliola, la;1250;866;191;349;472;394;9;3;460;463
+25;Lleida;4;Lleida;18;Garrigues;25097;Fulleda;102;94;32;50;60;34;3;2;55;57
+8;Barcelona;2;Catalunya Central;7;Bages;08090;Gaià;183;138;55;90;101;37;3;0;98;98
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43063;Galera, la;736;531;135;236;267;264;8;0;259;259
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08087;Gallifa;167;151;57;99;117;34;0;0;117;117
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43064;Gandesa;3096;2052;565;983;1245;807;34;7;1204;1211
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43065;Garcia;527;382;114;231;255;127;10;3;242;245
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43066;Garidells, els;190;164;58;99;108;56;0;2;106;108
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08088;Garriga, la;16668;12446;2980;6498;7502;4944;109;69;7324;7393
+17;Girona;3;Girona;2;Alt Empordà;17075;Garrigàs;451;340;92;191;224;116;11;4;209;213
+17;Girona;3;Girona;10;Baix Empordà;17076;Garrigoles;167;122;53;78;90;32;2;1;87;88
+17;Girona;3;Girona;2;Alt Empordà;17077;Garriguella;853;581;202;301;351;230;5;2;344;346
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08089;Gavà;47057;34124;6716;14495;16794;17330;213;156;16425;16581
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25098;Gavet de la Conca;261;233;54;107;142;91;3;3;136;139
+8;Barcelona;8;Penedès;3;Alt Penedès;08091;Gelida;7670;5527;1158;2397;3038;2489;37;30;2971;3001
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17078;Ger;449;379;115;221;274;105;7;1;266;267
+25;Lleida;4;Lleida;33;Segrià;25912;Gimenells i el Pla de la Font;1120;835;239;444;536;299;9;8;519;527
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43067;Ginestar;764;534;222;346;388;146;11;5;372;377
+17;Girona;3;Girona;20;Gironès;17079;Girona;103369;65740;14214;31253;37878;27862;551;283;37044;37327
+8;Barcelona;2;Catalunya Central;14;Berguedà;08092;Gironella;4946;3694;870;1884;2172;1522;38;10;2124;2134
+8;Barcelona;2;Catalunya Central;14;Berguedà;08093;Gisclareny;26;25;8;14;21;4;0;1;20;21
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43068;Godall;598;493;112;201;238;255;6;0;232;232
+25;Lleida;4;Lleida;27;Pla d'Urgell;25099;Golmés;1855;1305;317;600;721;584;7;6;708;714
+17;Girona;3;Girona;31;Ripollès;17080;Gombrèn;192;145;37;68;87;58;0;0;87;87
+25;Lleida;2;Catalunya Central;14;Berguedà;25100;Gósol;206;187;56;108;131;56;1;1;129;130
+8;Barcelona;8;Penedès;3;Alt Penedès;08094;Granada, la;2208;1631;350;871;1018;613;14;13;991;1004
+25;Lleida;4;Lleida;18;Garrigues;25101;Granadella, la;716;521;175;312;361;160;2;5;354;359
+8;Barcelona;2;Catalunya Central;42;Moianès;08095;Granera;77;75;30;40;54;21;0;2;52;54
+25;Lleida;4;Lleida;33;Segrià;25102;Granja d'Escarp, la;922;628;209;349;395;233;10;6;379;385
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08096;Granollers;62419;44009;11470;21442;24181;19828;324;202;23655;23857
+25;Lleida;4;Lleida;32;Segarra;25103;Granyanella;143;131;35;61;73;58;1;3;69;72
+25;Lleida;4;Lleida;18;Garrigues;25105;Granyena de les Garrigues;140;112;56;84;91;21;5;2;84;86
+25;Lleida;4;Lleida;32;Segarra;25104;Granyena de Segarra;151;130;42;72;79;51;0;0;79;79
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43069;Gratallops;237;192;68;111;139;53;10;0;129;129
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08097;Gualba;1548;1118;354;651;725;393;7;2;716;718
+17;Girona;3;Girona;10;Baix Empordà;17081;Gualta;402;269;114;173;188;81;5;1;182;183
+8;Barcelona;2;Catalunya Central;14;Berguedà;08099;Guardiola de Berguedà;941;762;194;403;467;295;10;2;455;457
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43070;Guiamets, els;278;247;101;167;177;70;0;0;177;177
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17082;Guils de Cerdanya;549;466;106;215;278;188;14;3;261;264
+25;Lleida;4;Lleida;38;Urgell;25109;Guimerà;271;208;81;122;141;67;0;3;138;141
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25903;Guingueta d'Àneu, la;289;226;53;106;159;67;0;2;157;159
+25;Lleida;4;Lleida;32;Segarra;25110;Guissona;7248;2742;624;1307;1542;1200;33;16;1493;1509
+25;Lleida;2;Catalunya Central;35;Solsonès;25111;Guixers;132;110;35;62;73;37;3;1;69;70
+8;Barcelona;2;Catalunya Central;24;Osona;08100;Gurb;2713;2111;660;1345;1547;564;8;21;1518;1539
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43071;Horta de Sant Joan;1146;877;214;401;487;390;14;5;468;473
+8;Barcelona;1;Barcelona;13;Barcelonès;08101;Hospitalet de Llobregat, l';269382;173629;36395;70767;81702;91927;1150;597;79955;80552
+8;Barcelona;8;Penedès;6;Anoia;08162;Hostalets de Pierola, els;2980;2163;511;1000;1148;1015;15;8;1125;1133
+17;Girona;3;Girona;34;Selva;17083;Hostalric;4291;2998;713;1421;1545;1453;22;12;1511;1523
+8;Barcelona;8;Penedès;6;Anoia;08102;Igualada;40742;28984;7228;14090;16317;12667;210;156;15951;16107
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25115;Isona i Conca Dellà;1042;817;224;435;528;289;12;3;513;516
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17084;Isòvol;281;248;70;118;157;91;3;1;153;154
+25;Lleida;4;Lleida;27;Pla d'Urgell;25113;Ivars d'Urgell;1537;1116;399;638;718;398;17;16;685;701
+25;Lleida;4;Lleida;23;Noguera;25112;Ivars de Noguera;332;265;111;162;176;89;4;3;169;172
+25;Lleida;4;Lleida;32;Segarra;25114;Ivorra;108;105;48;75;83;22;1;1;81;82
+17;Girona;3;Girona;10;Baix Empordà;17085;Jafre;387;289;115;197;223;66;2;5;216;221
+17;Girona;3;Girona;2;Alt Empordà;17086;Jonquera, la;3320;1740;405;718;818;922;19;6;793;799
+8;Barcelona;8;Penedès;6;Anoia;08103;Jorba;833;650;133;331;381;269;6;4;371;375
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25910;Josa i Tuixén;103;93;20;40;61;32;1;0;60;60
+17;Girona;3;Girona;20;Gironès;17087;Juià;319;224;83;139;165;59;5;1;159;160
+25;Lleida;4;Lleida;18;Garrigues;25118;Juncosa;395;316;99;144;166;150;5;6;155;161
+25;Lleida;4;Lleida;18;Garrigues;25119;Juneda;3501;2267;669;1125;1377;890;32;17;1328;1345
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25121;Les;971;656;113;237;316;340;22;2;292;294
+25;Lleida;4;Lleida;27;Pla d'Urgell;25122;Linyola;2717;1934;427;894;1057;877;16;19;1022;1041
+8;Barcelona;8;Penedès;6;Anoia;08104;Llacuna, la;903;675;232;369;431;244;5;5;421;426
+17;Girona;3;Girona;2;Alt Empordà;17088;Lladó;844;608;165;373;406;202;10;7;389;396
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25123;Lladorre;237;195;21;61;139;56;4;2;133;135
+25;Lleida;2;Catalunya Central;35;Solsonès;25124;Lladurs;180;157;47;84;98;59;3;0;95;95
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08105;Llagosta, la;13587;9660;2147;3989;4634;5026;78;47;4509;4556
+17;Girona;3;Girona;20;Gironès;17089;Llagostera;8647;5865;1211;2544;2979;2886;39;24;2916;2940
+17;Girona;3;Girona;20;Gironès;17090;Llambilles;713;560;180;353;411;149;1;4;406;410
+17;Girona;3;Girona;31;Ripollès;17091;Llanars;535;405;127;216;256;149;10;2;244;246
+17;Girona;3;Girona;2;Alt Empordà;17092;Llançà;4775;3523;867;1522;1813;1710;40;21;1752;1773
+25;Lleida;4;Lleida;33;Segrià;25125;Llardecans;444;373;116;217;241;132;4;3;234;237
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25126;Llavorsí;346;282;69;137;190;92;2;2;186;188
+25;Lleida;4;Lleida;33;Segrià;25120;Lleida;140403;92388;20265;39765;46433;45955;724;453;45256;45709
+17;Girona;3;Girona;2;Alt Empordà;17093;Llers;1237;935;262;501;564;371;8;7;549;556
+25;Lleida;5;Alt Pirineu i territori d'Aran;15;Cerdanya;25127;Lles de Cerdanya;270;229;62;112;144;85;5;2;137;139
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08107;Lliçà d'Amunt;15469;12188;2319;4975;5596;6592;83;47;5466;5513
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08108;Lliçà de Vall;6497;5243;1581;2704;2822;2421;36;40;2746;2786
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25128;Llimiana;146;131;37;68;80;51;1;0;79;79
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08106;Llinars del Vallès;10018;7600;1926;3525;4058;3542;64;28;3966;3994
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17094;Llívia;1431;1100;263;477;616;484;22;4;590;594
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43072;Lloar, el;105;91;34;59;69;22;2;2;65;67
+25;Lleida;2;Catalunya Central;35;Solsonès;25129;Llobera;188;157;44;84;96;61;2;2;92;94
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43073;Llorac;91;80;23;43;56;24;1;1;54;55
+43;Tarragona;8;Penedès;12;Baix Penedès;43074;Llorenç del Penedès;2395;1870;480;945;1075;795;14;7;1054;1061
+17;Girona;3;Girona;34;Selva;17095;Lloret de Mar;39089;20123;3961;7974;9347;10776;192;81;9074;9155
+17;Girona;3;Girona;31;Ripollès;17096;Llosses, les;212;161;49;81;95;66;1;3;91;94
+8;Barcelona;2;Catalunya Central;24;Osona;08109;Lluçà;276;206;82;149;162;44;3;2;157;159
+17;Girona;3;Girona;2;Alt Empordà;17102;Maçanet de Cabrenys;698;571;174;340;386;185;13;1;372;373
+17;Girona;3;Girona;34;Selva;17103;Maçanet de la Selva;7066;5237;1047;1820;2143;3094;28;12;2103;2115
+17;Girona;3;Girona;20;Gironès;17097;Madremanya;288;203;86;132;151;52;3;0;148;148
+17;Girona;3;Girona;19;Garrotxa;17098;Maià de Montcal;463;308;102;180;191;117;6;0;185;185
+25;Lleida;4;Lleida;33;Segrià;25133;Maials;909;669;188;334;398;271;6;3;389;392
+25;Lleida;4;Lleida;38;Urgell;25130;Maldà;227;195;65;110;125;70;0;1;124;125
+8;Barcelona;1;Barcelona;21;Maresme;08110;Malgrat de Mar;18772;13815;3085;5954;6784;7031;103;72;6609;6681
+8;Barcelona;2;Catalunya Central;24;Osona;08111;Malla;272;220;102;171;189;31;2;5;182;187
+8;Barcelona;2;Catalunya Central;24;Osona;08112;Manlleu;20912;12901;3246;5955;6784;6117;83;61;6640;6701
+8;Barcelona;2;Catalunya Central;7;Bages;08113;Manresa;78245;51872;12083;24108;27397;24475;311;210;26876;27086
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43076;Marçà;600;460;154;264;315;145;3;4;308;312
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43075;Margalef;106;85;45;49;55;30;2;1;52;53
+8;Barcelona;2;Catalunya Central;7;Bages;08242;Marganell;266;226;68;104;135;91;0;0;135;135
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08114;Martorell;28772;18961;4517;8615;9728;9233;132;85;9511;9596
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08115;Martorelles;4820;3836;850;1593;1900;1936;30;12;1858;1870
+17;Girona;3;Girona;2;Alt Empordà;17100;Masarac;288;197;68;119;131;66;2;1;128;129
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43077;Mas de Barberans;564;440;111;188;229;211;7;1;221;222
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43078;Masdenverge;1071;858;254;386;480;378;7;9;464;473
+8;Barcelona;2;Catalunya Central;24;Osona;08116;Masies de Roda, les;719;555;224;354;381;174;2;4;375;379
+8;Barcelona;2;Catalunya Central;24;Osona;08117;Masies de Voltregà, les;3132;2517;813;1421;1584;933;20;16;1548;1564
+43;Tarragona;8;Penedès;12;Baix Penedès;43079;Masllorenç;505;373;142;229;256;117;8;0;248;248
+8;Barcelona;1;Barcelona;21;Maresme;08118;Masnou, el;23831;17673;4250;9269;10756;6917;168;67;10521;10588
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43080;Masó, la;280;233;80;152;167;66;4;2;161;163
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43081;Maspujols;823;634;172;359;419;215;9;7;403;410
+8;Barcelona;8;Penedès;6;Anoia;08119;Masquefa;9402;7156;1562;2861;3324;3832;41;35;3248;3283
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43082;Masroig, el;492;345;102;199;246;99;8;2;236;238
+25;Lleida;4;Lleida;33;Segrià;25131;Massalcoreig;610;390;134;208;242;148;18;2;222;224
+17;Girona;3;Girona;34;Selva;17101;Massanes;796;588;165;260;298;290;5;3;290;293
+25;Lleida;4;Lleida;32;Segarra;25132;Massoteres;212;133;37;72;84;49;2;3;79;82
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08120;Matadepera;9496;7283;1546;3828;4886;2397;37;51;4798;4849
+8;Barcelona;1;Barcelona;21;Maresme;08121;Mataró;129661;87625;19085;38035;43680;43945;500;351;42829;43180
+8;Barcelona;8;Penedès;3;Alt Penedès;08122;Mediona;2369;1772;410;710;846;926;7;9;830;839
+25;Lleida;4;Lleida;23;Noguera;25134;Menàrguens;813;598;186;339;388;210;16;2;370;372
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17099;Meranges;100;78;33;41;58;20;6;1;51;52
+17;Girona;3;Girona;19;Garrotxa;17105;Mieres;345;269;82;146;171;98;4;9;158;167
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43083;Milà, el;190;149;51;75;91;58;1;0;90;90
+25;Lleida;4;Lleida;27;Pla d'Urgell;25135;Miralcamp;1385;990;216;423;554;436;17;6;531;537
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43084;Miravet;706;512;150;297;341;171;12;7;322;329
+8;Barcelona;2;Catalunya Central;42;Moianès;08138;Moià;6383;4577;944;2142;2603;1974;37;28;2538;2566
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43085;Molar, el;291;230;79;145;165;65;8;1;156;157
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08123;Molins de Rei;25940;19609;5011;10407;12040;7569;148;91;11801;11892
+25;Lleida;4;Lleida;27;Pla d'Urgell;25137;Mollerussa;14649;8648;1743;3643;4284;4364;102;25;4157;4182
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08124;Mollet del Vallès;51600;37276;8251;16101;18611;18665;311;127;18173;18300
+17;Girona;3;Girona;2;Alt Empordà;17106;Mollet de Peralada;198;144;52;94;104;40;1;0;103;103
+17;Girona;3;Girona;31;Ripollès;17107;Molló;336;271;100;154;186;85;11;2;173;175
+25;Lleida;2;Catalunya Central;35;Solsonès;25136;Molsosa, la;104;95;28;64;67;28;4;0;63;63
+8;Barcelona;2;Catalunya Central;42;Moianès;08128;Monistrol de Calders;702;597;174;312;356;241;4;2;350;352
+8;Barcelona;2;Catalunya Central;7;Bages;08127;Monistrol de Montserrat;3139;2280;507;925;1106;1174;21;5;1080;1085
+17;Girona;3;Girona;19;Garrotxa;17109;Montagut i Oix;930;725;217;375;430;295;7;8;415;423
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43086;Montblanc;7379;5290;1220;2358;2872;2418;51;31;2790;2821
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43088;Montbrió del Camp;2909;2041;497;932;1107;934;17;5;1085;1090
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08125;Montcada i Reixac;36803;25735;5167;10953;12569;13166;182;101;12286;12387
+8;Barcelona;2;Catalunya Central;14;Berguedà;08130;Montclar;139;107;12;50;69;38;3;1;65;66
+25;Lleida;5;Alt Pirineu i territori d'Aran;15;Cerdanya;25139;Montellà i Martinet;578;487;150;235;306;181;9;8;289;297
+8;Barcelona;2;Catalunya Central;24;Osona;08131;Montesquiu;1030;747;206;402;474;273;5;10;459;469
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25140;Montferrer i Castellbò;1034;798;194;375;444;354;7;8;429;437
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43089;Montferri;403;289;75;130;145;144;1;2;142;144
+25;Lleida;4;Lleida;23;Noguera;25138;Montgai;643;572;202;329;363;209;9;9;345;354
+8;Barcelona;1;Barcelona;21;Maresme;08126;Montgat;12200;8926;2129;4023;4786;4140;53;41;4692;4733
+8;Barcelona;2;Catalunya Central;14;Berguedà;08132;Montmajor;469;358;103;180;203;155;8;2;193;195
+8;Barcelona;8;Penedès;6;Anoia;08133;Montmaneu;151;129;39;74;86;43;0;0;86;86
+43;Tarragona;8;Penedès;12;Baix Penedès;43090;Montmell, el;1582;1306;234;381;425;881;18;0;407;407
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08135;Montmeló;8831;6831;1953;3411;3947;2884;67;50;3830;3880
+25;Lleida;4;Lleida;33;Segrià;25142;Montoliu de Lleida;483;364;130;212;246;118;2;4;240;244
+25;Lleida;4;Lleida;32;Segarra;25141;Montoliu de Segarra;187;155;32;67;87;68;2;2;83;85
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08136;Montornès del Vallès;16644;11839;2497;4985;5669;6170;107;53;5509;5562
+25;Lleida;4;Lleida;32;Segarra;25143;Montornès de Segarra;96;80;25;43;55;25;2;1;52;53
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43091;Mont-ral;168;128;39;62;76;52;0;0;76;76
+17;Girona;3;Girona;10;Baix Empordà;17110;Mont-ras;1680;1347;397;703;775;572;5;7;763;770
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43092;Mont-roig del Camp;12460;7648;1734;2956;3538;4110;52;17;3469;3486
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08137;Montseny;351;285;89;151;197;88;5;0;192;192
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43093;Móra d'Ebre;5695;3833;904;1559;1998;1835;44;16;1938;1954
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43094;Móra la Nova;3108;2146;569;998;1176;970;36;13;1127;1140
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43095;Morell, el;3742;2600;668;1265;1406;1194;25;10;1371;1381
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43096;Morera de Montsant, la;159;102;39;58;72;30;2;0;70;70
+8;Barcelona;2;Catalunya Central;24;Osona;08129;Muntanyola;632;504;172;316;355;149;3;6;346;352
+8;Barcelona;2;Catalunya Central;7;Bages;08139;Mura;220;184;58;131;145;39;2;2;141;143
+25;Lleida;4;Lleida;38;Urgell;25145;Nalec;90;74;36;51;60;14;0;0;60;60
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25025;Naut Aran;1836;1417;258;517;725;692;32;7;686;693
+8;Barcelona;2;Catalunya Central;7;Bages;08140;Navarcles;6057;4832;1008;2243;2647;2185;36;25;2586;2611
+8;Barcelona;2;Catalunya Central;7;Bages;08141;Navàs;6018;4517;1189;2323;2649;1868;21;33;2595;2628
+17;Girona;3;Girona;2;Alt Empordà;17111;Navata;1427;1007;301;559;651;356;11;5;635;640
+25;Lleida;2;Catalunya Central;35;Solsonès;25146;Navès;284;222;66;117;134;88;7;1;126;127
+8;Barcelona;2;Catalunya Central;14;Berguedà;08142;Nou de Berguedà, la;162;143;77;99;112;31;1;0;111;111
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43097;Nou de Gaià, la;600;409;129;268;289;120;7;3;279;282
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43098;Nulles;509;355;121;211;239;116;2;3;234;237
+25;Lleida;2;Catalunya Central;35;Solsonès;25148;Odèn;258;216;74;118;142;74;1;1;140;141
+8;Barcelona;8;Penedès;6;Anoia;08143;Òdena;3668;2749;731;1321;1506;1243;33;25;1448;1473
+17;Girona;3;Girona;31;Ripollès;17112;Ogassa;240;194;69;109;133;61;2;0;131;131
+8;Barcelona;8;Penedès;3;Alt Penedès;08145;Olèrdola;3768;2795;759;1539;1707;1088;32;20;1655;1675
+8;Barcelona;8;Penedès;3;Alt Penedès;08146;Olesa de Bonesvalls;1840;1436;423;735;812;624;18;12;782;794
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08147;Olesa de Montserrat;24144;17547;3784;7841;9022;8525;154;111;8757;8868
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25149;Oliana;1843;1373;421;701;830;543;11;3;816;819
+25;Lleida;4;Lleida;23;Noguera;25150;Oliola;203;166;39;101;118;48;4;1;113;114
+25;Lleida;2;Catalunya Central;35;Solsonès;25151;Olius;981;730;220;403;461;269;11;2;448;450
+8;Barcelona;8;Penedès;17;Garraf;08148;Olivella;3935;2445;639;1089;1220;1225;21;7;1192;1199
+8;Barcelona;2;Catalunya Central;24;Osona;08149;Olost;1202;968;246;491;570;398;12;6;552;558
+17;Girona;3;Girona;19;Garrotxa;17114;Olot;35926;23303;5680;10900;12387;10916;173;120;12094;12214
+25;Lleida;4;Lleida;32;Segarra;25152;Oluges, les;171;148;38;77;92;56;0;2;90;92
+8;Barcelona;2;Catalunya Central;14;Berguedà;08144;Olvan;858;728;206;401;461;267;10;9;442;451
+25;Lleida;4;Lleida;18;Garrigues;25153;Omellons, els;206;181;44;89;103;78;5;6;92;98
+25;Lleida;4;Lleida;38;Urgell;25154;Omells de na Gaia, els;130;115;30;61;73;42;1;0;72;72
+17;Girona;3;Girona;2;Alt Empordà;17115;Ordis;361;278;122;171;200;78;7;4;189;193
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25155;Organyà;771;596;186;276;359;237;3;4;352;356
+8;Barcelona;2;Catalunya Central;24;Osona;08150;Orís;322;265;87;148;178;87;6;1;171;172
+8;Barcelona;2;Catalunya Central;24;Osona;08151;Oristà;549;449;174;281;300;149;5;2;293;295
+8;Barcelona;8;Penedès;6;Anoia;08152;Orpí;151;115;30;73;84;31;0;0;84;84
+8;Barcelona;1;Barcelona;21;Maresme;08153;Òrrius;758;593;209;360;420;173;4;3;413;416
+25;Lleida;4;Lleida;23;Noguera;25156;Os de Balaguer;980;783;231;421;493;290;2;9;482;491
+17;Girona;3;Girona;34;Selva;17116;Osor;428;349;128;210;226;123;4;3;219;222
+25;Lleida;4;Lleida;38;Urgell;25157;Ossó de Sió;203;159;43;92;105;54;0;5;100;105
+8;Barcelona;8;Penedès;3;Alt Penedès;08154;Pacs del Penedès;918;699;223;403;444;255;7;3;434;437
+8;Barcelona;1;Barcelona;21;Maresme;08155;Palafolls;9613;7180;1706;3146;3698;3482;70;53;3575;3628
+17;Girona;3;Girona;10;Baix Empordà;17117;Palafrugell;23244;14589;2983;6084;6931;7658;122;59;6750;6809
+17;Girona;3;Girona;10;Baix Empordà;17118;Palamós;18135;13126;3095;5469;6491;6635;121;57;6313;6370
+25;Lleida;4;Lleida;27;Pla d'Urgell;25158;Palau d'Anglesola, el;2166;1613;354;867;998;615;11;21;966;987
+17;Girona;3;Girona;2;Alt Empordà;17119;Palau de Santa Eulàlia;90;82;33;49;63;19;0;5;58;63
+17;Girona;3;Girona;10;Baix Empordà;17121;Palau-sator;310;223;89;143;156;67;1;0;155;155
+17;Girona;3;Girona;2;Alt Empordà;17120;Palau-saverdera;1456;836;230;437;481;355;14;3;464;467
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08156;Palau-solità i Plegamans;14892;11317;2633;5476;6222;5095;99;35;6088;6123
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43100;Pallaresos, els;4850;3597;696;1561;1960;1637;53;13;1894;1907
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08157;Pallejà;11622;8669;1931;4435;5052;3617;60;42;4950;4992
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43099;Palma d'Ebre, la;338;274;99;173;194;80;1;0;193;193
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08905;Palma de Cervelló, la;2992;2346;677;1297;1516;830;29;9;1478;1487
+17;Girona;3;Girona;28;Pla de l'Estany;17123;Palol de Revardit;448;335;121;244;254;81;15;0;239;239
+17;Girona;3;Girona;10;Baix Empordà;17124;Pals;2395;1638;533;871;1007;631;20;7;980;987
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08158;Papiol, el;4172;3160;666;1567;1791;1369;18;25;1748;1773
+17;Girona;3;Girona;31;Ripollès;17125;Pardines;169;132;43;65;84;48;2;2;80;82
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08159;Parets del Vallès;19071;14302;3228;6463;7530;6772;106;49;7375;7424
+17;Girona;3;Girona;10;Baix Empordà;17126;Parlavà;391;326;152;218;253;73;2;2;249;251
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43101;Passanant i Belltall;155;143;61;84;93;50;2;3;88;91
+17;Girona;3;Girona;2;Alt Empordà;17128;Pau;557;335;130;196;226;109;7;1;218;219
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43102;Paüls;545;448;135;211;255;193;4;5;246;251
+17;Girona;3;Girona;2;Alt Empordà;17129;Pedret i Marzà;191;138;47;79;97;41;2;1;94;95
+25;Lleida;4;Lleida;23;Noguera;25164;Penelles;436;355;119;194;214;141;5;0;209;209
+17;Girona;3;Girona;10;Baix Empordà;17130;Pera, la;435;333;88;222;248;85;2;6;240;246
+8;Barcelona;2;Catalunya Central;24;Osona;08160;Perafita;405;329;120;180;210;119;7;3;200;203
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43103;Perafort;1264;934;237;446;513;421;17;2;494;496
+17;Girona;3;Girona;2;Alt Empordà;17132;Peralada;1898;1389;457;800;919;470;17;14;888;902
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25165;Peramola;347;273;97;161;183;90;5;4;174;178
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43104;Perelló, el;2826;1774;494;818;1058;716;31;12;1015;1027
+8;Barcelona;8;Penedès;6;Anoia;08161;Piera;16134;12118;2297;4513;5209;6909;59;46;5104;5150
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43105;Piles, les;210;160;40;96;116;44;4;7;105;112
+8;Barcelona;1;Barcelona;21;Maresme;08163;Pineda de Mar;27984;19992;4199;8447;9561;10431;115;58;9388;9446
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43106;Pinell de Brai, el;1008;784;241;392;446;338;7;0;439;439
+25;Lleida;2;Catalunya Central;35;Solsonès;25166;Pinell de Solsonès;193;167;46;80;91;76;1;2;88;90
+25;Lleida;2;Catalunya Central;35;Solsonès;25167;Pinós;286;231;64;131;152;79;3;6;143;149
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43107;Pira;503;380;124;215;230;150;14;4;212;216
+8;Barcelona;8;Penedès;3;Alt Penedès;08164;Pla del Penedès, el;1275;933;270;535;598;335;8;10;580;590
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43108;Pla de Santa Maria, el;2348;1803;480;877;967;836;17;1;949;950
+17;Girona;3;Girona;19;Garrotxa;17133;Planes d'Hostoles, les;1712;1272;484;755;870;402;9;9;852;861
+17;Girona;3;Girona;31;Ripollès;17134;Planoles;304;227;66;118;147;80;7;4;136;140
+25;Lleida;4;Lleida;32;Segarra;25911;Plans de Sió, els;491;419;127;220;270;149;5;12;253;265
+25;Lleida;4;Lleida;27;Pla d'Urgell;25168;Poal, el;670;497;197;299;326;171;9;9;308;317
+25;Lleida;4;Lleida;18;Garrigues;25169;Pobla de Cérvoles, la;189;175;54;90;112;63;6;8;98;106
+8;Barcelona;8;Penedès;6;Anoia;08165;Pobla de Claramunt, la;2185;1654;380;732;914;740;10;8;896;904
+8;Barcelona;2;Catalunya Central;14;Berguedà;08166;Pobla de Lillet, la;1093;933;273;486;547;386;5;4;538;542
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43109;Pobla de Mafumet, la;3971;2757;556;1025;1186;1571;18;26;1142;1168
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43110;Pobla de Massaluca, la;317;251;70;130;148;103;1;2;145;147
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43111;Pobla de Montornès, la;2884;2217;491;859;974;1243;18;8;948;956
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25171;Pobla de Segur, la;3043;2157;528;981;1324;833;28;14;1282;1296
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43112;Poboleda;321;258;100;154;176;82;2;2;172;174
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08167;Polinyà;8504;6121;1292;2623;2976;3145;51;37;2888;2925
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43113;Pont d'Armentera, el;488;390;139;213;235;155;5;1;229;230
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25030;Pont de Bar, el;152;133;37;65;75;58;1;1;73;74
+17;Girona;3;Girona;2;Alt Empordà;17135;Pont de Molins;516;398;103;216;243;155;6;3;234;237
+25;Lleida;5;Alt Pirineu i territori d'Aran;5;Alta Ribagorça;25173;Pont de Suert, el;2257;1667;378;659;930;737;18;11;901;912
+8;Barcelona;2;Catalunya Central;7;Bages;08182;Pont de Vilomara i Rocafort, el;3907;2994;640;1216;1379;1615;13;15;1351;1366
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43141;Pontils;122;113;36;66;72;41;4;1;67;68
+8;Barcelona;8;Penedès;3;Alt Penedès;08168;Pontons;528;382;114;171;209;173;4;2;203;205
+17;Girona;3;Girona;2;Alt Empordà;17136;Pontós;260;190;74;116;140;50;2;0;138;138
+25;Lleida;4;Lleida;23;Noguera;25172;Ponts;2644;1749;467;846;1033;716;16;8;1009;1017
+17;Girona;3;Girona;28;Pla de l'Estany;17137;Porqueres;4677;3547;1056;2228;2419;1128;41;23;2355;2378
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43114;Porrera;424;372;120;217;269;103;2;1;266;267
+17;Girona;3;Girona;2;Alt Empordà;17138;Portbou;1063;833;289;449;530;303;15;8;507;515
+17;Girona;3;Girona;2;Alt Empordà;17140;Port de la Selva, el;958;667;271;397;469;198;17;3;449;452
+25;Lleida;4;Lleida;33;Segrià;25174;Portella, la;743;384;147;226;261;123;1;3;257;260
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43115;Pradell de la Teixeta;158;134;55;90;97;37;5;1;91;92
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43116;Prades;588;467;170;280;319;148;4;2;313;315
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43117;Prat de Comte;177;147;40;73;99;48;1;1;97;98
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08169;Prat de Llobregat, el;65385;48657;9654;20476;23401;25256;282;227;22892;23119
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43118;Pratdip;726;426;146;252;283;143;2;3;278;281
+8;Barcelona;2;Catalunya Central;24;Osona;08171;Prats de Lluçanès;2604;2070;564;1090;1251;819;27;13;1211;1224
+8;Barcelona;2;Catalunya Central;6;Anoia;08170;Prats de Rei, els;537;443;138;244;269;174;10;3;256;259
+25;Lleida;5;Alt Pirineu i territori d'Aran;15;Cerdanya;25175;Prats i Sansor;222;197;57;102;138;59;5;3;130;133
+25;Lleida;4;Lleida;38;Urgell;25176;Preixana;387;323;118;178;212;111;4;4;204;208
+25;Lleida;4;Lleida;23;Noguera;25177;Preixens;418;350;113;185;212;138;3;1;208;209
+8;Barcelona;1;Barcelona;21;Maresme;08230;Premià de Dalt;10441;7707;1970;3768;4615;3092;51;37;4527;4564
+8;Barcelona;1;Barcelona;21;Maresme;08172;Premià de Mar;28531;20516;4382;9109;11130;9386;99;90;10941;11031
+17;Girona;3;Girona;19;Garrotxa;17139;Preses, les;1855;1431;436;819;935;496;25;6;904;910
+25;Lleida;5;Alt Pirineu i territori d'Aran;15;Cerdanya;25179;Prullans;226;184;58;104;124;60;4;1;119;120
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17141;Puigcerdà;9486;6180;941;2050;2847;3333;61;28;2758;2786
+8;Barcelona;8;Penedès;3;Alt Penedès;08174;Puigdàlber;524;403;125;235;278;125;3;3;272;275
+25;Lleida;4;Lleida;18;Garrigues;25180;Puiggròs;278;218;76;118;140;78;6;2;132;134
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43119;Puigpelat;1163;877;209;410;456;421;12;5;439;444
+8;Barcelona;2;Catalunya Central;14;Berguedà;08175;Puig-reig;4295;3356;849;1615;1883;1473;33;28;1822;1850
+25;Lleida;4;Lleida;38;Urgell;25181;Puigverd d'Agramunt;229;154;47;77;97;57;3;3;91;94
+25;Lleida;4;Lleida;33;Segrià;25182;Puigverd de Lleida;1349;1059;281;520;618;441;11;9;598;607
+8;Barcelona;2;Catalunya Central;6;Anoia;08176;Pujalt;210;156;52;96;102;54;5;2;95;97
+8;Barcelona;2;Catalunya Central;14;Berguedà;08177;Quar, la;49;35;10;15;20;15;0;0;20;20
+17;Girona;3;Girona;20;Gironès;17142;Quart;3798;2734;801;1542;1816;918;23;30;1763;1793
+17;Girona;3;Girona;31;Ripollès;17043;Queralbs;188;160;58;102;126;34;4;0;122;122
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43120;Querol;518;426;104;171;215;211;12;0;203;203
+17;Girona;3;Girona;2;Alt Empordà;17143;Rabós;184;148;54;87;93;55;0;1;92;93
+8;Barcelona;2;Catalunya Central;7;Bages;08178;Rajadell;534;441;148;271;313;128;3;5;305;310
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43121;Rasquera;783;602;186;332;347;255;5;3;339;342
+17;Girona;3;Girona;10;Baix Empordà;17144;Regencós;276;220;90;136;150;70;2;3;145;148
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08179;Rellinars;809;666;168;343;377;289;8;4;365;369
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43122;Renau;162;114;33;67;78;36;3;1;74;75
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43123;Reus;106168;71730;12914;27938;33499;38231;581;260;32658;32918
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25183;Rialp;641;522;100;274;339;183;16;4;319;323
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43124;Riba, la;585;461;148;220;264;197;5;3;256;259
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43125;Riba-roja d'Ebre;1110;876;229;394;532;344;22;8;502;510
+25;Lleida;4;Lleida;32;Segarra;25905;Ribera d'Ondara;433;369;105;213;231;138;16;3;212;215
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25185;Ribera d'Urgellet;932;674;172;322;377;297;13;4;360;364
+17;Girona;3;Girona;31;Ripollès;17145;Ribes de Freser;1760;1442;368;678;846;596;12;10;824;834
+17;Girona;3;Girona;34;Selva;17146;Riells i Viabrea;4153;3230;879;1408;1637;1593;18;22;1597;1619
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43126;Riera de Gaià, la;1742;1222;342;634;729;493;15;2;712;714
+25;Lleida;2;Catalunya Central;35;Solsonès;25186;Riner;263;214;73;134;155;59;3;1;151;152
+17;Girona;3;Girona;31;Ripollès;17147;Ripoll;10803;7904;1843;3394;4075;3829;82;27;3966;3993
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08180;Ripollet;39179;27367;5266;11211;12991;14376;177;100;12714;12814
+17;Girona;3;Girona;34;Selva;17148;Riudarenes;2204;1595;421;749;871;724;12;18;841;859
+17;Girona;3;Girona;19;Garrotxa;17149;Riudaura;481;379;112;246;285;94;3;1;281;282
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43127;Riudecanyes;1146;823;263;453;516;307;12;0;504;504
+25;Lleida;5;Alt Pirineu i territori d'Aran;15;Cerdanya;25913;Riu de Cerdanya;93;88;29;57;72;16;0;0;72;72
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43128;Riudecols;1189;915;247;452;501;414;17;5;479;484
+17;Girona;3;Girona;34;Selva;17150;Riudellots de la Selva;2071;1450;523;906;1026;424;30;10;986;996
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43129;Riudoms;6569;4676;1052;2108;2555;2121;68;16;2471;2487
+17;Girona;3;Girona;2;Alt Empordà;17151;Riumors;246;176;41;91;111;65;3;2;106;108
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08181;Roca del Vallès, la;10754;8173;1897;4090;4750;3423;69;39;4642;4681
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43130;Rocafort de Queralt;211;177;77;110;123;54;3;0;120;120
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43131;Roda de Berà;6785;5099;1027;1821;2210;2889;51;9;2150;2159
+8;Barcelona;2;Catalunya Central;24;Osona;08183;Roda de Ter;6490;4586;1240;2302;2617;1969;33;31;2553;2584
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43132;Rodonyà;494;386;118;235;245;141;4;7;234;241
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43133;Roquetes;8079;5650;1203;2097;2580;3070;70;23;2487;2510
+17;Girona;3;Girona;2;Alt Empordà;17152;Roses;19807;11199;2202;4700;5353;5846;113;59;5181;5240
+25;Lleida;4;Lleida;33;Segrià;25189;Rosselló;3237;2228;525;983;1146;1082;35;7;1104;1111
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43134;Rourell, el;372;293;101;161;179;114;5;4;170;174
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08184;Rubí;78591;55303;9754;22229;25533;29770;345;212;24976;25188
+8;Barcelona;8;Penedès;6;Anoia;08185;Rubió;239;197;65;100;120;77;2;1;117;118
+17;Girona;3;Girona;10;Baix Empordà;17153;Rupià;273;200;65;138;153;47;3;1;149;150
+8;Barcelona;2;Catalunya Central;24;Osona;08901;Rupit i Pruit;271;245;119;164;189;56;6;7;176;183
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08187;Sabadell;216520;153953;35477;70458;81100;72853;993;639;79468;80107
+8;Barcelona;2;Catalunya Central;14;Berguedà;08188;Sagàs;145;117;47;78;89;28;1;2;86;88
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25190;Salàs de Pallars;327;265;89;140;173;92;4;0;169;169
+8;Barcelona;2;Catalunya Central;14;Berguedà;08190;Saldes;278;260;107;159;178;82;6;2;170;172
+17;Girona;3;Girona;19;Garrotxa;17154;Sales de Llierca;159;107;35;54;68;39;2;1;65;66
+8;Barcelona;2;Catalunya Central;7;Bages;08191;Sallent;6735;5245;1329;2473;2898;2347;26;43;2829;2872
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43135;Salomó;549;333;104;195;224;109;3;3;218;221
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43905;Salou;28526;15413;2747;5939;7077;8336;107;63;6907;6970
+17;Girona;3;Girona;20;Gironès;17155;Salt;32138;15067;3445;6198;6985;8082;102;57;6826;6883
+25;Lleida;4;Lleida;32;Segarra;25191;Sanaüja;379;335;71;168;198;137;11;3;184;187
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43138;Santa Bàrbara;3715;2644;531;899;1173;1471;48;11;1114;1125
+8;Barcelona;2;Catalunya Central;24;Osona;08243;Santa Cecília de Voltregà;182;152;39;100;109;43;3;2;104;106
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08244;Santa Coloma de Cervelló;8268;6207;1672;3157;3789;2418;56;37;3696;3733
+17;Girona;3;Girona;34;Selva;17180;Santa Coloma de Farners;13363;8588;1948;3773;4510;4078;75;43;4392;4435
+8;Barcelona;1;Barcelona;13;Barcelonès;08245;Santa Coloma de Gramenet;120443;76747;14730;29841;34091;42656;492;259;33340;33599
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43139;Santa Coloma de Queralt;2672;2013;394;962;1161;852;26;9;1126;1135
+17;Girona;3;Girona;10;Baix Empordà;17181;Santa Cristina d'Aro;5287;3578;773;1598;1899;1679;31;18;1850;1868
+8;Barcelona;1;Barcelona;13;Barcelonès;08194;Sant Adrià de Besòs;37447;25594;4246;8821;10359;15235;130;77;10152;10229
+8;Barcelona;2;Catalunya Central;24;Osona;08246;Santa Eugènia de Berga;2278;1693;533;991;1093;600;11;4;1078;1082
+8;Barcelona;2;Catalunya Central;24;Osona;08247;Santa Eulàlia de Riuprimer;1383;1013;305;641;720;293;21;7;692;699
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08248;Santa Eulàlia de Ronçana;7426;5805;1267;2671;3055;2750;34;31;2990;3021
+8;Barcelona;8;Penedès;3;Alt Penedès;08249;Santa Fe del Penedès;367;282;108;204;230;52;5;7;218;225
+8;Barcelona;2;Catalunya Central;24;Osona;08195;Sant Agustí de Lluçanès;89;80;24;49;57;23;6;1;50;51
+17;Girona;3;Girona;2;Alt Empordà;17182;Santa Llogaia d'Àlguema;368;285;88;142;151;134;5;1;145;146
+8;Barcelona;8;Penedès;6;Anoia;08250;Santa Margarida de Montbui;10225;7194;1514;2641;3141;4053;58;37;3046;3083
+8;Barcelona;8;Penedès;3;Alt Penedès;08251;Santa Margarida i els Monjos;7676;5181;1252;2245;2618;2563;36;26;2556;2582
+8;Barcelona;2;Catalunya Central;42;Moianès;08258;Santa Maria d'Oló;1024;839;250;534;588;251;8;7;573;580
+8;Barcelona;2;Catalunya Central;24;Osona;08253;Santa Maria de Besora;161;132;53;86;92;40;2;3;87;90
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08256;Santa Maria de Martorelles;890;692;172;365;425;267;5;9;411;420
+8;Barcelona;2;Catalunya Central;14;Berguedà;08255;Santa Maria de Merlès;184;124;44;77;89;35;0;2;87;89
+8;Barcelona;8;Penedès;6;Anoia;08257;Santa Maria de Miralles;119;106;45;67;76;30;1;2;73;75
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08259;Santa Maria de Palautordera;9630;7108;1991;3830;4371;2737;49;39;4283;4322
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08196;Sant Andreu de la Barca;27569;19510;4137;8553;9698;9812;132;86;9480;9566
+8;Barcelona;1;Barcelona;21;Maresme;08197;Sant Andreu de Llavaneres;11133;8082;1731;3825;4602;3480;50;41;4511;4552
+17;Girona;3;Girona;20;Gironès;17157;Sant Andreu Salou;160;119;35;86;97;22;1;2;94;96
+17;Girona;3;Girona;19;Garrotxa;17183;Sant Aniol de Finestres;345;255;95;152;172;83;4;4;164;168
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08198;Sant Antoni de Vilamajor;6208;4753;988;2241;2768;1985;44;22;2702;2724
+43;Tarragona;8;Penedès;12;Baix Penedès;43140;Santa Oliva;3353;2486;622;1061;1153;1333;19;11;1123;1134
+17;Girona;3;Girona;19;Garrotxa;17184;Santa Pau;1614;1254;419;719;830;424;19;11;800;811
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08260;Santa Perpètua de Mogoda;25999;18704;4028;8331;9461;9243;159;59;9243;9302
+8;Barcelona;1;Barcelona;21;Maresme;08261;Santa Susanna;3548;2447;572;1139;1388;1059;13;22;1353;1375
+8;Barcelona;2;Catalunya Central;24;Osona;08199;Sant Bartomeu del Grau;884;655;198;379;418;237;10;4;404;408
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08200;Sant Boi de Llobregat;84500;62107;13453;26848;30158;31949;380;333;29445;29778
+8;Barcelona;2;Catalunya Central;24;Osona;08201;Sant Boi de Lluçanès;580;465;143;239;303;162;13;6;284;290
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43136;Sant Carles de la Ràpita;14953;10594;2464;4400;4994;5600;88;40;4866;4906
+8;Barcelona;1;Barcelona;21;Maresme;08203;Sant Cebrià de Vallalta;3438;2523;614;1120;1285;1238;9;12;1264;1276
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08202;Sant Celoni;18136;13058;3343;6178;7012;6046;87;49;6876;6925
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08204;Sant Climent de Llobregat;4160;3173;728;1642;1858;1315;33;13;1812;1825
+17;Girona;3;Girona;2;Alt Empordà;17158;Sant Climent Sescebes;707;533;141;206;246;287;4;0;242;242
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08205;Sant Cugat del Vallès;92977;63270;15136;36121;42489;20781;418;349;41722;42071
+8;Barcelona;8;Penedès;3;Alt Penedès;08206;Sant Cugat Sesgarrigues;1009;741;201;463;530;211;7;4;519;523
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25196;Sant Esteve de la Sarga;122;105;23;42;67;38;1;1;65;66
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08207;Sant Esteve de Palautordera;2864;2126;438;1268;1467;659;20;20;1427;1447
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08208;Sant Esteve Sesrovires;7696;5870;1388;2792;3336;2534;35;31;3270;3301
+17;Girona;3;Girona;34;Selva;17159;Sant Feliu de Buixalleu;797;637;151;338;385;252;5;6;374;380
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08210;Sant Feliu de Codines;6363;4726;855;2017;2402;2324;37;19;2346;2365
+17;Girona;3;Girona;10;Baix Empordà;17160;Sant Feliu de Guíxols;22097;14851;3542;6426;7326;7525;108;71;7147;7218
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08211;Sant Feliu de Llobregat;45467;34114;9081;17174;19682;14432;277;150;19255;19405
+17;Girona;3;Girona;19;Garrotxa;17161;Sant Feliu de Pallerols;1437;1038;330;663;741;297;13;3;725;728
+8;Barcelona;2;Catalunya Central;7;Bages;08212;Sant Feliu Sasserra;605;481;190;300;343;138;9;3;331;334
+17;Girona;3;Girona;19;Garrotxa;17162;Sant Ferriol;236;160;47;74;91;69;0;1;90;91
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08209;Sant Fost de Campsentelles;8853;7033;1353;2895;3565;3468;39;34;3492;3526
+8;Barcelona;2;Catalunya Central;7;Bages;08213;Sant Fruitós de Bages;8837;6686;1608;3191;3751;2935;43;37;3671;3708
+17;Girona;3;Girona;20;Gironès;17163;Sant Gregori;3928;2941;861;1760;2030;911;45;9;1976;1985
+25;Lleida;4;Lleida;32;Segarra;25192;Sant Guim de Freixenet;1037;741;161;366;436;305;10;1;425;426
+25;Lleida;4;Lleida;32;Segarra;25197;Sant Guim de la Plana;181;140;67;97;106;34;2;2;102;104
+17;Girona;3;Girona;34;Selva;17164;Sant Hilari Sacalm;5703;3890;954;1759;2096;1794;56;14;2026;2040
+8;Barcelona;2;Catalunya Central;24;Osona;08215;Sant Hipòlit de Voltregà;3540;2618;756;1389;1545;1073;31;17;1497;1514
+8;Barcelona;1;Barcelona;21;Maresme;08193;Sant Iscle de Vallalta;1342;1022;242;493;570;452;14;5;551;556
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43902;Sant Jaume d'Enveja;3527;2769;761;1140;1294;1475;161;16;1117;1133
+8;Barcelona;2;Catalunya Central;14;Berguedà;08216;Sant Jaume de Frontanyà;30;23;7;9;12;11;0;0;12;12
+17;Girona;3;Girona;19;Garrotxa;17165;Sant Jaume de Llierca;871;627;194;338;377;250;5;4;368;372
+43;Tarragona;8;Penedès;12;Baix Penedès;43137;Sant Jaume dels Domenys;2624;1930;464;840;1003;927;23;5;975;980
+17;Girona;3;Girona;31;Ripollès;17167;Sant Joan de les Abadesses;3224;2603;756;1372;1627;976;33;24;1570;1594
+17;Girona;3;Girona;20;Gironès;17168;Sant Joan de Mollet;498;372;132;244;267;105;6;7;254;261
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08217;Sant Joan Despí;34267;25442;6180;12717;15070;10372;199;108;14763;14871
+8;Barcelona;2;Catalunya Central;7;Bages;08218;Sant Joan de Vilatorrada;10998;8032;2058;3728;4206;3826;38;42;4126;4168
+17;Girona;3;Girona;19;Garrotxa;17185;Sant Joan les Fonts;3044;2280;553;1053;1221;1059;9;13;1199;1212
+17;Girona;3;Girona;20;Gironès;17166;Sant Jordi Desvalls;760;547;227;368;413;134;10;0;403;403
+8;Barcelona;2;Catalunya Central;14;Berguedà;08903;Sant Julià de Cerdanyola;229;205;89;150;174;31;0;0;174;174
+17;Girona;3;Girona;34;Selva;17903;Sant Julià del Llor i Bonmatí;1313;918;268;508;550;368;6;5;539;544
+17;Girona;3;Girona;20;Gironès;17169;Sant Julià de Ramis;3576;2536;730;1423;1623;913;30;18;1575;1593
+8;Barcelona;2;Catalunya Central;24;Osona;08220;Sant Julià de Vilatorta;3140;2424;854;1634;1824;600;17;28;1779;1807
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08221;Sant Just Desvern;18670;13386;3731;7446;8850;4536;92;55;8703;8758
+8;Barcelona;8;Penedès;3;Alt Penedès;08222;Sant Llorenç d'Hortons;2428;1855;502;1059;1225;630;18;16;1191;1207
+17;Girona;3;Girona;2;Alt Empordà;17171;Sant Llorenç de la Muga;265;182;58;115;130;52;3;2;125;127
+25;Lleida;2;Catalunya Central;35;Solsonès;25193;Sant Llorenç de Morunys;960;794;252;429;487;307;12;1;474;475
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08223;Sant Llorenç Savall;2417;1957;478;952;1080;877;15;10;1055;1065
+8;Barcelona;2;Catalunya Central;24;Osona;08225;Sant Martí d'Albars;114;97;44;60;69;28;0;1;68;69
+8;Barcelona;2;Catalunya Central;24;Osona;08224;Sant Martí de Centelles;1184;884;228;448;524;360;11;4;509;513
+17;Girona;3;Girona;20;Gironès;17172;Sant Martí de Llémena;641;477;162;272;298;179;13;4;281;285
+25;Lleida;4;Lleida;38;Urgell;25902;Sant Martí de Riucorb;639;534;188;289;327;207;10;0;317;317
+8;Barcelona;8;Penedès;6;Anoia;08226;Sant Martí de Tous;1228;928;300;608;695;233;15;9;671;680
+8;Barcelona;8;Penedès;3;Alt Penedès;08227;Sant Martí Sarroca;3261;2424;631;1151;1376;1048;24;18;1334;1352
+8;Barcelona;2;Catalunya Central;6;Anoia;08228;Sant Martí Sesgueioles;342;287;94;176;200;87;8;3;189;192
+17;Girona;3;Girona;20;Gironès;17173;Sant Martí Vell;251;188;62;119;133;55;0;2;131;133
+8;Barcelona;2;Catalunya Central;7;Bages;08229;Sant Mateu de Bages;608;513;179;328;372;141;6;1;365;366
+17;Girona;3;Girona;28;Pla de l'Estany;17174;Sant Miquel de Campmajor;229;170;54;91;109;61;1;3;105;108
+17;Girona;3;Girona;2;Alt Empordà;17175;Sant Miquel de Fluvià;761;554;163;240;266;288;6;5;255;260
+17;Girona;3;Girona;2;Alt Empordà;17176;Sant Mori;166;118;53;79;92;26;0;1;91;92
+17;Girona;3;Girona;31;Ripollès;17177;Sant Pau de Segúries;688;584;187;296;339;245;16;5;318;323
+8;Barcelona;2;Catalunya Central;7;Bages;08192;Santpedor;7604;5715;1426;2925;3502;2213;39;26;3437;3463
+8;Barcelona;8;Penedès;17;Garraf;08231;Sant Pere de Ribes;31111;21551;4480;9253;10597;10954;130;85;10382;10467
+8;Barcelona;8;Penedès;3;Alt Penedès;08232;Sant Pere de Riudebitlles;2380;1798;484;943;1041;757;17;7;1017;1024
+8;Barcelona;2;Catalunya Central;24;Osona;08233;Sant Pere de Torelló;2470;1876;464;956;1110;766;11;15;1084;1099
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08234;Sant Pere de Vilamajor;4544;3513;687;1542;1947;1566;103;24;1820;1844
+17;Girona;3;Girona;2;Alt Empordà;17178;Sant Pere Pescador;2090;1073;311;542;604;469;7;1;596;597
+8;Barcelona;2;Catalunya Central;6;Anoia;08189;Sant Pere Sallavinera;151;123;47;88;104;19;3;2;99;101
+8;Barcelona;1;Barcelona;21;Maresme;08235;Sant Pol de Mar;5428;3976;1142;2145;2602;1374;30;15;2557;2572
+8;Barcelona;8;Penedès;3;Alt Penedès;08236;Sant Quintí de Mediona;2317;1609;437;695;892;717;18;10;864;874
+8;Barcelona;2;Catalunya Central;24;Osona;08237;Sant Quirze de Besora;2154;1633;521;912;1039;594;18;9;1012;1021
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08238;Sant Quirze del Vallès;20195;14968;3717;8256;9571;5397;108;71;9392;9463
+8;Barcelona;2;Catalunya Central;42;Moianès;08239;Sant Quirze Safaja;631;476;119;267;312;164;3;3;306;309
+25;Lleida;4;Lleida;32;Segarra;25194;Sant Ramon;487;403;119;202;244;159;9;2;233;235
+8;Barcelona;8;Penedès;3;Alt Penedès;08240;Sant Sadurní d'Anoia;12841;9481;2246;4720;5518;3963;75;31;5412;5443
+8;Barcelona;2;Catalunya Central;24;Osona;08241;Sant Sadurní d'Osormort;76;66;20;45;51;15;0;0;51;51
+8;Barcelona;2;Catalunya Central;7;Bages;08098;Sant Salvador de Guardiola;3221;2495;645;1242;1407;1088;24;17;1366;1383
+8;Barcelona;2;Catalunya Central;7;Bages;08262;Sant Vicenç de Castellet;9767;6968;1512;2834;3323;3645;59;49;3215;3264
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08263;Sant Vicenç dels Horts;28268;21241;4512;9148;10429;10812;170;77;10182;10259
+8;Barcelona;1;Barcelona;21;Maresme;08264;Sant Vicenç de Montalt;6452;4693;1038;2310;2824;1869;35;22;2767;2789
+8;Barcelona;2;Catalunya Central;24;Osona;08265;Sant Vicenç de Torelló;2058;1621;555;1017;1132;489;16;15;1101;1116
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43142;Sarral;1538;1077;254;512;599;478;11;5;583;588
+17;Girona;3;Girona;20;Gironès;17186;Sarrià de Ter;5229;3868;1027;1931;2212;1656;35;20;2157;2177
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25201;Sarroca de Bellera;116;106;17;34;63;43;2;0;61;61
+25;Lleida;4;Lleida;33;Segrià;25200;Sarroca de Lleida;358;311;116;179;197;114;2;1;194;195
+17;Girona;3;Girona;2;Alt Empordà;17187;Saus, Camallera i Llampaies;856;649;226;410;464;185;8;3;453;456
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43143;Savallà del Comtat;53;51;21;31;36;15;0;1;35;36
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43144;Secuita, la;1708;1248;330;657;742;506;12;4;726;730
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43145;Selva del Camp, la;5683;4280;1049;2160;2578;1702;55;14;2509;2523
+17;Girona;3;Girona;2;Alt Empordà;17188;Selva de Mar, la;195;171;71;112;128;43;3;1;124;125
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43146;Senan;44;37;11;19;30;7;1;0;29;29
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43044;Sénia, la;5640;3924;878;1575;2001;1923;56;23;1922;1945
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25202;Senterada;139;104;30;46;57;47;0;0;57;57
+25;Lleida;4;Lleida;23;Noguera;25035;Sentiu de Sió, la;414;367;129;203;237;130;4;3;230;233
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08267;Sentmenat;9235;6897;1570;3050;3609;3288;55;33;3521;3554
+17;Girona;3;Girona;28;Pla de l'Estany;17190;Serinyà;1133;847;259;486;520;327;15;4;501;505
+25;Lleida;4;Lleida;33;Segrià;25204;Seròs;1946;1144;281;582;650;494;10;5;635;640
+17;Girona;3;Girona;10;Baix Empordà;17191;Serra de Daró;222;171;88;134;146;25;0;1;145;146
+17;Girona;3;Girona;31;Ripollès;17192;Setcases;170;147;49;84;96;51;4;4;88;92
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25203;Seu d'Urgell, la;12206;8840;1944;3769;4423;4417;86;64;4273;4337
+8;Barcelona;2;Catalunya Central;24;Osona;08269;Seva;3544;2780;768;1501;1748;1032;20;28;1700;1728
+25;Lleida;4;Lleida;27;Pla d'Urgell;25205;Sidamon;748;571;208;327;356;215;14;3;339;342
+17;Girona;3;Girona;34;Selva;17193;Sils;6219;4405;1150;1947;2161;2244;34;19;2108;2127
+8;Barcelona;8;Penedès;17;Garraf;08270;Sitges;29553;19238;4286;9157;10760;8478;109;83;10568;10651
+17;Girona;3;Girona;2;Alt Empordà;17052;Siurana;171;136;46;85;97;39;1;0;96;96
+8;Barcelona;2;Catalunya Central;24;Osona;08271;Sobremunt;78;65;16;30;36;29;0;2;34;36
+25;Lleida;4;Lleida;18;Garrigues;25206;Soleràs, el;332;254;83;150;185;69;1;3;181;184
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43147;Solivella;632;529;201;336;375;154;11;7;357;364
+25;Lleida;2;Catalunya Central;35;Solsonès;25207;Solsona;9137;6458;1429;2901;3487;2971;67;31;3389;3420
+8;Barcelona;2;Catalunya Central;24;Osona;08272;Sora;212;162;46;99;116;46;1;2;113;115
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25208;Soriguera;420;342;70;146;217;125;3;1;213;214
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25209;Sort;2154;1614;300;667;962;652;25;15;922;937
+25;Lleida;4;Lleida;33;Segrià;25210;Soses;1761;1063;389;605;673;390;18;4;651;655
+8;Barcelona;8;Penedès;3;Alt Penedès;08273;Subirats;3104;2423;793;1465;1649;774;22;10;1617;1627
+25;Lleida;4;Lleida;33;Segrià;25211;Sudanell;840;652;158;317;379;273;5;3;371;374
+25;Lleida;4;Lleida;33;Segrià;25212;Sunyer;343;221;65;124;140;81;1;8;131;139
+8;Barcelona;2;Catalunya Central;7;Bages;08274;Súria;5948;4598;1182;2182;2601;1997;38;10;2553;2563
+17;Girona;3;Girona;34;Selva;17194;Susqueda;93;73;32;39;49;24;0;3;46;49
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08276;Tagamanent;318;241;93;130;147;94;0;1;146;147
+8;Barcelona;2;Catalunya Central;7;Bages;08277;Talamanca;209;174;71;113;122;52;1;1;120;121
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25215;Talarn;595;420;120;168;204;216;4;4;196;200
+25;Lleida;4;Lleida;32;Segarra;25216;Talavera;279;241;80;132;165;76;1;1;163;164
+17;Girona;3;Girona;10;Baix Empordà;17195;Tallada d'Empordà, la;454;351;165;252;278;73;4;2;272;274
+8;Barcelona;2;Catalunya Central;24;Osona;08278;Taradell;6640;4999;1487;2726;3229;1770;30;22;3177;3199
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43148;Tarragona;136496;91026;20000;40588;47705;43321;674;378;46653;47031
+25;Lleida;4;Lleida;38;Urgell;25217;Tàrrega;17445;11044;2825;5207;5954;5090;93;86;5775;5861
+25;Lleida;4;Lleida;18;Garrigues;25218;Tarrés;102;84;26;51;64;20;0;2;62;64
+25;Lleida;4;Lleida;32;Segarra;25219;Tarroja de Segarra;188;148;26;68;87;61;3;3;81;84
+8;Barcelona;2;Catalunya Central;24;Osona;08275;Tavèrnoles;322;249;89;160;179;70;1;4;174;178
+8;Barcelona;2;Catalunya Central;24;Osona;08280;Tavertet;105;92;36;63;68;24;0;0;68;68
+8;Barcelona;1;Barcelona;21;Maresme;08281;Teià;6427;4960;1294;2716;3264;1696;42;21;3201;3222
+25;Lleida;4;Lleida;23;Noguera;25220;Térmens;1360;976;410;589;641;335;10;5;626;631
+17;Girona;3;Girona;2;Alt Empordà;17196;Terrades;338;245;83;147;156;89;7;3;146;149
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08279;Terrassa;223627;156476;33341;68636;79141;77335;979;784;77378;78162
+8;Barcelona;1;Barcelona;21;Maresme;08282;Tiana;8945;6858;1754;3899;4603;2255;45;35;4523;4558
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25221;Tírvia;134;118;39;66;85;33;5;1;79;80
+25;Lleida;4;Lleida;23;Noguera;25222;Tiurana;77;67;24;37;53;14;1;0;52;52
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43149;Tivenys;902;681;234;385;423;258;10;7;406;413
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43150;Tivissa;1619;1219;382;704;834;385;25;6;803;809
+8;Barcelona;2;Catalunya Central;24;Osona;08283;Tona;8356;6216;1223;2728;3424;2792;35;44;3345;3389
+25;Lleida;4;Lleida;32;Segarra;25223;Torà;1237;905;237;448;541;364;15;6;520;526
+8;Barcelona;1;Barcelona;21;Maresme;08284;Tordera;17519;12824;2311;4749;5449;7375;103;36;5310;5346
+8;Barcelona;2;Catalunya Central;24;Osona;08285;Torelló;14400;10309;2578;4784;5608;4701;99;49;5460;5509
+25;Lleida;4;Lleida;18;Garrigues;25224;Torms, els;138;121;37;73;88;33;1;2;85;87
+25;Lleida;4;Lleida;38;Urgell;25225;Tornabous;822;521;171;284;316;205;1;5;310;315
+25;Lleida;4;Lleida;33;Segrià;25226;Torrebesses;267;239;87;125;143;96;1;0;142;142
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25227;Torre de Cabdella, la;759;658;142;251;440;218;6;6;428;434
+8;Barcelona;8;Penedès;6;Anoia;08286;Torre de Claramunt, la;3741;3000;685;1285;1463;1537;27;15;1421;1436
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43151;Torre de Fontaubella, la;131;106;54;70;83;23;1;1;81;82
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43152;Torre de l'Espanyol, la;601;427;149;265;293;134;14;1;278;279
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43153;Torredembarra;16567;11525;2609;4635;5459;6066;98;34;5327;5361
+25;Lleida;4;Lleida;33;Segrià;25228;Torrefarrera;4694;3215;695;1477;1766;1449;22;39;1705;1744
+25;Lleida;4;Lleida;32;Segarra;25907;Torrefeta i Florejacs;607;491;144;258;294;197;6;12;276;288
+25;Lleida;4;Lleida;27;Pla d'Urgell;25230;Torregrossa;2179;1518;430;784;906;612;19;15;872;887
+25;Lleida;4;Lleida;23;Noguera;25231;Torrelameu;735;483;149;310;358;125;10;2;346;348
+8;Barcelona;8;Penedès;3;Alt Penedès;08287;Torrelavit;1422;1075;374;662;730;345;16;7;707;714
+8;Barcelona;8;Penedès;3;Alt Penedès;08288;Torrelles de Foix;2398;1746;393;637;764;982;11;5;748;753
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08289;Torrelles de Llobregat;6073;4560;940;2186;2688;1872;30;20;2638;2658
+17;Girona;3;Girona;10;Baix Empordà;17197;Torrent;164;126;48;78;91;35;0;3;88;91
+25;Lleida;4;Lleida;33;Segrià;25232;Torres de Segre;2366;1340;404;699;782;558;12;4;766;770
+25;Lleida;4;Lleida;33;Segrià;25233;Torre-serona;398;275;91;172;187;88;1;2;184;186
+17;Girona;3;Girona;2;Alt Empordà;17198;Torroella de Fluvià;703;447;151;230;264;183;4;1;259;260
+17;Girona;3;Girona;10;Baix Empordà;17199;Torroella de Montgrí;11836;7059;1774;3332;3995;3064;67;30;3898;3928
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43154;Torroja del Priorat;152;121;48;86;99;22;1;1;97;98
+17;Girona;3;Girona;19;Garrotxa;17200;Tortellà;818;635;198;362;416;219;7;6;403;409
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43155;Tortosa;33439;22578;5437;9396;11041;11537;230;110;10701;10811
+17;Girona;3;Girona;31;Ripollès;17201;Toses;168;146;35;63;98;48;1;2;95;97
+17;Girona;3;Girona;34;Selva;17202;Tossa de Mar;5818;3923;872;1721;2079;1844;48;17;2014;2031
+25;Lleida;5;Alt Pirineu i territori d'Aran;25;Pallars Jussà;25234;Tremp;5911;4187;887;1631;2256;1931;50;28;2178;2206
+17;Girona;3;Girona;10;Baix Empordà;17204;Ullà;1177;624;200;331;370;254;6;4;360;364
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08290;Ullastrell;2089;1567;417;878;991;576;10;6;975;981
+17;Girona;3;Girona;10;Baix Empordà;17205;Ullastret;274;194;76;121;142;52;1;0;141;141
+43;Tarragona;7;Terres de l'Ebre;22;Montsià;43156;Ulldecona;6525;3993;805;1387;1994;1999;36;21;1937;1958
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43157;Ulldemolins;398;349;164;241;270;79;4;3;263;266
+17;Girona;3;Girona;10;Baix Empordà;17203;Ultramort;225;162;60;94;105;57;2;2;101;103
+17;Girona;5;Alt Pirineu i territori d'Aran;15;Cerdanya;17206;Urús;196;175;43;98;122;53;5;1;116;117
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08291;Vacarisses;6832;5240;746;2109;2539;2701;26;20;2493;2513
+17;Girona;3;Girona;2;Alt Empordà;17014;Vajol, la;89;62;20;36;40;22;0;0;40;40
+8;Barcelona;8;Penedès;6;Anoia;08292;Vallbona d'Anoia;1357;1062;286;557;648;414;12;5;631;636
+25;Lleida;4;Lleida;38;Urgell;25238;Vallbona de les Monges;243;212;80;122;141;71;7;1;133;134
+8;Barcelona;2;Catalunya Central;14;Berguedà;08293;Vallcebre;249;237;73;128;165;72;3;1;161;162
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43158;Vallclara;88;74;28;45;56;18;6;0;50;50
+17;Girona;3;Girona;19;Garrotxa;17207;Vall d'en Bas, la;3093;2444;801;1479;1668;776;22;32;1614;1646
+17;Girona;3;Girona;19;Garrotxa;17208;Vall de Bianya, la;1275;1013;279;510;586;427;9;14;563;577
+25;Lleida;5;Alt Pirineu i territori d'Aran;5;Alta Ribagorça;25043;Vall de Boí, la;1019;819;210;352;498;321;15;3;480;483
+25;Lleida;5;Alt Pirineu i territori d'Aran;26;Pallars Sobirà;25901;Vall de Cardós;350;303;63;143;213;90;9;0;204;204
+25;Lleida;4;Lleida;23;Noguera;25240;Vallfogona de Balaguer;1906;1361;439;763;850;511;16;12;822;834
+17;Girona;3;Girona;31;Ripollès;17170;Vallfogona de Ripollès;196;179;73;113;133;46;0;0;133;133
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43159;Vallfogona de Riucorb;77;76;32;47;59;17;2;1;56;57
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08294;Vallgorguina;2988;2194;587;1098;1258;936;22;7;1229;1236
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08295;Vallirana;15312;11512;2452;4656;5734;5778;73;38;5623;5661
+17;Girona;3;Girona;10;Baix Empordà;17209;Vall-llobrega;897;639;144;386;427;212;7;4;416;420
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43160;Vallmoll;1774;1331;353;675;759;572;9;14;736;750
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08296;Vallromanes;2558;1873;462;991;1244;629;17;6;1221;1227
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43161;Valls;24477;17096;3919;7602;8592;8504;117;50;8425;8475
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25906;Valls d'Aguilar, les;245;211;47;87;122;89;1;1;120;121
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25239;Valls de Valira, les;784;579;107;189;238;341;4;0;234;234
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43162;Vandellòs i l'Hospitalet de l'Infant;6603;4476;1072;1973;2485;1991;33;23;2429;2452
+25;Lleida;5;Alt Pirineu i territori d'Aran;4;Alt Urgell;25909;Vansa i Fórnols, la;149;131;47;66;90;41;4;1;85;86
+8;Barcelona;2;Catalunya Central;6;Anoia;08297;Veciana;175;135;52;76;90;45;2;4;84;88
+43;Tarragona;8;Penedès;12;Baix Penedès;43163;Vendrell, el;38373;26565;5010;9906;11628;14937;221;101;11306;11407
+17;Girona;3;Girona;2;Alt Empordà;17210;Ventalló;846;602;157;338;387;215;9;5;373;378
+25;Lleida;4;Lleida;38;Urgell;25242;Verdú;902;703;176;351;404;299;8;3;393;396
+17;Girona;3;Girona;10;Baix Empordà;17211;Verges;1169;846;305;517;595;251;7;5;583;588
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43164;Vespella de Gaià;417;319;111;153;180;139;3;0;177;177
+8;Barcelona;2;Catalunya Central;24;Osona;08298;Vic;47630;27198;6936;13612;15646;11552;199;127;15320;15447
+17;Girona;2;Catalunya Central;24;Osona;17212;Vidrà;177;148;50;90;113;35;3;6;104;110
+17;Girona;3;Girona;34;Selva;17213;Vidreres;7951;5679;1086;2138;2593;3086;40;27;2526;2553
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25243;Vielha e Mijaran;5611;3754;618;1259;1721;2033;38;19;1664;1683
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43165;Vilabella;729;557;197;364;399;158;6;4;389;393
+17;Girona;3;Girona;2;Alt Empordà;17214;Vilabertran;993;710;200;380;434;276;12;2;420;422
+17;Girona;3;Girona;20;Gironès;17215;Vilablareix;3063;2426;753;1424;1663;763;33;28;1602;1630
+8;Barcelona;2;Catalunya Central;14;Berguedà;08299;Vilada;419;375;138;219;245;130;2;7;236;243
+17;Girona;3;Girona;2;Alt Empordà;17217;Viladamat;458;365;153;249;277;88;3;3;271;274
+17;Girona;3;Girona;20;Gironès;17216;Viladasens;206;163;51;106;118;45;5;0;113;113
+8;Barcelona;1;Barcelona;11;Baix Llobregat;08301;Viladecans;67197;49304;10952;21417;24304;25000;407;217;23680;23897
+8;Barcelona;1;Barcelona;40;Vallès Occidental;08300;Viladecavalls;7545;5991;1470;3189;3560;2431;61;36;3463;3499
+17;Girona;3;Girona;28;Pla de l'Estany;17218;Vilademuls;835;578;205;369;423;155;9;7;407;414
+17;Girona;2;Catalunya Central;24;Osona;17220;Viladrau;1047;832;280;542;592;240;14;4;574;578
+17;Girona;3;Girona;2;Alt Empordà;17221;Vilafant;5421;4188;1108;2078;2393;1795;39;18;2336;2354
+8;Barcelona;8;Penedès;3;Alt Penedès;08305;Vilafranca del Penedès;40154;27696;7199;13558;15548;12148;219;115;15214;15329
+25;Lleida;4;Lleida;38;Urgell;25244;Vilagrassa;560;385;124;241;252;133;10;5;237;242
+17;Girona;3;Girona;2;Alt Empordà;17223;Vilajuïga;1116;819;193;407;477;342;3;7;467;474
+43;Tarragona;7;Terres de l'Ebre;37;Terra Alta;43175;Vilalba dels Arcs;621;531;149;265;318;213;4;5;309;314
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08306;Vilalba Sasserra;753;544;150;260;292;252;8;2;282;284
+25;Lleida;5;Alt Pirineu i territori d'Aran;5;Alta Ribagorça;25245;Vilaller;549;433;128;201;245;188;2;5;238;243
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43166;Vilallonga del Camp;2405;1628;392;769;850;778;14;9;827;836
+17;Girona;3;Girona;31;Ripollès;17224;Vilallonga de Ter;398;292;97;154;176;116;25;1;150;151
+17;Girona;3;Girona;2;Alt Empordà;17225;Vilamacolum;377;207;75;126;136;71;0;4;132;136
+17;Girona;3;Girona;2;Alt Empordà;17226;Vilamalla;1161;878;260;412;456;422;3;8;445;453
+17;Girona;3;Girona;2;Alt Empordà;17227;Vilamaniscle;212;148;51;81;95;53;0;0;95;95
+25;Lleida;5;Alt Pirineu i territori d'Aran;39;Consell General d'Aran;25247;Vilamòs;178;147;30;45;72;75;1;3;68;71
+17;Girona;3;Girona;2;Alt Empordà;17228;Vilanant;386;287;99;176;191;96;5;1;185;186
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43167;Vilanova d'Escornalbou;565;417;137;253;282;135;5;6;271;277
+25;Lleida;4;Lleida;27;Pla d'Urgell;25248;Vilanova de Bellpuig;1183;874;284;537;625;249;9;15;601;616
+25;Lleida;4;Lleida;23;Noguera;25249;Vilanova de l'Aguda;200;172;54;93;106;66;6;0;100;100
+25;Lleida;4;Lleida;33;Segrià;25254;Vilanova de la Barca;1088;709;196;357;419;290;13;3;403;406
+8;Barcelona;8;Penedès;6;Anoia;08302;Vilanova del Camí;12596;9419;1996;3810;4307;5112;102;45;4160;4205
+8;Barcelona;1;Barcelona;41;Vallès Oriental;08902;Vilanova del Vallès;5503;4043;969;1947;2278;1765;40;26;2212;2238
+25;Lleida;4;Lleida;23;Noguera;25250;Vilanova de Meià;415;324;105;171;209;115;6;2;201;203
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43168;Vilanova de Prades;107;82;27;41;53;29;3;1;49;50
+8;Barcelona;2;Catalunya Central;24;Osona;08303;Vilanova de Sau;312;263;107;158;191;72;2;0;189;189
+25;Lleida;4;Lleida;33;Segrià;25251;Vilanova de Segrià;985;714;195;394;437;277;3;14;420;434
+8;Barcelona;8;Penedès;17;Garraf;08307;Vilanova i la Geltrú;67733;49558;11815;22939;26315;23243;364;222;25729;25951
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43169;Vilaplana;555;434;169;309;355;79;1;3;351;354
+43;Tarragona;6;Camp de Tarragona;1;Alt Camp;43170;Vila-rodona;1276;899;250;512;574;325;14;7;553;560
+17;Girona;3;Girona;2;Alt Empordà;17230;Vila-sacra;758;501;155;271;300;201;3;3;294;297
+25;Lleida;4;Lleida;27;Pla d'Urgell;25252;Vila-sana;734;570;173;269;304;266;1;10;293;303
+43;Tarragona;6;Camp de Tarragona;36;Tarragonès;43171;Vila-seca;22555;15025;3464;6553;7436;7589;132;65;7239;7304
+8;Barcelona;1;Barcelona;21;Maresme;08214;Vilassar de Dalt;9072;7049;1902;3415;4260;2789;46;43;4171;4214
+8;Barcelona;1;Barcelona;21;Maresme;08219;Vilassar de Mar;21035;15803;4103;8248;9803;6000;121;70;9612;9682
+17;Girona;3;Girona;2;Alt Empordà;17222;Vilaür;158;108;57;81;92;16;4;2;86;88
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43172;Vilaverd;443;341;88;149;177;164;8;6;163;169
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43173;Vilella Alta, la;133;97;38;64;69;28;1;2;66;68
+43;Tarragona;6;Camp de Tarragona;29;Priorat;43174;Vilella Baixa, la;204;147;48;95;118;29;1;0;117;117
+17;Girona;3;Girona;34;Selva;17233;Vilobí d'Onyar;3333;2386;682;1335;1479;907;25;11;1443;1454
+8;Barcelona;8;Penedès;3;Alt Penedès;08304;Vilobí del Penedès;1102;842;180;455;541;301;5;2;534;536
+17;Girona;3;Girona;10;Baix Empordà;17232;Vilopriu;204;171;78;105;119;52;1;1;117;118
+25;Lleida;4;Lleida;18;Garrigues;25253;Vilosell, el;173;154;44;101;118;36;2;2;114;116
+43;Tarragona;6;Camp de Tarragona;16;Conca de Barberà;43176;Vimbodí i Poblet;890;735;249;397;472;263;12;2;458;460
+25;Lleida;4;Lleida;18;Garrigues;25255;Vinaixa;450;383;134;235;265;118;7;2;256;258
+43;Tarragona;7;Terres de l'Ebre;30;Ribera d'Ebre;43177;Vinebre;425;287;126;200;219;68;4;1;214;215
+43;Tarragona;6;Camp de Tarragona;8;Baix Camp;43178;Vinyols i els Arcs;2124;1495;439;781;883;612;10;9;864;873
+8;Barcelona;2;Catalunya Central;14;Berguedà;08308;Viver i Serrateix;172;139;49;83;104;35;1;3;100;103
+43;Tarragona;7;Terres de l'Ebre;9;Baix Ebre;43052;Xerta;1154;917;267;436;521;396;18;2;501;503
+8;Barcelona;98;Residents Absents;;;08998;Residents Absents;;197011; ; ;7996;189015;460;41;7495;7536
+17;Girona;98;Residents Absents;;;17998;Residents Absents;;21379; ; ;1029;20350;2;3;1024;1027
+25;Lleida;98;Residents Absents;;;25998;Residents Absents;;17363; ; ;725;16638;9;3;713;716
+43;Tarragona;98;Residents Absents;;;43998;Residents Absents;;19411; ; ;966;18445;7;8;951;959

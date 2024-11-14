@@ -1,0 +1,2665 @@
+"Any","Mes","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Durada_atur","Nombre"
+2022,1,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1276
+2022,1,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",373
+2022,1,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",376
+2022,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",518
+2022,1,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",466
+2022,1,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",753
+2022,1,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",533
+2022,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",520
+2022,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",767
+2022,1,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",575
+2022,1,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",766
+2022,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",39
+2022,1,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",613
+2022,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",194
+2022,1,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",269
+2022,1,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",316
+2022,1,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",310
+2022,1,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",619
+2022,1,4,"Les Corts",19,"les Corts","Fins a 6 mesos",608
+2022,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",307
+2022,1,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",77
+2022,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",34
+2022,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",171
+2022,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",131
+2022,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",190
+2022,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",381
+2022,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",357
+2022,1,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",228
+2022,1,6,"Gràcia",29,"el Coll","Fins a 6 mesos",95
+2022,1,6,"Gràcia",30,"la Salut","Fins a 6 mesos",183
+2022,1,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",794
+2022,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",492
+2022,1,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",368
+2022,1,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",130
+2022,1,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",581
+2022,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",168
+2022,1,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",573
+2022,1,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",194
+2022,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",121
+2022,1,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",88
+2022,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",93
+2022,1,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,1,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",507
+2022,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",470
+2022,1,8,"Nou Barris",45,"Porta","Fins a 6 mesos",432
+2022,1,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",303
+2022,1,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",41
+2022,1,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",317
+2022,1,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",155
+2022,1,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",336
+2022,1,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",257
+2022,1,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",486
+2022,1,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",244
+2022,1,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",68
+2022,1,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",355
+2022,1,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",41
+2022,1,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",329
+2022,1,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",42
+2022,1,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",238
+2022,1,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",962
+2022,1,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",435
+2022,1,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",212
+2022,1,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",329
+2022,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",613
+2022,1,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",430
+2022,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",214
+2022,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",138
+2022,1,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",477
+2022,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",250
+2022,1,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",569
+2022,1,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",334
+2022,1,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",425
+2022,1,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",477
+2022,1,99,"No consta",99,"No consta","Fins a 6 mesos",24
+2022,1,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",266
+2022,1,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",75
+2022,1,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",66
+2022,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",92
+2022,1,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",87
+2022,1,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",135
+2022,1,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",102
+2022,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",90
+2022,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",150
+2022,1,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",106
+2022,1,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",143
+2022,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",9
+2022,1,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",127
+2022,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",36
+2022,1,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",46
+2022,1,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",54
+2022,1,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",67
+2022,1,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",117
+2022,1,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",123
+2022,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",66
+2022,1,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",18
+2022,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",9
+2022,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",41
+2022,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",33
+2022,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",46
+2022,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",84
+2022,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",71
+2022,1,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",42
+2022,1,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",17
+2022,1,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",33
+2022,1,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",139
+2022,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",87
+2022,1,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",65
+2022,1,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",24
+2022,1,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",130
+2022,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",35
+2022,1,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",119
+2022,1,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",40
+2022,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",25
+2022,1,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",18
+2022,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",19
+2022,1,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",1
+2022,1,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",102
+2022,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",95
+2022,1,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",93
+2022,1,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",59
+2022,1,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",8
+2022,1,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",70
+2022,1,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",34
+2022,1,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",74
+2022,1,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",56
+2022,1,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",105
+2022,1,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",48
+2022,1,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",13
+2022,1,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",69
+2022,1,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",8
+2022,1,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",64
+2022,1,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",8
+2022,1,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",46
+2022,1,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",188
+2022,1,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",91
+2022,1,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",44
+2022,1,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",70
+2022,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",123
+2022,1,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",81
+2022,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",39
+2022,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",29
+2022,1,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",98
+2022,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",50
+2022,1,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",115
+2022,1,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",67
+2022,1,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",91
+2022,1,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",103
+2022,1,99,"No consta",99,"No consta","De 6 a 12 mesos",11
+2022,1,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1497
+2022,1,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",391
+2022,1,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",411
+2022,1,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",568
+2022,1,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",510
+2022,1,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",855
+2022,1,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",531
+2022,1,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",548
+2022,1,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",897
+2022,1,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",634
+2022,1,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",897
+2022,1,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",52
+2022,1,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",880
+2022,1,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",231
+2022,1,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",309
+2022,1,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",363
+2022,1,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",388
+2022,1,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",738
+2022,1,4,"Les Corts",19,"les Corts","Més de 12 mesos",743
+2022,1,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",383
+2022,1,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",96
+2022,1,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",44
+2022,1,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",215
+2022,1,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",170
+2022,1,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",264
+2022,1,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",419
+2022,1,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",386
+2022,1,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",264
+2022,1,6,"Gràcia",29,"el Coll","Més de 12 mesos",107
+2022,1,6,"Gràcia",30,"la Salut","Més de 12 mesos",233
+2022,1,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",786
+2022,1,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",566
+2022,1,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",443
+2022,1,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",168
+2022,1,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",726
+2022,1,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",232
+2022,1,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",789
+2022,1,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",249
+2022,1,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",152
+2022,1,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",110
+2022,1,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",117
+2022,1,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",8
+2022,1,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",661
+2022,1,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",620
+2022,1,8,"Nou Barris",45,"Porta","Més de 12 mesos",625
+2022,1,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",381
+2022,1,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",54
+2022,1,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",454
+2022,1,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",221
+2022,1,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",480
+2022,1,8,"Nou Barris",51,"Verdun","Més de 12 mesos",368
+2022,1,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",702
+2022,1,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",319
+2022,1,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",88
+2022,1,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",460
+2022,1,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",53
+2022,1,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",426
+2022,1,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",57
+2022,1,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",324
+2022,1,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1310
+2022,1,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",562
+2022,1,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",274
+2022,1,9,"Sant Andreu",63,"Navas","Més de 12 mesos",422
+2022,1,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",816
+2022,1,10,"Sant Martí",65,"el Clot","Més de 12 mesos",600
+2022,1,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",301
+2022,1,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",179
+2022,1,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",628
+2022,1,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",321
+2022,1,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",738
+2022,1,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",490
+2022,1,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",671
+2022,1,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",758
+2022,1,99,"No consta",99,"No consta","Més de 12 mesos",37
+2022,2,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1352
+2022,2,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",390
+2022,2,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",393
+2022,2,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",537
+2022,2,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",500
+2022,2,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",787
+2022,2,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",537
+2022,2,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",586
+2022,2,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",828
+2022,2,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",620
+2022,2,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",815
+2022,2,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",38
+2022,2,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",624
+2022,2,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",206
+2022,2,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",281
+2022,2,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",330
+2022,2,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",330
+2022,2,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",653
+2022,2,4,"Les Corts",19,"les Corts","Fins a 6 mesos",650
+2022,2,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",326
+2022,2,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",81
+2022,2,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",37
+2022,2,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",181
+2022,2,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",141
+2022,2,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",201
+2022,2,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",390
+2022,2,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",367
+2022,2,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",237
+2022,2,6,"Gràcia",29,"el Coll","Fins a 6 mesos",99
+2022,2,6,"Gràcia",30,"la Salut","Fins a 6 mesos",196
+2022,2,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",840
+2022,2,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",505
+2022,2,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",383
+2022,2,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",141
+2022,2,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",606
+2022,2,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",178
+2022,2,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",606
+2022,2,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",201
+2022,2,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",124
+2022,2,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",90
+2022,2,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",96
+2022,2,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,2,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",542
+2022,2,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",512
+2022,2,8,"Nou Barris",45,"Porta","Fins a 6 mesos",485
+2022,2,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",327
+2022,2,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",44
+2022,2,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",333
+2022,2,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",163
+2022,2,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",353
+2022,2,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",270
+2022,2,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",545
+2022,2,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",261
+2022,2,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",73
+2022,2,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",381
+2022,2,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",44
+2022,2,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",353
+2022,2,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",44
+2022,2,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",252
+2022,2,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1021
+2022,2,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",455
+2022,2,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",221
+2022,2,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",344
+2022,2,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",645
+2022,2,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",450
+2022,2,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",223
+2022,2,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",146
+2022,2,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",504
+2022,2,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",271
+2022,2,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",617
+2022,2,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",359
+2022,2,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",466
+2022,2,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",525
+2022,2,99,"No consta",99,"No consta","Fins a 6 mesos",31
+2022,2,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",277
+2022,2,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",68
+2022,2,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",64
+2022,2,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",89
+2022,2,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",78
+2022,2,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",128
+2022,2,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",107
+2022,2,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",91
+2022,2,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",149
+2022,2,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",106
+2022,2,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",126
+2022,2,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",8
+2022,2,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",124
+2022,2,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",33
+2022,2,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",49
+2022,2,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",57
+2022,2,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",60
+2022,2,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",115
+2022,2,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",119
+2022,2,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",59
+2022,2,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",15
+2022,2,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",7
+2022,2,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",33
+2022,2,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",27
+2022,2,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",43
+2022,2,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",81
+2022,2,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",69
+2022,2,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",41
+2022,2,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",17
+2022,2,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",30
+2022,2,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",133
+2022,2,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",86
+2022,2,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",62
+2022,2,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",21
+2022,2,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",118
+2022,2,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",32
+2022,2,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",108
+2022,2,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",38
+2022,2,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",24
+2022,2,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",17
+2022,2,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",18
+2022,2,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",1
+2022,2,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",96
+2022,2,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",88
+2022,2,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",81
+2022,2,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",57
+2022,2,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",8
+2022,2,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",60
+2022,2,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",29
+2022,2,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",64
+2022,2,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",49
+2022,2,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",91
+2022,2,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",46
+2022,2,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",13
+2022,2,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",67
+2022,2,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",8
+2022,2,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",62
+2022,2,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",8
+2022,2,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",46
+2022,2,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",184
+2022,2,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",89
+2022,2,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",43
+2022,2,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",68
+2022,2,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",113
+2022,2,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",76
+2022,2,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",37
+2022,2,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",27
+2022,2,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",91
+2022,2,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",52
+2022,2,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",118
+2022,2,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",63
+2022,2,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",82
+2022,2,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",92
+2022,2,99,"No consta",99,"No consta","De 6 a 12 mesos",9
+2022,2,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1405
+2022,2,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",383
+2022,2,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",390
+2022,2,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",543
+2022,2,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",479
+2022,2,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",806
+2022,2,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",503
+2022,2,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",524
+2022,2,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",844
+2022,2,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",600
+2022,2,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",854
+2022,2,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",51
+2022,2,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",852
+2022,2,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",220
+2022,2,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",294
+2022,2,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",345
+2022,2,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",370
+2022,2,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",702
+2022,2,4,"Les Corts",19,"les Corts","Més de 12 mesos",702
+2022,2,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",366
+2022,2,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",91
+2022,2,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",42
+2022,2,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",204
+2022,2,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",161
+2022,2,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",245
+2022,2,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",388
+2022,2,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",364
+2022,2,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",252
+2022,2,6,"Gràcia",29,"el Coll","Més de 12 mesos",102
+2022,2,6,"Gràcia",30,"la Salut","Més de 12 mesos",222
+2022,2,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",747
+2022,2,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",539
+2022,2,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",421
+2022,2,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",160
+2022,2,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",684
+2022,2,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",219
+2022,2,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",747
+2022,2,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",239
+2022,2,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",147
+2022,2,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",106
+2022,2,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",113
+2022,2,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",8
+2022,2,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",633
+2022,2,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",597
+2022,2,8,"Nou Barris",45,"Porta","Més de 12 mesos",603
+2022,2,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",367
+2022,2,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",52
+2022,2,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",431
+2022,2,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",210
+2022,2,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",456
+2022,2,8,"Nou Barris",51,"Verdun","Més de 12 mesos",349
+2022,2,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",677
+2022,2,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",302
+2022,2,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",84
+2022,2,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",436
+2022,2,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",51
+2022,2,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",404
+2022,2,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",56
+2022,2,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",317
+2022,2,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1283
+2022,2,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",541
+2022,2,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",263
+2022,2,9,"Sant Andreu",63,"Navas","Més de 12 mesos",405
+2022,2,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",767
+2022,2,10,"Sant Martí",65,"el Clot","Més de 12 mesos",570
+2022,2,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",286
+2022,2,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",167
+2022,2,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",588
+2022,2,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",310
+2022,2,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",714
+2022,2,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",472
+2022,2,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",649
+2022,2,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",734
+2022,2,99,"No consta",99,"No consta","Més de 12 mesos",35
+2022,3,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1414
+2022,3,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",392
+2022,3,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",403
+2022,3,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",554
+2022,3,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",506
+2022,3,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",797
+2022,3,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",552
+2022,3,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",602
+2022,3,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",844
+2022,3,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",625
+2022,3,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",846
+2022,3,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",40
+2022,3,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",649
+2022,3,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",213
+2022,3,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",289
+2022,3,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",339
+2022,3,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",347
+2022,3,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",678
+2022,3,4,"Les Corts",19,"les Corts","Fins a 6 mesos",679
+2022,3,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",343
+2022,3,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",86
+2022,3,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",38
+2022,3,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",190
+2022,3,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",147
+2022,3,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",219
+2022,3,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",425
+2022,3,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",380
+2022,3,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",240
+2022,3,6,"Gràcia",29,"el Coll","Fins a 6 mesos",99
+2022,3,6,"Gràcia",30,"la Salut","Fins a 6 mesos",203
+2022,3,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",855
+2022,3,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",509
+2022,3,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",390
+2022,3,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",145
+2022,3,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",639
+2022,3,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",187
+2022,3,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",637
+2022,3,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",209
+2022,3,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",129
+2022,3,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",94
+2022,3,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",100
+2022,3,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,3,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",564
+2022,3,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",527
+2022,3,8,"Nou Barris",45,"Porta","Fins a 6 mesos",497
+2022,3,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",337
+2022,3,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",46
+2022,3,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",353
+2022,3,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",172
+2022,3,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",373
+2022,3,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",286
+2022,3,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",558
+2022,3,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",271
+2022,3,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",76
+2022,3,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",394
+2022,3,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",46
+2022,3,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",365
+2022,3,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",45
+2022,3,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",258
+2022,3,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1045
+2022,3,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",470
+2022,3,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",229
+2022,3,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",356
+2022,3,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",683
+2022,3,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",470
+2022,3,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",230
+2022,3,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",149
+2022,3,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",515
+2022,3,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",280
+2022,3,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",640
+2022,3,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",373
+2022,3,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",486
+2022,3,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",548
+2022,3,99,"No consta",99,"No consta","Fins a 6 mesos",39
+2022,3,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",303
+2022,3,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",76
+2022,3,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",72
+2022,3,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",99
+2022,3,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",83
+2022,3,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",142
+2022,3,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",104
+2022,3,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",92
+2022,3,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",166
+2022,3,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",112
+2022,3,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",139
+2022,3,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",8
+2022,3,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",125
+2022,3,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",36
+2022,3,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",60
+2022,3,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",70
+2022,3,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",69
+2022,3,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",138
+2022,3,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",139
+2022,3,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",68
+2022,3,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",14
+2022,3,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",8
+2022,3,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",34
+2022,3,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",31
+2022,3,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",47
+2022,3,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",86
+2022,3,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",72
+2022,3,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",46
+2022,3,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",18
+2022,3,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",35
+2022,3,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",155
+2022,3,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",98
+2022,3,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",72
+2022,3,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",25
+2022,3,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",127
+2022,3,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",34
+2022,3,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",116
+2022,3,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",49
+2022,3,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",32
+2022,3,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",23
+2022,3,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",25
+2022,3,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,3,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",106
+2022,3,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",102
+2022,3,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",99
+2022,3,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",63
+2022,3,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",9
+2022,3,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",65
+2022,3,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",32
+2022,3,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",69
+2022,3,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",53
+2022,3,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",111
+2022,3,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",52
+2022,3,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",15
+2022,3,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",76
+2022,3,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",9
+2022,3,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",71
+2022,3,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",9
+2022,3,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",51
+2022,3,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",205
+2022,3,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",106
+2022,3,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",52
+2022,3,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",79
+2022,3,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",125
+2022,3,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",90
+2022,3,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",45
+2022,3,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",29
+2022,3,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",101
+2022,3,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",56
+2022,3,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",128
+2022,3,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",72
+2022,3,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",93
+2022,3,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",104
+2022,3,99,"No consta",99,"No consta","De 6 a 12 mesos",9
+2022,3,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1348
+2022,3,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",380
+2022,3,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",369
+2022,3,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",515
+2022,3,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",456
+2022,3,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",760
+2022,3,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",478
+2022,3,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",499
+2022,3,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",809
+2022,3,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",578
+2022,3,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",825
+2022,3,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",50
+2022,3,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",824
+2022,3,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",213
+2022,3,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",284
+2022,3,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",333
+2022,3,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",352
+2022,3,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",674
+2022,3,4,"Les Corts",19,"les Corts","Més de 12 mesos",672
+2022,3,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",348
+2022,3,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",86
+2022,3,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",39
+2022,3,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",192
+2022,3,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",151
+2022,3,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",224
+2022,3,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",362
+2022,3,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",345
+2022,3,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",238
+2022,3,6,"Gràcia",29,"el Coll","Més de 12 mesos",97
+2022,3,6,"Gràcia",30,"la Salut","Més de 12 mesos",211
+2022,3,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",712
+2022,3,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",508
+2022,3,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",396
+2022,3,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",152
+2022,3,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",652
+2022,3,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",206
+2022,3,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",703
+2022,3,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",224
+2022,3,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",137
+2022,3,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",99
+2022,3,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",106
+2022,3,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",7
+2022,3,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",595
+2022,3,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",563
+2022,3,8,"Nou Barris",45,"Porta","Més de 12 mesos",573
+2022,3,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",344
+2022,3,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",49
+2022,3,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",413
+2022,3,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",201
+2022,3,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",437
+2022,3,8,"Nou Barris",51,"Verdun","Més de 12 mesos",335
+2022,3,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",643
+2022,3,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",286
+2022,3,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",79
+2022,3,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",412
+2022,3,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",48
+2022,3,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",382
+2022,3,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",54
+2022,3,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",308
+2022,3,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1245
+2022,3,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",516
+2022,3,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",251
+2022,3,9,"Sant Andreu",63,"Navas","Més de 12 mesos",386
+2022,3,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",740
+2022,3,10,"Sant Martí",65,"el Clot","Més de 12 mesos",549
+2022,3,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",274
+2022,3,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",157
+2022,3,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",555
+2022,3,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",297
+2022,3,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",685
+2022,3,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",452
+2022,3,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",619
+2022,3,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",699
+2022,3,99,"No consta",99,"No consta","Més de 12 mesos",33
+2022,4,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1398
+2022,4,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",410
+2022,4,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",379
+2022,4,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",522
+2022,4,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",511
+2022,4,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",801
+2022,4,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",524
+2022,4,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",594
+2022,4,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",841
+2022,4,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",622
+2022,4,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",827
+2022,4,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",38
+2022,4,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",626
+2022,4,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",208
+2022,4,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",272
+2022,4,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",319
+2022,4,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",343
+2022,4,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",651
+2022,4,4,"Les Corts",19,"les Corts","Fins a 6 mesos",662
+2022,4,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",339
+2022,4,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",89
+2022,4,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",35
+2022,4,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",190
+2022,4,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",137
+2022,4,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",214
+2022,4,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",418
+2022,4,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",369
+2022,4,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",237
+2022,4,6,"Gràcia",29,"el Coll","Fins a 6 mesos",98
+2022,4,6,"Gràcia",30,"la Salut","Fins a 6 mesos",210
+2022,4,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",841
+2022,4,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",515
+2022,4,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",395
+2022,4,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",151
+2022,4,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",652
+2022,4,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",183
+2022,4,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",627
+2022,4,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",206
+2022,4,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",128
+2022,4,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",92
+2022,4,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",99
+2022,4,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,4,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",555
+2022,4,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",515
+2022,4,8,"Nou Barris",45,"Porta","Fins a 6 mesos",477
+2022,4,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",332
+2022,4,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",46
+2022,4,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",355
+2022,4,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",173
+2022,4,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",376
+2022,4,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",288
+2022,4,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",535
+2022,4,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",267
+2022,4,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",74
+2022,4,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",387
+2022,4,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",45
+2022,4,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",359
+2022,4,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",45
+2022,4,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",258
+2022,4,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1043
+2022,4,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",464
+2022,4,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",226
+2022,4,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",353
+2022,4,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",674
+2022,4,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",457
+2022,4,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",223
+2022,4,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",147
+2022,4,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",505
+2022,4,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",275
+2022,4,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",629
+2022,4,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",365
+2022,4,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",478
+2022,4,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",539
+2022,4,99,"No consta",99,"No consta","Fins a 6 mesos",36
+2022,4,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",323
+2022,4,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",86
+2022,4,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",82
+2022,4,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",111
+2022,4,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",98
+2022,4,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",166
+2022,4,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",128
+2022,4,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",121
+2022,4,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",180
+2022,4,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",121
+2022,4,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",166
+2022,4,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",8
+2022,4,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",152
+2022,4,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",42
+2022,4,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",70
+2022,4,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",82
+2022,4,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",78
+2022,4,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",160
+2022,4,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",160
+2022,4,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",77
+2022,4,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",17
+2022,4,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",9
+2022,4,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",40
+2022,4,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",34
+2022,4,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",51
+2022,4,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",96
+2022,4,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",84
+2022,4,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",54
+2022,4,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",21
+2022,4,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",38
+2022,4,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",182
+2022,4,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",111
+2022,4,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",81
+2022,4,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",27
+2022,4,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",131
+2022,4,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",37
+2022,4,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",126
+2022,4,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",55
+2022,4,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",37
+2022,4,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",27
+2022,4,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",28
+2022,4,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,4,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",122
+2022,4,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",117
+2022,4,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",106
+2022,4,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",75
+2022,4,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",10
+2022,4,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",80
+2022,4,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",39
+2022,4,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",85
+2022,4,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",65
+2022,4,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",119
+2022,4,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",62
+2022,4,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",17
+2022,4,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",90
+2022,4,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",10
+2022,4,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",83
+2022,4,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",10
+2022,4,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",58
+2022,4,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",236
+2022,4,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",121
+2022,4,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",59
+2022,4,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",90
+2022,4,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",138
+2022,4,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",98
+2022,4,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",48
+2022,4,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",33
+2022,4,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",114
+2022,4,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",70
+2022,4,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",160
+2022,4,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",82
+2022,4,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",103
+2022,4,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",117
+2022,4,99,"No consta",99,"No consta","De 6 a 12 mesos",7
+2022,4,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1307
+2022,4,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",364
+2022,4,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",357
+2022,4,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",498
+2022,4,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",442
+2022,4,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",729
+2022,4,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",456
+2022,4,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",470
+2022,4,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",787
+2022,4,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",562
+2022,4,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",785
+2022,4,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",49
+2022,4,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",792
+2022,4,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",202
+2022,4,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",270
+2022,4,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",317
+2022,4,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",337
+2022,4,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",644
+2022,4,4,"Les Corts",19,"les Corts","Més de 12 mesos",647
+2022,4,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",334
+2022,4,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",83
+2022,4,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",38
+2022,4,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",186
+2022,4,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",146
+2022,4,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",217
+2022,4,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",360
+2022,4,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",332
+2022,4,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",228
+2022,4,6,"Gràcia",29,"el Coll","Més de 12 mesos",92
+2022,4,6,"Gràcia",30,"la Salut","Més de 12 mesos",203
+2022,4,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",676
+2022,4,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",485
+2022,4,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",378
+2022,4,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",146
+2022,4,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",627
+2022,4,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",200
+2022,4,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",681
+2022,4,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",220
+2022,4,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",135
+2022,4,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",98
+2022,4,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",104
+2022,4,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",7
+2022,4,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",575
+2022,4,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",545
+2022,4,8,"Nou Barris",45,"Porta","Més de 12 mesos",553
+2022,4,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",332
+2022,4,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",47
+2022,4,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",392
+2022,4,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",191
+2022,4,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",415
+2022,4,8,"Nou Barris",51,"Verdun","Més de 12 mesos",318
+2022,4,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",622
+2022,4,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",276
+2022,4,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",76
+2022,4,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",399
+2022,4,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",46
+2022,4,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",370
+2022,4,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",53
+2022,4,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",300
+2022,4,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1213
+2022,4,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",503
+2022,4,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",245
+2022,4,9,"Sant Andreu",63,"Navas","Més de 12 mesos",376
+2022,4,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",696
+2022,4,10,"Sant Martí",65,"el Clot","Més de 12 mesos",528
+2022,4,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",267
+2022,4,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",153
+2022,4,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",539
+2022,4,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",289
+2022,4,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",666
+2022,4,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",440
+2022,4,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",601
+2022,4,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",679
+2022,4,99,"No consta",99,"No consta","Més de 12 mesos",32
+2022,5,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1330
+2022,5,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",393
+2022,5,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",373
+2022,5,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",514
+2022,5,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",476
+2022,5,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",744
+2022,5,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",496
+2022,5,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",531
+2022,5,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",796
+2022,5,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",586
+2022,5,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",781
+2022,5,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",37
+2022,5,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",610
+2022,5,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",197
+2022,5,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",261
+2022,5,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",306
+2022,5,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",338
+2022,5,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",631
+2022,5,4,"Les Corts",19,"les Corts","Fins a 6 mesos",638
+2022,5,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",334
+2022,5,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",89
+2022,5,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",35
+2022,5,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",188
+2022,5,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",134
+2022,5,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",208
+2022,5,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",408
+2022,5,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",360
+2022,5,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",233
+2022,5,6,"Gràcia",29,"el Coll","Fins a 6 mesos",97
+2022,5,6,"Gràcia",30,"la Salut","Fins a 6 mesos",196
+2022,5,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",790
+2022,5,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",475
+2022,5,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",366
+2022,5,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",140
+2022,5,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",625
+2022,5,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",172
+2022,5,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",589
+2022,5,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",191
+2022,5,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",118
+2022,5,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",85
+2022,5,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",91
+2022,5,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",6
+2022,5,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",511
+2022,5,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",478
+2022,5,8,"Nou Barris",45,"Porta","Fins a 6 mesos",461
+2022,5,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",302
+2022,5,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",42
+2022,5,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",336
+2022,5,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",164
+2022,5,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",355
+2022,5,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",272
+2022,5,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",518
+2022,5,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",248
+2022,5,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",69
+2022,5,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",360
+2022,5,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",42
+2022,5,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",334
+2022,5,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",42
+2022,5,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",237
+2022,5,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",960
+2022,5,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",422
+2022,5,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",205
+2022,5,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",324
+2022,5,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",646
+2022,5,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",435
+2022,5,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",213
+2022,5,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",137
+2022,5,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",475
+2022,5,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",269
+2022,5,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",615
+2022,5,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",351
+2022,5,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",458
+2022,5,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",517
+2022,5,99,"No consta",99,"No consta","Fins a 6 mesos",31
+2022,5,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",335
+2022,5,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",91
+2022,5,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",91
+2022,5,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",124
+2022,5,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",121
+2022,5,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",197
+2022,5,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",143
+2022,5,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",133
+2022,5,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",197
+2022,5,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",137
+2022,5,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",183
+2022,5,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",7
+2022,5,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",159
+2022,5,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",47
+2022,5,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",77
+2022,5,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",91
+2022,5,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",90
+2022,5,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",178
+2022,5,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",174
+2022,5,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",89
+2022,5,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",21
+2022,5,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",9
+2022,5,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",45
+2022,5,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",34
+2022,5,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",51
+2022,5,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",100
+2022,5,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",86
+2022,5,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",60
+2022,5,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",24
+2022,5,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",43
+2022,5,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",195
+2022,5,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",125
+2022,5,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",93
+2022,5,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",30
+2022,5,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",145
+2022,5,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",39
+2022,5,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",133
+2022,5,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",58
+2022,5,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",39
+2022,5,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",28
+2022,5,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",30
+2022,5,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,5,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",134
+2022,5,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",127
+2022,5,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",108
+2022,5,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",85
+2022,5,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",11
+2022,5,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",84
+2022,5,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",41
+2022,5,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",89
+2022,5,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",68
+2022,5,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",122
+2022,5,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",67
+2022,5,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",19
+2022,5,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",98
+2022,5,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",11
+2022,5,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",91
+2022,5,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",12
+2022,5,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",69
+2022,5,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",281
+2022,5,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",134
+2022,5,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",65
+2022,5,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",99
+2022,5,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",156
+2022,5,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",110
+2022,5,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",54
+2022,5,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",37
+2022,5,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",126
+2022,5,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",76
+2022,5,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",172
+2022,5,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",91
+2022,5,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",117
+2022,5,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",132
+2022,5,99,"No consta",99,"No consta","De 6 a 12 mesos",10
+2022,5,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1219
+2022,5,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",348
+2022,5,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",332
+2022,5,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",463
+2022,5,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",412
+2022,5,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",688
+2022,5,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",438
+2022,5,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",452
+2022,5,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",747
+2022,5,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",530
+2022,5,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",744
+2022,5,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",50
+2022,5,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",762
+2022,5,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",192
+2022,5,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",257
+2022,5,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",301
+2022,5,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",316
+2022,5,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",608
+2022,5,4,"Les Corts",19,"les Corts","Més de 12 mesos",613
+2022,5,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",312
+2022,5,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",75
+2022,5,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",36
+2022,5,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",171
+2022,5,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",140
+2022,5,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",203
+2022,5,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",348
+2022,5,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",312
+2022,5,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",214
+2022,5,6,"Gràcia",29,"el Coll","Més de 12 mesos",86
+2022,5,6,"Gràcia",30,"la Salut","Més de 12 mesos",188
+2022,5,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",634
+2022,5,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",457
+2022,5,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",356
+2022,5,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",135
+2022,5,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",596
+2022,5,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",187
+2022,5,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",637
+2022,5,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",209
+2022,5,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",129
+2022,5,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",93
+2022,5,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",99
+2022,5,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",7
+2022,5,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",545
+2022,5,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",517
+2022,5,8,"Nou Barris",45,"Porta","Més de 12 mesos",521
+2022,5,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",317
+2022,5,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",45
+2022,5,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",373
+2022,5,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",182
+2022,5,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",395
+2022,5,8,"Nou Barris",51,"Verdun","Més de 12 mesos",303
+2022,5,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",586
+2022,5,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",261
+2022,5,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",72
+2022,5,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",377
+2022,5,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",44
+2022,5,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",349
+2022,5,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",51
+2022,5,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",291
+2022,5,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1179
+2022,5,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",477
+2022,5,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",232
+2022,5,9,"Sant Andreu",63,"Navas","Més de 12 mesos",357
+2022,5,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",647
+2022,5,10,"Sant Martí",65,"el Clot","Més de 12 mesos",497
+2022,5,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",254
+2022,5,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",149
+2022,5,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",522
+2022,5,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",275
+2022,5,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",632
+2022,5,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",417
+2022,5,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",569
+2022,5,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",643
+2022,5,99,"No consta",99,"No consta","Més de 12 mesos",27
+2022,6,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1291
+2022,6,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",389
+2022,6,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",363
+2022,6,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",503
+2022,6,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",479
+2022,6,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",751
+2022,6,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",485
+2022,6,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",530
+2022,6,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",792
+2022,6,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",582
+2022,6,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",733
+2022,6,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",31
+2022,6,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",603
+2022,6,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",186
+2022,6,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",254
+2022,6,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",298
+2022,6,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",333
+2022,6,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",618
+2022,6,4,"Les Corts",19,"les Corts","Fins a 6 mesos",627
+2022,6,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",329
+2022,6,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",88
+2022,6,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",34
+2022,6,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",186
+2022,6,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",133
+2022,6,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",203
+2022,6,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",402
+2022,6,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",357
+2022,6,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",237
+2022,6,6,"Gràcia",29,"el Coll","Fins a 6 mesos",100
+2022,6,6,"Gràcia",30,"la Salut","Fins a 6 mesos",199
+2022,6,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",790
+2022,6,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",477
+2022,6,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",371
+2022,6,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",142
+2022,6,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",607
+2022,6,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",169
+2022,6,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",578
+2022,6,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",189
+2022,6,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",117
+2022,6,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",85
+2022,6,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",90
+2022,6,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",6
+2022,6,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",503
+2022,6,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",468
+2022,6,8,"Nou Barris",45,"Porta","Fins a 6 mesos",447
+2022,6,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",298
+2022,6,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",41
+2022,6,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",322
+2022,6,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",157
+2022,6,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",341
+2022,6,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",261
+2022,6,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",502
+2022,6,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",240
+2022,6,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",67
+2022,6,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",349
+2022,6,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",40
+2022,6,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",323
+2022,6,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",41
+2022,6,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",234
+2022,6,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",947
+2022,6,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",410
+2022,6,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",199
+2022,6,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",314
+2022,6,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",637
+2022,6,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",437
+2022,6,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",215
+2022,6,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",137
+2022,6,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",475
+2022,6,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",255
+2022,6,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",582
+2022,6,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",346
+2022,6,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",450
+2022,6,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",506
+2022,6,99,"No consta",99,"No consta","Fins a 6 mesos",23
+2022,6,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",341
+2022,6,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",102
+2022,6,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",92
+2022,6,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",126
+2022,6,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",123
+2022,6,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",209
+2022,6,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",149
+2022,6,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",132
+2022,6,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",200
+2022,6,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",136
+2022,6,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",182
+2022,6,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",10
+2022,6,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",159
+2022,6,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",46
+2022,6,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",80
+2022,6,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",94
+2022,6,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",102
+2022,6,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",192
+2022,6,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",186
+2022,6,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",101
+2022,6,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",21
+2022,6,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",9
+2022,6,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",46
+2022,6,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",36
+2022,6,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",55
+2022,6,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",104
+2022,6,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",85
+2022,6,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",56
+2022,6,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",22
+2022,6,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",42
+2022,6,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",190
+2022,6,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",134
+2022,6,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",99
+2022,6,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",30
+2022,6,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",151
+2022,6,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",40
+2022,6,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",135
+2022,6,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",55
+2022,6,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",36
+2022,6,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",26
+2022,6,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",28
+2022,6,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,6,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",136
+2022,6,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",129
+2022,6,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",110
+2022,6,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",86
+2022,6,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",12
+2022,6,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",90
+2022,6,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",44
+2022,6,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",95
+2022,6,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",73
+2022,6,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",123
+2022,6,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",68
+2022,6,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",19
+2022,6,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",99
+2022,6,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",12
+2022,6,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",92
+2022,6,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",13
+2022,6,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",73
+2022,6,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",294
+2022,6,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",132
+2022,6,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",64
+2022,6,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",98
+2022,6,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",155
+2022,6,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",112
+2022,6,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",57
+2022,6,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",41
+2022,6,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",139
+2022,6,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",79
+2022,6,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",180
+2022,6,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",96
+2022,6,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",123
+2022,6,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",138
+2022,6,99,"No consta",99,"No consta","De 6 a 12 mesos",5
+2022,6,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1147
+2022,6,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",321
+2022,6,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",320
+2022,6,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",445
+2022,6,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",390
+2022,6,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",658
+2022,6,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",408
+2022,6,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",424
+2022,6,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",704
+2022,6,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",502
+2022,6,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",706
+2022,6,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",48
+2022,6,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",726
+2022,6,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",182
+2022,6,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",248
+2022,6,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",291
+2022,6,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",303
+2022,6,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",585
+2022,6,4,"Les Corts",19,"les Corts","Més de 12 mesos",586
+2022,6,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",299
+2022,6,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",70
+2022,6,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",36
+2022,6,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",165
+2022,6,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",139
+2022,6,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",191
+2022,6,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",340
+2022,6,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",304
+2022,6,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",209
+2022,6,6,"Gràcia",29,"el Coll","Més de 12 mesos",85
+2022,6,6,"Gràcia",30,"la Salut","Més de 12 mesos",181
+2022,6,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",597
+2022,6,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",439
+2022,6,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",343
+2022,6,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",131
+2022,6,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",574
+2022,6,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",178
+2022,6,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",605
+2022,6,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",199
+2022,6,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",123
+2022,6,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",89
+2022,6,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",95
+2022,6,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",7
+2022,6,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",519
+2022,6,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",492
+2022,6,8,"Nou Barris",45,"Porta","Més de 12 mesos",492
+2022,6,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",303
+2022,6,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",43
+2022,6,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",356
+2022,6,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",174
+2022,6,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",377
+2022,6,8,"Nou Barris",51,"Verdun","Més de 12 mesos",289
+2022,6,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",553
+2022,6,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",246
+2022,6,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",68
+2022,6,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",354
+2022,6,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",41
+2022,6,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",328
+2022,6,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",49
+2022,6,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",280
+2022,6,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1135
+2022,6,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",460
+2022,6,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",224
+2022,6,9,"Sant Andreu",63,"Navas","Més de 12 mesos",345
+2022,6,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",611
+2022,6,10,"Sant Martí",65,"el Clot","Més de 12 mesos",475
+2022,6,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",245
+2022,6,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",145
+2022,6,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",510
+2022,6,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",265
+2022,6,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",609
+2022,6,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",402
+2022,6,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",550
+2022,6,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",621
+2022,6,99,"No consta",99,"No consta","Més de 12 mesos",29
+2022,7,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1379
+2022,7,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",385
+2022,7,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",369
+2022,7,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",513
+2022,7,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",501
+2022,7,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",786
+2022,7,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",507
+2022,7,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",588
+2022,7,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",841
+2022,7,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",623
+2022,7,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",820
+2022,7,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",33
+2022,7,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",612
+2022,7,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",206
+2022,7,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",264
+2022,7,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",310
+2022,7,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",350
+2022,7,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",646
+2022,7,4,"Les Corts",19,"les Corts","Fins a 6 mesos",660
+2022,7,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",346
+2022,7,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",84
+2022,7,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",37
+2022,7,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",185
+2022,7,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",142
+2022,7,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",221
+2022,7,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",426
+2022,7,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",383
+2022,7,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",248
+2022,7,6,"Gràcia",29,"el Coll","Fins a 6 mesos",104
+2022,7,6,"Gràcia",30,"la Salut","Fins a 6 mesos",207
+2022,7,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",852
+2022,7,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",499
+2022,7,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",388
+2022,7,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",148
+2022,7,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",628
+2022,7,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",176
+2022,7,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",603
+2022,7,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",195
+2022,7,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",120
+2022,7,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",87
+2022,7,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",93
+2022,7,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",6
+2022,7,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",506
+2022,7,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",467
+2022,7,8,"Nou Barris",45,"Porta","Fins a 6 mesos",453
+2022,7,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",294
+2022,7,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",40
+2022,7,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",318
+2022,7,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",155
+2022,7,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",337
+2022,7,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",258
+2022,7,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",508
+2022,7,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",245
+2022,7,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",68
+2022,7,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",356
+2022,7,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",41
+2022,7,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",330
+2022,7,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",44
+2022,7,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",248
+2022,7,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1002
+2022,7,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",431
+2022,7,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",210
+2022,7,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",330
+2022,7,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",668
+2022,7,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",449
+2022,7,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",221
+2022,7,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",147
+2022,7,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",506
+2022,7,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",251
+2022,7,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",572
+2022,7,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",346
+2022,7,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",451
+2022,7,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",508
+2022,7,99,"No consta",99,"No consta","Fins a 6 mesos",28
+2022,7,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",337
+2022,7,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",110
+2022,7,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",93
+2022,7,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",127
+2022,7,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",134
+2022,7,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",224
+2022,7,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",160
+2022,7,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",156
+2022,7,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",232
+2022,7,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",162
+2022,7,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",203
+2022,7,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",10
+2022,7,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",181
+2022,7,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",52
+2022,7,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",89
+2022,7,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",105
+2022,7,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",104
+2022,7,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",207
+2022,7,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",201
+2022,7,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",103
+2022,7,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",25
+2022,7,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",11
+2022,7,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",56
+2022,7,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",44
+2022,7,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",68
+2022,7,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",125
+2022,7,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",104
+2022,7,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",67
+2022,7,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",27
+2022,7,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",54
+2022,7,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",221
+2022,7,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",151
+2022,7,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",111
+2022,7,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",39
+2022,7,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",169
+2022,7,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",47
+2022,7,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",160
+2022,7,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",64
+2022,7,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",42
+2022,7,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",30
+2022,7,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",32
+2022,7,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,7,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",160
+2022,7,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",149
+2022,7,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",123
+2022,7,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",102
+2022,7,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",14
+2022,7,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",103
+2022,7,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",50
+2022,7,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",109
+2022,7,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",83
+2022,7,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",138
+2022,7,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",71
+2022,7,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",20
+2022,7,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",103
+2022,7,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",12
+2022,7,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",95
+2022,7,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",14
+2022,7,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",77
+2022,7,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",312
+2022,7,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",129
+2022,7,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",63
+2022,7,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",98
+2022,7,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",189
+2022,7,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",142
+2022,7,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",74
+2022,7,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",49
+2022,7,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",167
+2022,7,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",88
+2022,7,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",200
+2022,7,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",113
+2022,7,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",139
+2022,7,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",156
+2022,7,99,"No consta",99,"No consta","De 6 a 12 mesos",4
+2022,7,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1124
+2022,7,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",307
+2022,7,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",310
+2022,7,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",432
+2022,7,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",375
+2022,7,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",645
+2022,7,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",392
+2022,7,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",409
+2022,7,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",685
+2022,7,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",486
+2022,7,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",699
+2022,7,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",48
+2022,7,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",701
+2022,7,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",180
+2022,7,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",240
+2022,7,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",282
+2022,7,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",289
+2022,7,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",564
+2022,7,4,"Les Corts",19,"les Corts","Més de 12 mesos",566
+2022,7,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",286
+2022,7,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",71
+2022,7,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",35
+2022,7,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",164
+2022,7,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",134
+2022,7,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",184
+2022,7,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",328
+2022,7,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",299
+2022,7,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",204
+2022,7,6,"Gràcia",29,"el Coll","Més de 12 mesos",83
+2022,7,6,"Gràcia",30,"la Salut","Més de 12 mesos",174
+2022,7,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",583
+2022,7,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",431
+2022,7,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",337
+2022,7,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",125
+2022,7,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",562
+2022,7,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",173
+2022,7,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",590
+2022,7,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",192
+2022,7,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",118
+2022,7,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",86
+2022,7,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",91
+2022,7,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",6
+2022,7,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",505
+2022,7,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",476
+2022,7,8,"Nou Barris",45,"Porta","Més de 12 mesos",474
+2022,7,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",294
+2022,7,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",42
+2022,7,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",351
+2022,7,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",171
+2022,7,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",371
+2022,7,8,"Nou Barris",51,"Verdun","Més de 12 mesos",285
+2022,7,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",532
+2022,7,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",236
+2022,7,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",65
+2022,7,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",339
+2022,7,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",39
+2022,7,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",314
+2022,7,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",48
+2022,7,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",271
+2022,7,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1098
+2022,7,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",448
+2022,7,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",218
+2022,7,9,"Sant Andreu",63,"Navas","Més de 12 mesos",336
+2022,7,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",600
+2022,7,10,"Sant Martí",65,"el Clot","Més de 12 mesos",466
+2022,7,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",242
+2022,7,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",146
+2022,7,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",509
+2022,7,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",263
+2022,7,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",604
+2022,7,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",394
+2022,7,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",535
+2022,7,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",604
+2022,7,99,"No consta",99,"No consta","Més de 12 mesos",23
+2022,8,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1422
+2022,8,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",405
+2022,8,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",381
+2022,8,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",533
+2022,8,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",526
+2022,8,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",833
+2022,8,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",574
+2022,8,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",627
+2022,8,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",882
+2022,8,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",660
+2022,8,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",843
+2022,8,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",35
+2022,8,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",627
+2022,8,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",212
+2022,8,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",276
+2022,8,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",323
+2022,8,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",354
+2022,8,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",667
+2022,8,4,"Les Corts",19,"les Corts","Fins a 6 mesos",681
+2022,8,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",350
+2022,8,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",81
+2022,8,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",39
+2022,8,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",185
+2022,8,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",152
+2022,8,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",242
+2022,8,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",466
+2022,8,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",412
+2022,8,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",265
+2022,8,6,"Gràcia",29,"el Coll","Fins a 6 mesos",112
+2022,8,6,"Gràcia",30,"la Salut","Fins a 6 mesos",225
+2022,8,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",892
+2022,8,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",544
+2022,8,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",417
+2022,8,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",161
+2022,8,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",677
+2022,8,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",179
+2022,8,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",614
+2022,8,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",204
+2022,8,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",126
+2022,8,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",91
+2022,8,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",97
+2022,8,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,8,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",525
+2022,8,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",485
+2022,8,8,"Nou Barris",45,"Porta","Fins a 6 mesos",453
+2022,8,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",309
+2022,8,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",42
+2022,8,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",322
+2022,8,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",157
+2022,8,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",341
+2022,8,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",261
+2022,8,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",509
+2022,8,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",242
+2022,8,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",67
+2022,8,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",351
+2022,8,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",41
+2022,8,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",325
+2022,8,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",46
+2022,8,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",260
+2022,8,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1051
+2022,8,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",476
+2022,8,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",232
+2022,8,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",364
+2022,8,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",711
+2022,8,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",479
+2022,8,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",236
+2022,8,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",160
+2022,8,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",547
+2022,8,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",251
+2022,8,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",571
+2022,8,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",367
+2022,8,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",490
+2022,8,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",552
+2022,8,99,"No consta",99,"No consta","Fins a 6 mesos",29
+2022,8,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",353
+2022,8,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",121
+2022,8,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",105
+2022,8,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",145
+2022,8,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",149
+2022,8,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",253
+2022,8,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",163
+2022,8,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",167
+2022,8,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",258
+2022,8,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",181
+2022,8,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",241
+2022,8,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",9
+2022,8,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",196
+2022,8,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",61
+2022,8,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",94
+2022,8,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",111
+2022,8,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",112
+2022,8,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",220
+2022,8,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",218
+2022,8,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",111
+2022,8,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",33
+2022,8,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",13
+2022,8,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",69
+2022,8,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",50
+2022,8,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",78
+2022,8,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",135
+2022,8,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",119
+2022,8,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",79
+2022,8,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",33
+2022,8,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",61
+2022,8,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",249
+2022,8,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",165
+2022,8,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",126
+2022,8,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",43
+2022,8,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",199
+2022,8,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",55
+2022,8,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",186
+2022,8,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",68
+2022,8,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",43
+2022,8,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",31
+2022,8,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",33
+2022,8,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,8,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",171
+2022,8,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",160
+2022,8,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",146
+2022,8,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",104
+2022,8,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",14
+2022,8,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",110
+2022,8,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",54
+2022,8,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",116
+2022,8,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",89
+2022,8,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",164
+2022,8,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",75
+2022,8,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",21
+2022,8,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",107
+2022,8,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",12
+2022,8,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",99
+2022,8,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",15
+2022,8,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",84
+2022,8,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",342
+2022,8,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",140
+2022,8,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",68
+2022,8,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",107
+2022,8,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",208
+2022,8,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",153
+2022,8,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",80
+2022,8,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",51
+2022,8,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",176
+2022,8,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",96
+2022,8,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",219
+2022,8,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",124
+2022,8,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",154
+2022,8,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",173
+2022,8,99,"No consta",99,"No consta","De 6 a 12 mesos",7
+2022,8,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1099
+2022,8,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",305
+2022,8,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",299
+2022,8,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",416
+2022,8,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",365
+2022,8,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",630
+2022,8,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",381
+2022,8,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",398
+2022,8,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",668
+2022,8,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",474
+2022,8,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",685
+2022,8,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",46
+2022,8,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",682
+2022,8,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",176
+2022,8,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",238
+2022,8,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",279
+2022,8,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",285
+2022,8,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",557
+2022,8,4,"Les Corts",19,"les Corts","Més de 12 mesos",556
+2022,8,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",282
+2022,8,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",67
+2022,8,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",33
+2022,8,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",154
+2022,8,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",127
+2022,8,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",178
+2022,8,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",315
+2022,8,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",292
+2022,8,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",200
+2022,8,6,"Gràcia",29,"el Coll","Més de 12 mesos",82
+2022,8,6,"Gràcia",30,"la Salut","Més de 12 mesos",169
+2022,8,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",564
+2022,8,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",422
+2022,8,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",329
+2022,8,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",121
+2022,8,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",542
+2022,8,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",169
+2022,8,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",575
+2022,8,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",186
+2022,8,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",115
+2022,8,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",83
+2022,8,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",88
+2022,8,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",6
+2022,8,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",496
+2022,8,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",468
+2022,8,8,"Nou Barris",45,"Porta","Més de 12 mesos",461
+2022,8,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",291
+2022,8,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",41
+2022,8,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",342
+2022,8,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",167
+2022,8,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",362
+2022,8,8,"Nou Barris",51,"Verdun","Més de 12 mesos",277
+2022,8,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",518
+2022,8,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",232
+2022,8,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",64
+2022,8,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",334
+2022,8,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",39
+2022,8,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",309
+2022,8,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",46
+2022,8,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",262
+2022,8,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1060
+2022,8,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",439
+2022,8,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",214
+2022,8,9,"Sant Andreu",63,"Navas","Més de 12 mesos",329
+2022,8,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",588
+2022,8,10,"Sant Martí",65,"el Clot","Més de 12 mesos",456
+2022,8,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",236
+2022,8,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",143
+2022,8,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",500
+2022,8,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",258
+2022,8,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",592
+2022,8,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",386
+2022,8,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",528
+2022,8,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",596
+2022,8,99,"No consta",99,"No consta","Més de 12 mesos",21
+2022,9,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1441
+2022,9,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",410
+2022,9,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",388
+2022,9,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",541
+2022,9,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",520
+2022,9,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",816
+2022,9,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",568
+2022,9,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",639
+2022,9,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",849
+2022,9,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",653
+2022,9,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",892
+2022,9,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",35
+2022,9,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",628
+2022,9,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",224
+2022,9,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",284
+2022,9,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",333
+2022,9,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",359
+2022,9,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",678
+2022,9,4,"Les Corts",19,"les Corts","Fins a 6 mesos",670
+2022,9,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",355
+2022,9,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",83
+2022,9,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",38
+2022,9,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",186
+2022,9,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",147
+2022,9,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",252
+2022,9,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",454
+2022,9,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",406
+2022,9,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",258
+2022,9,6,"Gràcia",29,"el Coll","Fins a 6 mesos",108
+2022,9,6,"Gràcia",30,"la Salut","Fins a 6 mesos",216
+2022,9,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",869
+2022,9,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",528
+2022,9,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",404
+2022,9,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",154
+2022,9,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",657
+2022,9,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",182
+2022,9,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",621
+2022,9,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",207
+2022,9,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",128
+2022,9,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",93
+2022,9,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",99
+2022,9,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,9,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",530
+2022,9,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",499
+2022,9,8,"Nou Barris",45,"Porta","Fins a 6 mesos",488
+2022,9,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",310
+2022,9,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",43
+2022,9,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",344
+2022,9,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",168
+2022,9,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",364
+2022,9,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",279
+2022,9,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",548
+2022,9,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",253
+2022,9,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",70
+2022,9,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",367
+2022,9,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",43
+2022,9,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",340
+2022,9,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",46
+2022,9,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",262
+2022,9,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1061
+2022,9,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",484
+2022,9,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",236
+2022,9,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",367
+2022,9,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",683
+2022,9,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",468
+2022,9,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",229
+2022,9,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",150
+2022,9,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",516
+2022,9,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",253
+2022,9,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",578
+2022,9,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",365
+2022,9,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",487
+2022,9,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",549
+2022,9,99,"No consta",99,"No consta","Fins a 6 mesos",22
+2022,9,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",389
+2022,9,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",131
+2022,9,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",105
+2022,9,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",146
+2022,9,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",163
+2022,9,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",267
+2022,9,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",182
+2022,9,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",191
+2022,9,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",270
+2022,9,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",192
+2022,9,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",257
+2022,9,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",10
+2022,9,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",212
+2022,9,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",65
+2022,9,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",97
+2022,9,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",113
+2022,9,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",123
+2022,9,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",232
+2022,9,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",232
+2022,9,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",121
+2022,9,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",34
+2022,9,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",14
+2022,9,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",73
+2022,9,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",54
+2022,9,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",81
+2022,9,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",157
+2022,9,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",127
+2022,9,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",82
+2022,9,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",34
+2022,9,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",60
+2022,9,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",248
+2022,9,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",168
+2022,9,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",127
+2022,9,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",42
+2022,9,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",199
+2022,9,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",56
+2022,9,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",189
+2022,9,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",67
+2022,9,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",43
+2022,9,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",31
+2022,9,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",33
+2022,9,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,9,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",176
+2022,9,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",164
+2022,9,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",148
+2022,9,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",107
+2022,9,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",15
+2022,9,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",118
+2022,9,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",57
+2022,9,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",125
+2022,9,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",95
+2022,9,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",166
+2022,9,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",79
+2022,9,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",22
+2022,9,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",113
+2022,9,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",13
+2022,9,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",105
+2022,9,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",15
+2022,9,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",83
+2022,9,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",335
+2022,9,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",146
+2022,9,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",71
+2022,9,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",111
+2022,9,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",222
+2022,9,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",156
+2022,9,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",78
+2022,9,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",51
+2022,9,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",177
+2022,9,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",92
+2022,9,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",210
+2022,9,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",125
+2022,9,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",163
+2022,9,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",184
+2022,9,99,"No consta",99,"No consta","De 6 a 12 mesos",7
+2022,9,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1069
+2022,9,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",299
+2022,9,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",297
+2022,9,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",412
+2022,9,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",355
+2022,9,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",618
+2022,9,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",370
+2022,9,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",386
+2022,9,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",665
+2022,9,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",466
+2022,9,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",661
+2022,9,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",45
+2022,9,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",676
+2022,9,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",171
+2022,9,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",239
+2022,9,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",281
+2022,9,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",282
+2022,9,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",557
+2022,9,4,"Les Corts",19,"les Corts","Més de 12 mesos",557
+2022,9,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",279
+2022,9,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",65
+2022,9,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",32
+2022,9,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",150
+2022,9,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",125
+2022,9,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",176
+2022,9,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",311
+2022,9,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",286
+2022,9,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",197
+2022,9,6,"Gràcia",29,"el Coll","Més de 12 mesos",80
+2022,9,6,"Gràcia",30,"la Salut","Més de 12 mesos",165
+2022,9,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",554
+2022,9,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",415
+2022,9,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",323
+2022,9,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",118
+2022,9,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",537
+2022,9,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",167
+2022,9,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",569
+2022,9,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",186
+2022,9,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",115
+2022,9,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",83
+2022,9,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",89
+2022,9,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",6
+2022,9,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",489
+2022,9,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",461
+2022,9,8,"Nou Barris",45,"Porta","Més de 12 mesos",456
+2022,9,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",286
+2022,9,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",40
+2022,9,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",334
+2022,9,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",163
+2022,9,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",354
+2022,9,8,"Nou Barris",51,"Verdun","Més de 12 mesos",271
+2022,9,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",512
+2022,9,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",228
+2022,9,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",63
+2022,9,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",328
+2022,9,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",38
+2022,9,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",304
+2022,9,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",45
+2022,9,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",257
+2022,9,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1038
+2022,9,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",435
+2022,9,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",212
+2022,9,9,"Sant Andreu",63,"Navas","Més de 12 mesos",325
+2022,9,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",590
+2022,9,10,"Sant Martí",65,"el Clot","Més de 12 mesos",449
+2022,9,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",230
+2022,9,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",142
+2022,9,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",494
+2022,9,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",254
+2022,9,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",582
+2022,9,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",379
+2022,9,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",519
+2022,9,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",587
+2022,9,99,"No consta",99,"No consta","Més de 12 mesos",20
+2022,10,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1447
+2022,10,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",390
+2022,10,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",395
+2022,10,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",547
+2022,10,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",522
+2022,10,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",798
+2022,10,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",568
+2022,10,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",595
+2022,10,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",843
+2022,10,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",637
+2022,10,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",881
+2022,10,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",36
+2022,10,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",652
+2022,10,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",222
+2022,10,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",289
+2022,10,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",340
+2022,10,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",359
+2022,10,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",686
+2022,10,4,"Les Corts",19,"les Corts","Fins a 6 mesos",678
+2022,10,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",355
+2022,10,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",81
+2022,10,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",38
+2022,10,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",183
+2022,10,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",147
+2022,10,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",245
+2022,10,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",456
+2022,10,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",393
+2022,10,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",252
+2022,10,6,"Gràcia",29,"el Coll","Fins a 6 mesos",105
+2022,10,6,"Gràcia",30,"la Salut","Fins a 6 mesos",215
+2022,10,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",845
+2022,10,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",519
+2022,10,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",392
+2022,10,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",155
+2022,10,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",617
+2022,10,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",180
+2022,10,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",616
+2022,10,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",211
+2022,10,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",132
+2022,10,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",96
+2022,10,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",102
+2022,10,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,10,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",532
+2022,10,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",502
+2022,10,8,"Nou Barris",45,"Porta","Fins a 6 mesos",493
+2022,10,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",313
+2022,10,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",44
+2022,10,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",352
+2022,10,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",171
+2022,10,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",372
+2022,10,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",285
+2022,10,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",554
+2022,10,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",260
+2022,10,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",72
+2022,10,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",377
+2022,10,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",44
+2022,10,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",350
+2022,10,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",46
+2022,10,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",264
+2022,10,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1069
+2022,10,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",467
+2022,10,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",227
+2022,10,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",353
+2022,10,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",651
+2022,10,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",440
+2022,10,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",216
+2022,10,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",150
+2022,10,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",511
+2022,10,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",254
+2022,10,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",579
+2022,10,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",357
+2022,10,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",488
+2022,10,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",553
+2022,10,99,"No consta",99,"No consta","Fins a 6 mesos",21
+2022,10,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",397
+2022,10,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",127
+2022,10,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",100
+2022,10,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",140
+2022,10,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",163
+2022,10,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",262
+2022,10,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",178
+2022,10,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",188
+2022,10,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",255
+2022,10,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",182
+2022,10,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",249
+2022,10,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",9
+2022,10,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",206
+2022,10,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",63
+2022,10,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",93
+2022,10,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",109
+2022,10,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",125
+2022,10,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",227
+2022,10,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",226
+2022,10,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",124
+2022,10,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",31
+2022,10,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",13
+2022,10,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",67
+2022,10,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",50
+2022,10,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",81
+2022,10,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",152
+2022,10,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",123
+2022,10,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",82
+2022,10,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",35
+2022,10,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",62
+2022,10,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",245
+2022,10,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",167
+2022,10,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",126
+2022,10,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",44
+2022,10,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",205
+2022,10,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",56
+2022,10,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",191
+2022,10,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",63
+2022,10,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",39
+2022,10,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",28
+2022,10,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",30
+2022,10,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,10,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",171
+2022,10,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",161
+2022,10,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",151
+2022,10,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",103
+2022,10,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",14
+2022,10,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",108
+2022,10,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",53
+2022,10,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",115
+2022,10,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",88
+2022,10,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",169
+2022,10,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",74
+2022,10,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",20
+2022,10,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",106
+2022,10,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",12
+2022,10,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",98
+2022,10,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",15
+2022,10,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",85
+2022,10,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",344
+2022,10,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",150
+2022,10,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",73
+2022,10,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",114
+2022,10,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",222
+2022,10,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",153
+2022,10,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",76
+2022,10,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",50
+2022,10,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",172
+2022,10,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",87
+2022,10,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",197
+2022,10,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",122
+2022,10,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",162
+2022,10,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",183
+2022,10,99,"No consta",99,"No consta","De 6 a 12 mesos",4
+2022,10,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1055
+2022,10,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",293
+2022,10,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",295
+2022,10,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",409
+2022,10,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",354
+2022,10,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",610
+2022,10,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",369
+2022,10,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",385
+2022,10,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",654
+2022,10,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",461
+2022,10,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",641
+2022,10,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",46
+2022,10,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",667
+2022,10,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",166
+2022,10,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",237
+2022,10,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",278
+2022,10,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",275
+2022,10,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",548
+2022,10,4,"Les Corts",19,"les Corts","Més de 12 mesos",545
+2022,10,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",272
+2022,10,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",61
+2022,10,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",31
+2022,10,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",144
+2022,10,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",121
+2022,10,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",176
+2022,10,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",310
+2022,10,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",284
+2022,10,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",198
+2022,10,6,"Gràcia",29,"el Coll","Més de 12 mesos",81
+2022,10,6,"Gràcia",30,"la Salut","Més de 12 mesos",164
+2022,10,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",551
+2022,10,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",408
+2022,10,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",317
+2022,10,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",117
+2022,10,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",532
+2022,10,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",164
+2022,10,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",558
+2022,10,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",186
+2022,10,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",116
+2022,10,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",84
+2022,10,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",89
+2022,10,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",6
+2022,10,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",483
+2022,10,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",455
+2022,10,8,"Nou Barris",45,"Porta","Més de 12 mesos",445
+2022,10,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",283
+2022,10,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",40
+2022,10,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",336
+2022,10,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",164
+2022,10,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",355
+2022,10,8,"Nou Barris",51,"Verdun","Més de 12 mesos",272
+2022,10,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",500
+2022,10,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",225
+2022,10,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",62
+2022,10,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",323
+2022,10,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",37
+2022,10,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",299
+2022,10,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",44
+2022,10,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",252
+2022,10,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1019
+2022,10,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",432
+2022,10,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",211
+2022,10,9,"Sant Andreu",63,"Navas","Més de 12 mesos",323
+2022,10,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",587
+2022,10,10,"Sant Martí",65,"el Clot","Més de 12 mesos",446
+2022,10,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",229
+2022,10,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",142
+2022,10,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",492
+2022,10,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",250
+2022,10,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",574
+2022,10,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",375
+2022,10,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",513
+2022,10,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",580
+2022,10,99,"No consta",99,"No consta","Més de 12 mesos",18
+2022,11,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1414
+2022,11,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",399
+2022,11,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",398
+2022,11,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",552
+2022,11,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",507
+2022,11,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",793
+2022,11,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",591
+2022,11,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",610
+2022,11,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",860
+2022,11,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",642
+2022,11,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",897
+2022,11,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",36
+2022,11,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",670
+2022,11,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",226
+2022,11,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",301
+2022,11,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",353
+2022,11,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",357
+2022,11,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",701
+2022,11,4,"Les Corts",19,"les Corts","Fins a 6 mesos",694
+2022,11,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",353
+2022,11,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",99
+2022,11,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",38
+2022,11,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",209
+2022,11,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",147
+2022,11,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",264
+2022,11,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",476
+2022,11,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",401
+2022,11,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",258
+2022,11,6,"Gràcia",29,"el Coll","Fins a 6 mesos",107
+2022,11,6,"Gràcia",30,"la Salut","Fins a 6 mesos",216
+2022,11,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",847
+2022,11,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",531
+2022,11,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",398
+2022,11,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",155
+2022,11,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",612
+2022,11,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",184
+2022,11,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",628
+2022,11,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",217
+2022,11,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",136
+2022,11,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",99
+2022,11,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",105
+2022,11,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,11,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",548
+2022,11,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",512
+2022,11,8,"Nou Barris",45,"Porta","Fins a 6 mesos",486
+2022,11,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",325
+2022,11,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",45
+2022,11,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",349
+2022,11,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",170
+2022,11,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",369
+2022,11,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",283
+2022,11,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",546
+2022,11,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",259
+2022,11,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",72
+2022,11,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",375
+2022,11,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",44
+2022,11,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",347
+2022,11,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",46
+2022,11,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",261
+2022,11,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1055
+2022,11,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",471
+2022,11,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",229
+2022,11,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",355
+2022,11,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",685
+2022,11,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",464
+2022,11,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",224
+2022,11,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",147
+2022,11,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",505
+2022,11,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",254
+2022,11,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",582
+2022,11,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",367
+2022,11,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",498
+2022,11,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",564
+2022,11,99,"No consta",99,"No consta","Fins a 6 mesos",23
+2022,11,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",413
+2022,11,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",126
+2022,11,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",108
+2022,11,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",150
+2022,11,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",164
+2022,11,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",260
+2022,11,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",173
+2022,11,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",181
+2022,11,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",264
+2022,11,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",189
+2022,11,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",255
+2022,11,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",10
+2022,11,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",208
+2022,11,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",65
+2022,11,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",92
+2022,11,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",108
+2022,11,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",125
+2022,11,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",227
+2022,11,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",227
+2022,11,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",124
+2022,11,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",30
+2022,11,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",13
+2022,11,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",66
+2022,11,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",51
+2022,11,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",80
+2022,11,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",155
+2022,11,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",128
+2022,11,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",83
+2022,11,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",35
+2022,11,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",65
+2022,11,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",245
+2022,11,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",166
+2022,11,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",126
+2022,11,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",46
+2022,11,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",215
+2022,11,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",59
+2022,11,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",200
+2022,11,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",64
+2022,11,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",39
+2022,11,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",29
+2022,11,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",30
+2022,11,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,11,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",171
+2022,11,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",161
+2022,11,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",161
+2022,11,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",100
+2022,11,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",14
+2022,11,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",111
+2022,11,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",54
+2022,11,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",117
+2022,11,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",90
+2022,11,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",180
+2022,11,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",72
+2022,11,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",20
+2022,11,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",103
+2022,11,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",12
+2022,11,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",96
+2022,11,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",14
+2022,11,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",78
+2022,11,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",316
+2022,11,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",146
+2022,11,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",71
+2022,11,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",112
+2022,11,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",219
+2022,11,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",149
+2022,11,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",75
+2022,11,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",52
+2022,11,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",177
+2022,11,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",88
+2022,11,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",200
+2022,11,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",120
+2022,11,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",160
+2022,11,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",181
+2022,11,99,"No consta",99,"No consta","De 6 a 12 mesos",4
+2022,11,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1045
+2022,11,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",297
+2022,11,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",289
+2022,11,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",401
+2022,11,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",364
+2022,11,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",616
+2022,11,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",384
+2022,11,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",382
+2022,11,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",645
+2022,11,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",452
+2022,11,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",630
+2022,11,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",44
+2022,11,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",649
+2022,11,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",163
+2022,11,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",238
+2022,11,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",279
+2022,11,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",279
+2022,11,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",551
+2022,11,4,"Les Corts",19,"les Corts","Més de 12 mesos",546
+2022,11,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",275
+2022,11,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",60
+2022,11,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",32
+2022,11,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",143
+2022,11,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",124
+2022,11,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",176
+2022,11,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",307
+2022,11,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",277
+2022,11,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",193
+2022,11,6,"Gràcia",29,"el Coll","Més de 12 mesos",78
+2022,11,6,"Gràcia",30,"la Salut","Més de 12 mesos",161
+2022,11,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",545
+2022,11,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",406
+2022,11,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",316
+2022,11,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",116
+2022,11,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",544
+2022,11,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",162
+2022,11,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",551
+2022,11,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",189
+2022,11,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",118
+2022,11,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",86
+2022,11,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",91
+2022,11,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",6
+2022,11,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",482
+2022,11,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",451
+2022,11,8,"Nou Barris",45,"Porta","Més de 12 mesos",434
+2022,11,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",284
+2022,11,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",40
+2022,11,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",333
+2022,11,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",162
+2022,11,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",352
+2022,11,8,"Nou Barris",51,"Verdun","Més de 12 mesos",270
+2022,11,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",487
+2022,11,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",229
+2022,11,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",63
+2022,11,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",330
+2022,11,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",38
+2022,11,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",306
+2022,11,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",44
+2022,11,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",250
+2022,11,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1011
+2022,11,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",431
+2022,11,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",210
+2022,11,9,"Sant Andreu",63,"Navas","Més de 12 mesos",324
+2022,11,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",585
+2022,11,10,"Sant Martí",65,"el Clot","Més de 12 mesos",442
+2022,11,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",227
+2022,11,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",142
+2022,11,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",492
+2022,11,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",254
+2022,11,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",584
+2022,11,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",373
+2022,11,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",507
+2022,11,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",574
+2022,11,99,"No consta",99,"No consta","Més de 12 mesos",20
+2022,12,1,"Ciutat Vella",1,"el Raval","Fins a 6 mesos",1375
+2022,12,1,"Ciutat Vella",2,"el Barri Gòtic","Fins a 6 mesos",394
+2022,12,1,"Ciutat Vella",3,"la Barceloneta","Fins a 6 mesos",405
+2022,12,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Fins a 6 mesos",560
+2022,12,2,"Eixample",5,"el Fort Pienc","Fins a 6 mesos",500
+2022,12,2,"Eixample",6,"la Sagrada Família","Fins a 6 mesos",788
+2022,12,2,"Eixample",7,"la Dreta de l'Eixample","Fins a 6 mesos",591
+2022,12,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Fins a 6 mesos",576
+2022,12,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Fins a 6 mesos",852
+2022,12,2,"Eixample",10,"Sant Antoni","Fins a 6 mesos",645
+2022,12,3,"Sants-Montjuïc",11,"el Poble Sec","Fins a 6 mesos",892
+2022,12,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Fins a 6 mesos",36
+2022,12,3,"Sants-Montjuïc",13,"la Marina de Port","Fins a 6 mesos",650
+2022,12,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Fins a 6 mesos",224
+2022,12,3,"Sants-Montjuïc",15,"Hostafrancs","Fins a 6 mesos",292
+2022,12,3,"Sants-Montjuïc",16,"la Bordeta","Fins a 6 mesos",342
+2022,12,3,"Sants-Montjuïc",17,"Sants - Badal","Fins a 6 mesos",338
+2022,12,3,"Sants-Montjuïc",18,"Sants","Fins a 6 mesos",674
+2022,12,4,"Les Corts",19,"les Corts","Fins a 6 mesos",670
+2022,12,4,"Les Corts",20,"la Maternitat i Sant Ramon","Fins a 6 mesos",334
+2022,12,4,"Les Corts",21,"Pedralbes","Fins a 6 mesos",90
+2022,12,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Fins a 6 mesos",41
+2022,12,5,"Sarrià-Sant Gervasi",23,"Sarrià","Fins a 6 mesos",202
+2022,12,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Fins a 6 mesos",159
+2022,12,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Fins a 6 mesos",256
+2022,12,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Fins a 6 mesos",485
+2022,12,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Fins a 6 mesos",404
+2022,12,6,"Gràcia",28,"Vallcarca i els Penitents","Fins a 6 mesos",257
+2022,12,6,"Gràcia",29,"el Coll","Fins a 6 mesos",107
+2022,12,6,"Gràcia",30,"la Salut","Fins a 6 mesos",211
+2022,12,6,"Gràcia",31,"la Vila de Gràcia","Fins a 6 mesos",862
+2022,12,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Fins a 6 mesos",521
+2022,12,7,"Horta-Guinardó",33,"el Baix Guinardó","Fins a 6 mesos",394
+2022,12,7,"Horta-Guinardó",34,"Can Baró","Fins a 6 mesos",151
+2022,12,7,"Horta-Guinardó",35,"el Guinardó","Fins a 6 mesos",609
+2022,12,7,"Horta-Guinardó",36,"la Font d'en Fargues","Fins a 6 mesos",180
+2022,12,7,"Horta-Guinardó",37,"el Carmel","Fins a 6 mesos",615
+2022,12,7,"Horta-Guinardó",38,"la Teixonera","Fins a 6 mesos",211
+2022,12,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Fins a 6 mesos",132
+2022,12,7,"Horta-Guinardó",40,"Montbau","Fins a 6 mesos",95
+2022,12,7,"Horta-Guinardó",41,"la Vall d'Hebron","Fins a 6 mesos",102
+2022,12,7,"Horta-Guinardó",42,"la Clota","Fins a 6 mesos",7
+2022,12,7,"Horta-Guinardó",43,"Horta","Fins a 6 mesos",540
+2022,12,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Fins a 6 mesos",497
+2022,12,8,"Nou Barris",45,"Porta","Fins a 6 mesos",457
+2022,12,8,"Nou Barris",46,"el Turó de la Peira","Fins a 6 mesos",322
+2022,12,8,"Nou Barris",47,"Can Peguera","Fins a 6 mesos",44
+2022,12,8,"Nou Barris",48,"la Guineueta","Fins a 6 mesos",329
+2022,12,8,"Nou Barris",49,"Canyelles","Fins a 6 mesos",161
+2022,12,8,"Nou Barris",50,"les Roquetes","Fins a 6 mesos",348
+2022,12,8,"Nou Barris",51,"Verdun","Fins a 6 mesos",267
+2022,12,8,"Nou Barris",52,"la Prosperitat","Fins a 6 mesos",513
+2022,12,8,"Nou Barris",53,"la Trinitat Nova","Fins a 6 mesos",235
+2022,12,8,"Nou Barris",54,"Torre Baró","Fins a 6 mesos",65
+2022,12,8,"Nou Barris",55,"Ciutat Meridiana","Fins a 6 mesos",340
+2022,12,8,"Nou Barris",56,"Vallbona","Fins a 6 mesos",39
+2022,12,9,"Sant Andreu",57,"la Trinitat Vella","Fins a 6 mesos",315
+2022,12,9,"Sant Andreu",58,"Baró de Viver","Fins a 6 mesos",44
+2022,12,9,"Sant Andreu",59,"el Bon Pastor","Fins a 6 mesos",250
+2022,12,9,"Sant Andreu",60,"Sant Andreu","Fins a 6 mesos",1012
+2022,12,9,"Sant Andreu",61,"la Sagrera","Fins a 6 mesos",453
+2022,12,9,"Sant Andreu",62,"el Congrés i els Indians","Fins a 6 mesos",221
+2022,12,9,"Sant Andreu",63,"Navas","Fins a 6 mesos",343
+2022,12,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Fins a 6 mesos",685
+2022,12,10,"Sant Martí",65,"el Clot","Fins a 6 mesos",458
+2022,12,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Fins a 6 mesos",221
+2022,12,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Fins a 6 mesos",147
+2022,12,10,"Sant Martí",68,"el Poblenou","Fins a 6 mesos",504
+2022,12,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Fins a 6 mesos",256
+2022,12,10,"Sant Martí",70,"el Besòs i el Maresme","Fins a 6 mesos",586
+2022,12,10,"Sant Martí",71,"Provençals del Poblenou","Fins a 6 mesos",364
+2022,12,10,"Sant Martí",72,"Sant Martí de Provençals","Fins a 6 mesos",496
+2022,12,10,"Sant Martí",73,"la Verneda i la Pau","Fins a 6 mesos",561
+2022,12,99,"No consta",99,"No consta","Fins a 6 mesos",22
+2022,12,1,"Ciutat Vella",1,"el Raval","De 6 a 12 mesos",427
+2022,12,1,"Ciutat Vella",2,"el Barri Gòtic","De 6 a 12 mesos",133
+2022,12,1,"Ciutat Vella",3,"la Barceloneta","De 6 a 12 mesos",106
+2022,12,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","De 6 a 12 mesos",147
+2022,12,2,"Eixample",5,"el Fort Pienc","De 6 a 12 mesos",169
+2022,12,2,"Eixample",6,"la Sagrada Família","De 6 a 12 mesos",262
+2022,12,2,"Eixample",7,"la Dreta de l'Eixample","De 6 a 12 mesos",170
+2022,12,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","De 6 a 12 mesos",181
+2022,12,2,"Eixample",9,"la Nova Esquerra de l'Eixample","De 6 a 12 mesos",269
+2022,12,2,"Eixample",10,"Sant Antoni","De 6 a 12 mesos",194
+2022,12,3,"Sants-Montjuïc",11,"el Poble Sec","De 6 a 12 mesos",268
+2022,12,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","De 6 a 12 mesos",11
+2022,12,3,"Sants-Montjuïc",13,"la Marina de Port","De 6 a 12 mesos",212
+2022,12,3,"Sants-Montjuïc",14,"la Font de la Guatlla","De 6 a 12 mesos",68
+2022,12,3,"Sants-Montjuïc",15,"Hostafrancs","De 6 a 12 mesos",89
+2022,12,3,"Sants-Montjuïc",16,"la Bordeta","De 6 a 12 mesos",105
+2022,12,3,"Sants-Montjuïc",17,"Sants - Badal","De 6 a 12 mesos",121
+2022,12,3,"Sants-Montjuïc",18,"Sants","De 6 a 12 mesos",220
+2022,12,4,"Les Corts",19,"les Corts","De 6 a 12 mesos",223
+2022,12,4,"Les Corts",20,"la Maternitat i Sant Ramon","De 6 a 12 mesos",119
+2022,12,4,"Les Corts",21,"Pedralbes","De 6 a 12 mesos",32
+2022,12,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","De 6 a 12 mesos",13
+2022,12,5,"Sarrià-Sant Gervasi",23,"Sarrià","De 6 a 12 mesos",69
+2022,12,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","De 6 a 12 mesos",51
+2022,12,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","De 6 a 12 mesos",92
+2022,12,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","De 6 a 12 mesos",170
+2022,12,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","De 6 a 12 mesos",132
+2022,12,6,"Gràcia",28,"Vallcarca i els Penitents","De 6 a 12 mesos",84
+2022,12,6,"Gràcia",29,"el Coll","De 6 a 12 mesos",35
+2022,12,6,"Gràcia",30,"la Salut","De 6 a 12 mesos",70
+2022,12,6,"Gràcia",31,"la Vila de Gràcia","De 6 a 12 mesos",261
+2022,12,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","De 6 a 12 mesos",168
+2022,12,7,"Horta-Guinardó",33,"el Baix Guinardó","De 6 a 12 mesos",129
+2022,12,7,"Horta-Guinardó",34,"Can Baró","De 6 a 12 mesos",50
+2022,12,7,"Horta-Guinardó",35,"el Guinardó","De 6 a 12 mesos",223
+2022,12,7,"Horta-Guinardó",36,"la Font d'en Fargues","De 6 a 12 mesos",58
+2022,12,7,"Horta-Guinardó",37,"el Carmel","De 6 a 12 mesos",198
+2022,12,7,"Horta-Guinardó",38,"la Teixonera","De 6 a 12 mesos",66
+2022,12,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","De 6 a 12 mesos",41
+2022,12,7,"Horta-Guinardó",40,"Montbau","De 6 a 12 mesos",30
+2022,12,7,"Horta-Guinardó",41,"la Vall d'Hebron","De 6 a 12 mesos",32
+2022,12,7,"Horta-Guinardó",42,"la Clota","De 6 a 12 mesos",2
+2022,12,7,"Horta-Guinardó",43,"Horta","De 6 a 12 mesos",170
+2022,12,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","De 6 a 12 mesos",163
+2022,12,8,"Nou Barris",45,"Porta","De 6 a 12 mesos",164
+2022,12,8,"Nou Barris",46,"el Turó de la Peira","De 6 a 12 mesos",100
+2022,12,8,"Nou Barris",47,"Can Peguera","De 6 a 12 mesos",14
+2022,12,8,"Nou Barris",48,"la Guineueta","De 6 a 12 mesos",113
+2022,12,8,"Nou Barris",49,"Canyelles","De 6 a 12 mesos",55
+2022,12,8,"Nou Barris",50,"les Roquetes","De 6 a 12 mesos",119
+2022,12,8,"Nou Barris",51,"Verdun","De 6 a 12 mesos",91
+2022,12,8,"Nou Barris",52,"la Prosperitat","De 6 a 12 mesos",184
+2022,12,8,"Nou Barris",53,"la Trinitat Nova","De 6 a 12 mesos",79
+2022,12,8,"Nou Barris",54,"Torre Baró","De 6 a 12 mesos",22
+2022,12,8,"Nou Barris",55,"Ciutat Meridiana","De 6 a 12 mesos",114
+2022,12,8,"Nou Barris",56,"Vallbona","De 6 a 12 mesos",13
+2022,12,9,"Sant Andreu",57,"la Trinitat Vella","De 6 a 12 mesos",106
+2022,12,9,"Sant Andreu",58,"Baró de Viver","De 6 a 12 mesos",14
+2022,12,9,"Sant Andreu",59,"el Bon Pastor","De 6 a 12 mesos",81
+2022,12,9,"Sant Andreu",60,"Sant Andreu","De 6 a 12 mesos",328
+2022,12,9,"Sant Andreu",61,"la Sagrera","De 6 a 12 mesos",148
+2022,12,9,"Sant Andreu",62,"el Congrés i els Indians","De 6 a 12 mesos",72
+2022,12,9,"Sant Andreu",63,"Navas","De 6 a 12 mesos",114
+2022,12,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","De 6 a 12 mesos",224
+2022,12,10,"Sant Martí",65,"el Clot","De 6 a 12 mesos",156
+2022,12,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","De 6 a 12 mesos",79
+2022,12,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","De 6 a 12 mesos",52
+2022,12,10,"Sant Martí",68,"el Poblenou","De 6 a 12 mesos",179
+2022,12,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","De 6 a 12 mesos",85
+2022,12,10,"Sant Martí",70,"el Besòs i el Maresme","De 6 a 12 mesos",195
+2022,12,10,"Sant Martí",71,"Provençals del Poblenou","De 6 a 12 mesos",125
+2022,12,10,"Sant Martí",72,"Sant Martí de Provençals","De 6 a 12 mesos",167
+2022,12,10,"Sant Martí",73,"la Verneda i la Pau","De 6 a 12 mesos",188
+2022,12,99,"No consta",99,"No consta","De 6 a 12 mesos",5
+2022,12,1,"Ciutat Vella",1,"el Raval","Més de 12 mesos",1041
+2022,12,1,"Ciutat Vella",2,"el Barri Gòtic","Més de 12 mesos",293
+2022,12,1,"Ciutat Vella",3,"la Barceloneta","Més de 12 mesos",290
+2022,12,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Més de 12 mesos",402
+2022,12,2,"Eixample",5,"el Fort Pienc","Més de 12 mesos",361
+2022,12,2,"Eixample",6,"la Sagrada Família","Més de 12 mesos",610
+2022,12,2,"Eixample",7,"la Dreta de l'Eixample","Més de 12 mesos",380
+2022,12,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Més de 12 mesos",386
+2022,12,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Més de 12 mesos",644
+2022,12,2,"Eixample",10,"Sant Antoni","Més de 12 mesos",454
+2022,12,3,"Sants-Montjuïc",11,"el Poble Sec","Més de 12 mesos",637
+2022,12,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Més de 12 mesos",42
+2022,12,3,"Sants-Montjuïc",13,"la Marina de Port","Més de 12 mesos",642
+2022,12,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Més de 12 mesos",164
+2022,12,3,"Sants-Montjuïc",15,"Hostafrancs","Més de 12 mesos",237
+2022,12,3,"Sants-Montjuïc",16,"la Bordeta","Més de 12 mesos",278
+2022,12,3,"Sants-Montjuïc",17,"Sants - Badal","Més de 12 mesos",288
+2022,12,3,"Sants-Montjuïc",18,"Sants","Més de 12 mesos",558
+2022,12,4,"Les Corts",19,"les Corts","Més de 12 mesos",551
+2022,12,4,"Les Corts",20,"la Maternitat i Sant Ramon","Més de 12 mesos",285
+2022,12,4,"Les Corts",21,"Pedralbes","Més de 12 mesos",59
+2022,12,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Més de 12 mesos",33
+2022,12,5,"Sarrià-Sant Gervasi",23,"Sarrià","Més de 12 mesos",143
+2022,12,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Més de 12 mesos",126
+2022,12,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Més de 12 mesos",175
+2022,12,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Més de 12 mesos",314
+2022,12,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Més de 12 mesos",278
+2022,12,6,"Gràcia",28,"Vallcarca i els Penitents","Més de 12 mesos",191
+2022,12,6,"Gràcia",29,"el Coll","Més de 12 mesos",77
+2022,12,6,"Gràcia",30,"la Salut","Més de 12 mesos",160
+2022,12,6,"Gràcia",31,"la Vila de Gràcia","Més de 12 mesos",542
+2022,12,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Més de 12 mesos",403
+2022,12,7,"Horta-Guinardó",33,"el Baix Guinardó","Més de 12 mesos",312
+2022,12,7,"Horta-Guinardó",34,"Can Baró","Més de 12 mesos",115
+2022,12,7,"Horta-Guinardó",35,"el Guinardó","Més de 12 mesos",527
+2022,12,7,"Horta-Guinardó",36,"la Font d'en Fargues","Més de 12 mesos",160
+2022,12,7,"Horta-Guinardó",37,"el Carmel","Més de 12 mesos",546
+2022,12,7,"Horta-Guinardó",38,"la Teixonera","Més de 12 mesos",186
+2022,12,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Més de 12 mesos",116
+2022,12,7,"Horta-Guinardó",40,"Montbau","Més de 12 mesos",84
+2022,12,7,"Horta-Guinardó",41,"la Vall d'Hebron","Més de 12 mesos",89
+2022,12,7,"Horta-Guinardó",42,"la Clota","Més de 12 mesos",6
+2022,12,7,"Horta-Guinardó",43,"Horta","Més de 12 mesos",480
+2022,12,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Més de 12 mesos",452
+2022,12,8,"Nou Barris",45,"Porta","Més de 12 mesos",437
+2022,12,8,"Nou Barris",46,"el Turó de la Peira","Més de 12 mesos",284
+2022,12,8,"Nou Barris",47,"Can Peguera","Més de 12 mesos",40
+2022,12,8,"Nou Barris",48,"la Guineueta","Més de 12 mesos",330
+2022,12,8,"Nou Barris",49,"Canyelles","Més de 12 mesos",161
+2022,12,8,"Nou Barris",50,"les Roquetes","Més de 12 mesos",349
+2022,12,8,"Nou Barris",51,"Verdun","Més de 12 mesos",268
+2022,12,8,"Nou Barris",52,"la Prosperitat","Més de 12 mesos",491
+2022,12,8,"Nou Barris",53,"la Trinitat Nova","Més de 12 mesos",227
+2022,12,8,"Nou Barris",54,"Torre Baró","Més de 12 mesos",63
+2022,12,8,"Nou Barris",55,"Ciutat Meridiana","Més de 12 mesos",327
+2022,12,8,"Nou Barris",56,"Vallbona","Més de 12 mesos",38
+2022,12,9,"Sant Andreu",57,"la Trinitat Vella","Més de 12 mesos",303
+2022,12,9,"Sant Andreu",58,"Baró de Viver","Més de 12 mesos",44
+2022,12,9,"Sant Andreu",59,"el Bon Pastor","Més de 12 mesos",248
+2022,12,9,"Sant Andreu",60,"Sant Andreu","Més de 12 mesos",1003
+2022,12,9,"Sant Andreu",61,"la Sagrera","Més de 12 mesos",429
+2022,12,9,"Sant Andreu",62,"el Congrés i els Indians","Més de 12 mesos",209
+2022,12,9,"Sant Andreu",63,"Navas","Més de 12 mesos",321
+2022,12,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Més de 12 mesos",578
+2022,12,10,"Sant Martí",65,"el Clot","Més de 12 mesos",440
+2022,12,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Més de 12 mesos",227
+2022,12,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Més de 12 mesos",143
+2022,12,10,"Sant Martí",68,"el Poblenou","Més de 12 mesos",496
+2022,12,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Més de 12 mesos",258
+2022,12,10,"Sant Martí",70,"el Besòs i el Maresme","Més de 12 mesos",592
+2022,12,10,"Sant Martí",71,"Provençals del Poblenou","Més de 12 mesos",373
+2022,12,10,"Sant Martí",72,"Sant Martí de Provençals","Més de 12 mesos",506
+2022,12,10,"Sant Martí",73,"la Verneda i la Pau","Més de 12 mesos",572
+2022,12,99,"No consta",99,"No consta","Més de 12 mesos",18
