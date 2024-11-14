@@ -16,8 +16,9 @@ The github repository contains the following folders:
    - create_knowledgebased.py
    - create_learnt.ipnyb
    - create_hybrid.py
-5. **Results** synthetic samples generated in the cluster.
-6. **Validation** functions to validate the synthetic populations (Wasserstein distances, regression lines and SRMSE).
+5. **Results** output of the models.
+   - *samples*: synthetic populations generated with each model created.
+   - *validation*: analysis to validate the synthetic populations (Wasserstein distances, regression lines and SRMSE).
 
 ## References
 
