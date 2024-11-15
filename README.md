@@ -6,7 +6,7 @@ The final selected synthetic population for Barcelona can be downloaded and info
 - [Download Synthetic_Population_Barcelona_2024.csv](https://github.com/albaaguilera/Population-Synthesis/blob/main/Synthetic_Population_Barcelona_2024.csv)
 - [Visualize Attribute Documentation](https://github.com/albaaguilera/Population-Synthesis/raw/main/attribute_documentation.html)
 
-This repository is based on methods from Aguilera et al. (2024) [1].
+This repository is based on methods from Aguilera et al. (2024) [1, 2].
 
 ## Structure
 The github repository contains the following folders and files: 
@@ -25,5 +25,6 @@ The github repository contains the following folders and files:
 
 ## References
 
-1. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2024). *Value-Enriched Population Synthesis: Integrating a Motivational Layer*. arXiv preprint arXiv:2408.09407. 
+1. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2024). *Value-Enriched Population Synthesis: Integrating a Motivational Layer*. arXiv preprint arXiv:2408.09407.
+2. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2025). *Population Synthesis with Motivational Attributes: \\ A Path Towards Cultural Variation in Agent-Based Models*.
 
