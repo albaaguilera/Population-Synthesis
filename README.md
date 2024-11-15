@@ -4,7 +4,7 @@ A framework that integrates a motivational layer with the traditional individual
 
 The final selected synthetic population for Barcelona can be downloaded and information can be obtained about its attributes using the links below: 
 - [Download Synthetic_Population_Barcelona_2024.csv](https://github.com/albaaguilera/Population-Synthesis/blob/main/Synthetic_Population_Barcelona_2024.csv)
-- [Visualize Attribute Documentation](https://github.com/albaaguilera/Population-Synthesis/raw/main/attribute_documentation.html)
+- [Visualize Attribute Documentation](https://github.com/albaaguilera/Population-Synthesis/blob/main/attribute_documentation.html)
 
 This repository is based on methods from Aguilera et al. (2024) [1, 2].
 
