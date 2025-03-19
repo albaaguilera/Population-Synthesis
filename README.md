@@ -29,5 +29,5 @@ The github repository contains the following folders and files:
 ## References
 
 1. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2024). *Value-Enriched Population Synthesis: Integrating a Motivational Layer*. arXiv preprint arXiv:2408.09407.
-2. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2025). *Population Synthesis with Motivational Attributes: \\ A Path Towards Cultural Variation in Agent-Based Models*.
+2. Aguilera, A., Albertí, M., Osman, N., & Curto, G. (2025). *Population Synthesis with Motivational Attributes: A Path Towards Cultural Variation in Agent-Based Models*.
 
