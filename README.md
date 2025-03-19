@@ -1,6 +1,6 @@
 # Value-Enriched Population-Synthesis
 
-This framework allows you to generate datasets representing an actual population, for social simulation purposes. There is an example for Barcelona in a csv file.:) 
+This framework allows you to generate datasets representing an actual population for social simulation purposes. 👭​👨‍👩‍👦‍👦​​🏠​🏢​​🗾🌏​
 
 This method integrates a motivational layer with the traditional individual and household socio-demographic layers in synthetic populations. We extend the profile of agents by incorporating data on values, ideologies, opinions and vital priorities, which motivate the agents' behaviour. This motivational layer can help us develop a more nuanced decision-making mechanism for the agents in social simulation settings. Our methodology integrates microdata and macrodata within different Bayesian network structures: learnt, knowledge-based and hybrid.
 
